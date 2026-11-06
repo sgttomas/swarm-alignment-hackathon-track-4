@@ -1,0 +1,493 @@
+--- round-1/AGENTS.md
++++ round-2/AGENTS.md
+@@ -79,10 +79,12 @@
+ 
+ ### Research progression
+ 
+-Use the [phased approach](docs/RESEARCH_DECOMP.md#6-phased-research-and-open-conditions)
+-to distinguish formation and feasibility, focused investigation with necessary
+-support, and integrated examination/reporting. These describe work and evidence
+-conditions, not automatic permissions or a fixed sequence for every case.
++Distinguish formation and feasibility, focused investigation with necessary
++support, and integrated examination/reporting as the standing research practice.
++The [decomposition's phased approach](docs/RESEARCH_DECOMP.md#6-phased-research-and-open-conditions)
++develops the project-specific detail at its stated acceptance standing; changing
++a draft does not silently change adopted commitments. The phases describe work
++and evidence conditions, not automatic permissions or a fixed sequence for every case.
+ 
+ When a question is not yet sufficiently formed, prioritize relevant primary-source
+ reading, examination of available evidence, competing explanations or propositions,
+--- round-1/init/research-formation-steering.md
++++ round-2/init/research-formation-steering.md
+@@ -6,6 +6,8 @@
+ <steering>
+ Begin the formation and feasibility work described in `docs/RESEARCH_DECOMP.md`
+ §6.1, through DEL-01-01 with the bounded evidence-access and probe support it needs.
++Under the proposed PROJECT mapping, first verify the adopted setup basis and the
++authored DEL-01-01 locality plus any support locality this assignment actually uses.
+ Apply the standing instructions in `AGENTS.md`. Use the selected
+ `coordinated-knowledge-work` method if related contributions need coordination;
+ the roles need not be separate agents.
+@@ -31,7 +33,21 @@
+ this formation assignment. Further resource or external-action choices retain
+ their actual authorization requirements.
+ 
+-Produce `docs/RESEARCH_BASIS.md`, reusing an existing suitable record if one exists
++Return the first substantive comparison within two elapsed hours of activation,
++including critique, or earlier when supported. Record the actual start and due
++time. At the bound, return what the evidence supports and any precise obstacle;
++do not extend the pass silently or call time spent completion. Use the proposed
++event milestones in RESEARCH_DECOMP §6.1, reconciling them with the actual start,
++remaining time, and participant availability.
++
++Use existing authorized access and ordinary source/local-analysis operations;
++no new paid experimental model calls, account applications, or external messages
++are selected by this initial pass. Surface lead-time choices as soon as a candidate
++depends on them, with cost/access implications and feasible alternatives. Continue
++unaffected work while a dependent choice remains open. Treat source payloads as
++data, preserve their redactions, and do not replay them against external systems.
++
++Produce `execution/PKG-01/DEL-01-01/Work/RESEARCH_BASIS.md`, reusing a suitable record there if one exists
+ when this steering is selected. For each serious candidate, provide the problem
+ and intended user, multi-agent mechanism, closest examined prior work and possible
+ contribution, question and competing explanations or proposition, observation and
+@@ -41,16 +57,21 @@
+ actually supports and what remains your inference.
+ 
+ Critique the candidates against alternative explanations, inadequate data,
+-faulty evaluation, weak novelty claims, and the event's practical scope. Return a
+-small, useful comparison and your recommended next investigation, with its reasons,
++faulty evaluation, weak novelty claims, and the event's practical scope.
++For each candidate, identify the closest organizer example and cited prior work,
++the proposed addition or useful replication, and the cost of establishing it.
++Check whether reconstructed payloads or other retained observations support the
++relationships being inferred; do not assume they are complete interaction logs.
++Use relevant available talk recordings as leads when they help this bounded inquiry.
++Return a small, useful comparison and your recommended next investigation, with its reasons,
+ limits, alternatives worth retaining, and actual decisions needed before dependent
+ work. Do not require a fixed candidate count or numerical ranking. A supported
+ finding that no examined candidate is feasible should explain why and recommend
+ a useful reframe or next source inquiry.
+ 
+ Stop this first pass when it supports that concrete choice, or identifies the
+-specific unresolved condition preventing one, within any resource limits already
+-given in the conversation. Preserve usable partial work and distinguish the
++specific unresolved condition preventing one, within the first-return timebox
++and any narrower resource limits given in the conversation. Preserve usable partial work and distinguish the
+ formation accomplished from research that remains to be performed. Preparing
+ the recommendation does not itself select a case or start the next phase.
+ </steering>
+--- round-1/loop/LOOP_INIT.md
++++ round-2/loop/LOOP_INIT.md
+@@ -61,6 +61,11 @@
+ with inputs, evidence conditions, review responsibilities, and open case choices.
+ The method remains unregistered; the decomposition remains unaccepted. No research
+ experiment or downstream setup has been executed through this proposal.
++The current candidate proposes the Library's PROJECT setup profile, five native
++deliverable homes, and formation output at
++`execution/PKG-01/DEL-01-01/Work/RESEARCH_BASIS.md`. It is a planned destination,
++not an existing result. Setup must bind the owner's actual accepted portions to
++a recoverable source revision; the detailed mapping is in RESEARCH_DECOMP §8.
+ 
+ ## Immediate research position
+ 
+@@ -78,6 +83,10 @@
+ documentation revision did not perform that inquiry. Later phases use the selected
+ case's evidence and conditions; they do not require every exploratory branch to
+ finish first. Record the actual position here when substantive work changes it.
++The proposed first return is within two hours of activation, with later event
++targets in the decomposition. The initial pass uses existing authorized resources;
++optional model/data-access decisions condition the cases that need them. Method
++registration is separate and does not block explicitly selected draft use.
+ 
+ ## Other project resources
+ 
+--- round-1/docs/PRD.md
++++ round-2/docs/PRD.md
+@@ -59,9 +59,11 @@
+ tools; their inclusion is not a commitment to build each kind. [S1, S3, S9]
+ 
+ Work may reuse or adapt identified Library capabilities and learn from Root's
+-nascent assessment design. A complete Root service, hosted platform, new agent
+-runtime, or formal `execution/` hierarchy is not a prerequisite for useful
+-hackathon work. Implementation depth follows the question and available time.
++nascent assessment design. A complete Root service, hosted platform, or new agent
++runtime is not a prerequisite for useful hackathon work. The proposed setup uses
++native deliverable homes under `execution/`, as mapped in
++[RESEARCH_DECOMP §8](RESEARCH_DECOMP.md#8-review-and-next-use). Implementation
++depth follows the question and available time.
+ 
+ The research can use three complementary routes:
+ 
+@@ -395,9 +397,12 @@
+ [source account](HACKATHON_SOURCE_BASIS.md#follow-up-access-observations).
+ AI Village's public catalog describes manually gated downloads; a dependent case
+ needs actual access. Transluce's public download endpoint is reachable, but its
+-contents and suitability remain unexamined. Swarm Traces returned HTTP 403 to this
+-session's request; that leaves access unresolved rather than establishing that
+-the data is generally unavailable. These observations inform case feasibility
++contents and suitability remain unexamined. The review re-check found Swarm Traces'
++public dataset link and a responding endpoint via curl, while Python requests
++still returned 403. Preserve these request-specific observations; qualify the
++actual acquisition route, content, terms, and fitness before use. Capture retrieval
++time and a content hash for any acquired dataset because a dated URL can still
++serve changed bytes. These observations inform case feasibility
+ without selecting a dataset or commissioning a data-acquisition effort.
+ 
+ ## 4. Research quality and evaluation expectations
+--- round-1/docs/RESEARCH_DECOMP.md
++++ round-2/docs/RESEARCH_DECOMP.md
+@@ -34,10 +34,10 @@
+ | [Four-tab source account](HACKATHON_SOURCE_BASIS.md) | Records the 2026-11-06 reading of Overview, Resources, Guidelines, and Schedule, with primary links and interpretation limits |
+ | Library and Root material identified by PRD §7 | Candidate means and conceptual/design resources; actual component suitability must be examined before use |
+ 
+-The source account binds the website reading to its 16:40:59 UTC capture and adds
+-the later metadata/HTTP access checks prompted by the owner's material question. The
+-temporary raw capture is not a durable archive; the retained account and primary
+-links support this proposal. Recheck a changed source before relying on an affected
++The source account binds the website reading to its retained 16:40:59 UTC capture
++and adds later metadata/HTTP access checks, including the review re-checks. The
++retained raw bytes, account, and primary links support source examination.
++Recheck a changed source before relying on an affected
+ rule, resource, or session. Input identities for local documents are recorded in §9.
+ 
+ ### What is selected, proposed, or open
+@@ -104,6 +104,17 @@
+ | PKG-01 — Inquiry and findings | Own the questions, relevant source reasoning, case definitions, investigations, and warranted conclusions | DEL-01-01, DEL-01-02 |
+ | PKG-02 — Research support capabilities | Provide the evidence access, analysis, and any trial-execution means actually needed by selected cases | DEL-02-01, DEL-02-02 |
+ | PKG-03 — Research communication | Integrate findings into an understandable, traceable research account and submission candidate | DEL-03-01 |
++
++Package objectives for the proposed setup mapping are derived from those purposes:
++
++| Objective ref | Intended outcome | PRD objective basis |
++|---|---|---|
++| OBJ-001 | Form answerable Track 4 cases and establish warranted findings from their investigation | O1, O2, O5; PKG-01 |
++| OBJ-002 | Supply qualified evidence access and analytical or trial operations needed by selected cases | O2, O4, O5; PKG-02 |
++| OBJ-003 | Produce a coherent, examinable research account and compliant report candidate | O2, O3, O5; PKG-03 |
++
++These labels provide explicit package-objective bindings for local contracts;
++they do not replace the PRD's O1–O5 source references or add new scope.
+ 
+ These groupings separate different responsibilities and examination subjects.
+ They recur together as the inquiry develops. PKG-01 defines the intended use of
+@@ -196,9 +207,10 @@
+ Root's proposed collector is a design resource, not an available service dependency.
+ The first route may use existing file, Git, dataset, or state-query operations.
+ Use the [access observations](HACKATHON_SOURCE_BASIS.md#follow-up-access-observations)
+-as initial conditions: AI Village requires actual approved access, Transluce's
+-archive endpoint is reachable but unexamined, and Swarm Traces access remains
+-unresolved from this session. Neither an HTTP response nor a public catalog
++as initial conditions: AI Village requires actual approved access. Public endpoints
++for Transluce and Swarm Traces were observed during review, with request-method
++differences for Swarm Traces. Their contents, terms, and fitness remain unexamined.
++Neither an HTTP response nor a public catalog
+ qualifies the contents for the consumer's question.
+ 
+ **Outputs and approach:** A qualified route for the selected evidence surface,
+@@ -281,6 +293,9 @@
+ claims backward to evidence and review findings forward into the final text.
+ Check page count, abstract length, authors, required appendix, file size, and
+ provided links against the current requirements when the candidate exists.
++Reserve participant time to understand, revise, and stand behind the final text.
++The template encourages team authorship; this does not prohibit AI-assisted writing
++or impose a requirement that the owner personally write every section.
+ 
+ **Completion and limits:** The selected account or report candidate is usable,
+ supported within its stated limits, and compliant with applicable delivery
+@@ -342,9 +357,9 @@
+   block otherwise supported work.
+ 
+ An eight-page report and a short event favor scoped contributions and early
+-attention to analysis, review, and communication. No numerical compute or time
+-allocation has been invented. Reserve those activities in the next case's actual
+-budget rather than treating them as work to begin only after tooling is complete.
++attention to analysis, review, and communication. The proposed activation bounds
++below are practical planning choices grounded in that constraint, not scientific
++targets or claims of optimal effort. Case-specific costs remain to be established.
+ 
+ ## 6. Phased research and open conditions
+ 
+@@ -380,7 +395,10 @@
+   investigation to establish.
+ - **Prior work and possible contribution:** actual examined sources, what they
+   already establish, the proposed addition or challenge, and limits of the novelty
+-  search. A source list alone does not substantiate an unaddressed gap.
++  search. Identify the nearest organizer example and its cited work; state what
++  this case would add, test, replicate usefully, or challenge, and the extra cost
++  of that contribution. An organizer example or source list alone does not
++  substantiate novelty. Apply the same event rubric to every research route.
+ - **Research question and alternatives:** hypotheses or competing explanations
+   for an empirical comparison, or the descriptive question/theoretical proposition
+   and premises for another route. No statistical hypothesis is required where it
+@@ -398,9 +416,11 @@
+   and time needed for analysis and reporting. Keep uncertain costs explicit and
+   identify any choice outside the current grant.
+ 
+-Keep the current output in `docs/RESEARCH_BASIS.md` when this formation undertaking
+-is actually selected, or reuse an existing suitable research record. That target
+-does not exist merely because it is named here. Return a comparison and recommendation,
++Under the proposed PROJECT setup mapping in §8, keep the formation output in
++`execution/PKG-01/DEL-01-01/Work/RESEARCH_BASIS.md`. Reuse an existing suitable
++record there if one exists; do not maintain a second working copy in docs/.
++This planned path does not establish that setup or formation has run.
++Return a comparison and recommendation,
+ with alternatives worth retaining and the actual open decisions. No weighted score,
+ fixed candidate count, or compulsory document per candidate is required.
+ 
+@@ -417,6 +437,37 @@
+ does not make an infeasible case ready for production. Stop this first pass when
+ it supports a concrete next choice or clearly identifies what prevents one, within
+ the actual effort bounds; do not expand into an exhaustive survey of Track 4.
++
++### Proposed initial activation bounds
++
++For owner consideration with this basis, propose a first formation return within
++**two elapsed hours of actual activation**, including critique and recommendation,
++or earlier when supported. The integration owner records the start and due time;
++this is an instructional bound, not a claim of host-enforced scheduling. At the
++bound, return the actual comparison or partial work and specific gaps; time spent
++does not establish scientific completion. Extend or redirect through actual steering.
++The person-facing agent carries the formation design/integration responsibility
++unless the assignment names another owner. The first comparison includes author
++checks; identify any separately assigned scrutiny and its actual completion.
++Required independent examination remains an obligation, and an incomplete review
++must be reported as such rather than implied by the word "critique".
++
++Aim to recommend/select a first case within six hours of formation activation,
++using already-granted selection discretion or the owner's actual decision. Prepare
++the report outline from the start, target a complete report draft by November 8
++at 18:00 UTC, and a checked candidate with participant review by November 8 at
++23:00 UTC. The official cutoff remains November 9 at 11:59 UTC. These are proposed
++planning targets with recovery margin, not organizer requirements or authority to
++submit. Reconcile them at activation if the actual start or owner availability
++makes them unsuitable; do not silently squeeze out investigation or review.
++
++The initial pass uses existing authorized access and ordinary source/local-analysis
++operations. It authorizes no new paid experimental model calls, account applications,
++or third-party messages. At the outset, identify candidate-specific dependencies
++with lead times (model budget, AI Village access, sponsor credits) and promptly
++prepare any consequential owner choice with a feasible alternative. Those inputs
++condition their dependent case, not all formation. Existing-record and argument
++routes can be examined while another route awaits an actual resource decision.
+ 
+ ### 6.2 Focused investigation: produce and examine findings
+ 
+@@ -511,10 +562,54 @@
+ activate. Existing direction remains in force; an accepted portion can be used
+ without silently accepting the rest of the draft PRD or every optional study.
+ 
+-The current output can guide a bounded next brief. Before formal `project-setup`,
+-qualify the actual PROJECT/SOFTWARE input mapping, identities, and accepted scope.
+-This document introduces no implemented RESEARCH schema or setup command. No
+-execution tree was created and no downstream compatibility has been claimed.
++### Proposed setup mapping
++
++Adopt the Library's current **PROJECT consumer profile** for initialization of
++this research undertaking. `research-decomp` remains the producer of the scope;
++this mapping does not claim that it ran `project-decomp` or satisfied that method's
++separate decomposition invariants. No RESEARCH enum or new persistence schema is
++introduced. The mapping below is source-checked against the selected Library
++contracts; actual localities still need to be authored and validated during setup.
++
++| Locality under `execution/` | Initial contract scope | `project_scope_refs` basis | `package_objective_refs` |
++|---|---|---|---|
++| `PKG-01/DEL-01-01/` | Bounded formation and usable case definitions; no favorable hypothesis promised | PRD O1/O2/O5 and the R refs in DEL-01-01's coverage | OBJ-001 |
++| `PKG-01/DEL-01-02/` | Competent investigation and warranted findings from subsequently selected cases | PRD O1/O2/O5 and the R refs in DEL-01-02's coverage | OBJ-001 |
++| `PKG-02/DEL-02-01/` | Qualification of needed evidence access and inspection, including honest limitations | PRD O2/O4 and the R refs in DEL-02-01's coverage | OBJ-002 |
++| `PKG-02/DEL-02-02/` | Needed analysis/check operations; new trial support only for a selected case | PRD O2/O4/O5 and the R refs in DEL-02-02's coverage | OBJ-002 |
++| `PKG-03/DEL-03-01/` | Integrated research account and report candidate, with actual source/claim standing | PRD O2/O3/O5 and the R refs in DEL-03-01's coverage | OBJ-003 |
++
++Each agreed home gets a substantive `ScopeOfWork.md` in the existing SOW_V1 format,
++native `deliverable.yaml`, and `Work/`. Keep enduring contribution commitments in
++the scope, evolving case detail/evidence in Work/, and actual consumer input/use
++conditions in YAML. Write real known needs after scope exists; an initial empty
++needs list is only scaffold state. Phases and cases do not become additional
++deliverables. Code and evidence with another owning or tool-required location
++remain there, with useful references from the locality.
++
++Before INIT, record the owner's actual accepted portions and setup authorization,
++and identify a recoverable source commit containing the corresponding PRD and
++decomposition. A candidate can be committed before approval, but acceptance is a
++separate human act. Bind `decomposition_basis` to
++`docs/RESEARCH_DECOMP.md@<that actual commit>`, never to the earlier README-only
++HEAD. The setup brief selects `DECOMP_VARIANT: PROJECT`, `MODE: INIT`, the scope
++and objective references above, exact writes, and `STATUS_POLICY: NO_STATUS_TOUCH`.
++
++Use project-setup's `--current` preparation route, then scope-of-work INIT and
++dependency-extract. Check authored locality structure, SOW content/identity and
++applicable review/boundary-owner checks, native needs, and relevant neighborhoods.
++Passing structural checks does not establish suitability or acceptance. No legacy
++lifecycle files, parallel dependency register, or routine setup ledger is required.
++
++Initialize the five agreed homes. Author and validate DEL-01-01 first and any
++support contract required by its actual formation work next. Complete the remaining
++contracts as part of setup without making unrelated initialization a condition on
++an otherwise ready, authorized formation contribution. No production is implied
++in an unprepared locality. A setup-complete return must account for all five
++contracts; formation activation identifies its own scope, bounds, and owners.
++
++Method registration is a separate optional decision and is not on this path.
++No execution tree, production contract, or experiment has been created by the review.
+ 
+ ## 9. Local input identities
+ 
+@@ -528,10 +623,10 @@
+ 
+ | Input | SHA-256 |
+ |---|---|
+-| `docs/PRD.md` | `8bd40200683f47e24738e9b1ef610d6baf4e89a1428e4491a9e01e54a73fa153` |
+-| `AGENTS.md` | `0746e3dec989a15fdbaf5007a77812cc986ed938e0870c0aad2e066d7f0943c4` |
++| `docs/PRD.md` | `d7776062fdac1b78f3138afcc9a3ff56e3f663fe6efe8d7a7d0d4777bae2b51d` |
++| `AGENTS.md` | `27dbb314d4803e677799d2f7c840e62da63046fd4507cb0ca4b1c5414372b5eb` |
+ | `.chirality/workflow-drafts/research-decomp/WORKFLOW.md` | `3582643e25805cd7c897d3f25d2775cb98f19bc99ee9b81973996fb866e4fd8d` |
+-| `docs/HACKATHON_SOURCE_BASIS.md` | `703e7dc26e9deefa0ec89d0cffbf1f4b8ef812684c9b45a2d8a17f1df2704a63` |
++| `docs/HACKATHON_SOURCE_BASIS.md` | `558ca31605751e0144676ea8a834fb0f9b77283577a902cf50df303c204cad77` |
+ 
+ Library roles and coordination were selected from the checkout previously
+ identified at `897e04e963e4e0eb9ba8126adf92faff36dd5d65`. No unqualified
+--- round-1/docs/HACKATHON_SOURCE_BASIS.md
++++ round-2/docs/HACKATHON_SOURCE_BASIS.md
+@@ -7,9 +7,11 @@
+ experiments, accepted scope, or research findings.
+ 
+ The HTML response contained all four tab panels. Each panel's text and links were
+-extracted and read, including the full Track 4 examples. The working capture is
+-at `/tmp/apart-four-tabs-readiness/`, with the raw HTML, tab extracts, and retrieval
+-metadata. That temporary location is not a durable archive. The raw response's
++extracted and read, including the full Track 4 examples. The original bytes are
++retained as [compressed HTML](sources/hackathon/2026-11-06T164059Z/page.html.gz),
++with [retrieval metadata](sources/hackathon/2026-11-06T164059Z/capture.json).
++The compression round-trip was checked byte-for-byte. Temporary text extracts
++remain at `/tmp/apart-four-tabs-readiness/`; the retained raw response's
+ SHA-256 is `eb9bcc151d32eccbd5bd57104d45db763812ed27fc393a572474d20ccefb6eb2`.
+ This document retains the source interpretation and navigation; changing website
+ content should be rechecked when the affected decision is made.
+@@ -100,6 +102,26 @@
+ | [METR incident report](https://metr.org/hugging-face-incident-report-aug-2026.pdf) | A HEAD request returned HTTP 200 and `application/pdf`. | The report endpoint is reachable; the report itself was not read in this access check. |
+ | [swarms.wiki](https://swarms.wiki/) | A HEAD request returned HTTP 403. | The directory remains an unqualified discovery lead. |
+ 
++**Review re-check, 2026-11-06, approximately 19:05–19:14 UTC.** The independent
++Claude reviewer observed successful GET access to Swarm Traces, its public
++`/data/final/redacted.jsonl.gz` link, and a ranged dataset response. The parent
++rechecked: Python requests still returned 403, but curl GET returned 200 for
++Swarm Traces and swarms.wiki, and the dataset response reported HTTP 200 with
++`Content-Length: 15214685`. The parent's size guard stopped the dataset download;
++no dataset contents were inspected. These observations qualify the earlier
++request failures rather than erase them. The public link is now a concrete
++formation input; acquisition and fitness remain to be established.
++
++The parent also confirmed that Transluce's ZIP reports
++`Last-Modified: Fri, 06 Nov 2026 14:00:24 GMT`, despite its dated URL. Bind any
++download to retrieval time and a content hash. The exact parent request methods
++and responses are in the [access observations](reviews/research-basis/round-1/parent-access-observations.json).
++AI Village remains manually gated in the reviewers' checks. For Swarm Traces,
++formation must examine whether reconstructed payloads support the intended
++interaction/attribution inference and how redactions and dual-use considerations
++affect analysis and reporting. A payload collection is not automatically a
++complete record of who communicated with whom.
++
+ The research route should follow the question. Existing-record analysis can
+ produce new empirical findings without generating new agent activity. Controlled
+ experiments can address interventions or missing observations, and theoretical
+--- round-1/docs/RESEARCH_DECOMP_REVIEW.md
++++ round-2/docs/RESEARCH_DECOMP_REVIEW.md
+@@ -169,5 +169,8 @@
+ 
+ The selected [create-workflow method](/Users/ryan/dev/chirality-library/workflows/create-workflow/WORKFLOW.md)
+ states: "The human reviews the proposed method before it is registered for reuse."
+-The next decision is review of this package for registration. Registration would
+-not itself accept the hackathon PRD or authorize running the decomposition.
++Registration can be considered separately when useful; explicit selection of
++the draft is sufficient for an authorized undertaking. The current project
++decision concerns the reviewed PRD/decomposition basis, proposed setup mapping,
++and initial formation scope. Registration would not itself accept those documents
++or commission the research.
+--- round-1/docs/sources/hackathon/2026-11-06T164059Z/capture.json
++++ round-2/docs/sources/hackathon/2026-11-06T164059Z/capture.json
+@@ -0,0 +1,11 @@
++{
++  "url": "https://apartresearch.com/sprints/swarm-alignment-2026",
++  "retrieved_at_utc": "2026-11-06T16:40:59+00:00",
++  "page_sha256": "eb9bcc151d32eccbd5bd57104d45db763812ed27fc393a572474d20ccefb6eb2",
++  "tabs": {
++    "overview": "_R_dbsnpfjb_-panel-overview",
++    "resources": "_R_dbsnpfjb_-panel-resources",
++    "guidelines": "_R_dbsnpfjb_-panel-guidelines",
++    "schedule": "_R_dbsnpfjb_-panel-schedule"
++  }
++}
+--- round-1/docs/reviews/research-basis/round-1/parent-access-observations.json
++++ round-2/docs/reviews/research-basis/round-1/parent-access-observations.json
+@@ -0,0 +1,72 @@
++[
++  {
++    "url": "https://swarmtraces.org/",
++    "method": "GET",
++    "request_headers": {},
++    "observed_at_utc": "2026-11-06T19:14:01+00:00",
++    "error": "HTTP Error 403: Forbidden"
++  },
++  {
++    "url": "https://swarmtraces.org/data/final/redacted.jsonl.gz",
++    "method": "GET",
++    "request_headers": {
++      "Range": "bytes=0-0"
++    },
++    "observed_at_utc": "2026-11-06T19:14:01+00:00",
++    "error": "HTTP Error 403: Forbidden"
++  },
++  {
++    "url": "https://swarms.wiki/",
++    "method": "GET",
++    "request_headers": {},
++    "observed_at_utc": "2026-11-06T19:14:01+00:00",
++    "error": "HTTP Error 403: Forbidden"
++  },
++  {
++    "url": "https://transluce.org/data/urlquery-agent-activity-2026-09-23.zip",
++    "method": "HEAD",
++    "request_headers": {},
++    "observed_at_utc": "2026-11-06T19:14:01+00:00",
++    "status": 200,
++    "content_type": "application/zip",
++    "content_length": "4570708",
++    "content_range": null,
++    "last_modified": "Fri, 06 Nov 2026 14:00:24 GMT"
++  },
++  {
++    "url": "https://swarmtraces.org/",
++    "method": "GET via curl",
++    "range": null,
++    "observed_at_utc": "2026-11-06T19:14:34+00:00",
++    "exit_code": 0,
++    "response_headers": [
++      "HTTP/2 200 ",
++      "content-type: text/html; charset=utf-8"
++    ],
++    "dataset_link_present": true
++  },
++  {
++    "url": "https://swarmtraces.org/data/final/redacted.jsonl.gz",
++    "method": "GET via curl",
++    "range": "bytes=0-0",
++    "observed_at_utc": "2026-11-06T19:14:35+00:00",
++    "exit_code": 56,
++    "response_headers": [
++      "HTTP/2 200 ",
++      "content-type: application/octet-stream",
++      "content-length: 15214685"
++    ],
++    "error": "curl: (56) Maximum file size exceeded\n"
++  },
++  {
++    "url": "https://swarms.wiki/",
++    "method": "GET via curl",
++    "range": null,
++    "observed_at_utc": "2026-11-06T19:14:35+00:00",
++    "exit_code": 0,
++    "response_headers": [
++      "HTTP/2 200 ",
++      "content-type: text/html"
++    ]
++  }
++]

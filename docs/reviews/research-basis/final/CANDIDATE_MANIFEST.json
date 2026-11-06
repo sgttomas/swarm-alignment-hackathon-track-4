@@ -1,0 +1,138 @@
+{
+  "candidate": "research-basis-final",
+  "captured_at_utc": "2026-11-06T19:40:56+00:00",
+  "standing": "Candidate pending owner acceptance; two independent review rounds plus parent-backchecked small final clarifications",
+  "decision_subjects": [
+    "docs/PRD.md",
+    "docs/RESEARCH_DECOMP.md"
+  ],
+  "independent_review_basis": "research-basis-round-2",
+  "project_root": "/Users/ryan/working/hackathons/apart-Nov-26",
+  "files": [
+    {
+      "path": ".chirality/workflow-drafts/research-decomp/WORKFLOW.md",
+      "sha256": "3582643e25805cd7c897d3f25d2775cb98f19bc99ee9b81973996fb866e4fd8d",
+      "role": "supporting"
+    },
+    {
+      "path": ".chirality/workflow-drafts/research-decomp/execution.json",
+      "sha256": "355ed5f4d297a96f76bba8870cb421acf7e48a3c3f9bb6283756de19677e096c",
+      "role": "supporting"
+    },
+    {
+      "path": ".chirality/workflow-drafts/research-decomp/resources/walkthroughs.md",
+      "sha256": "c996104090d0dfa2465b223601ca6afbe92110fad89b169614af0f4b07685fc0",
+      "role": "supporting"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "27dbb314d4803e677799d2f7c840e62da63046fd4507cb0ca4b1c5414372b5eb",
+      "role": "supporting"
+    },
+    {
+      "path": "README.md",
+      "sha256": "ea488fad5f9d3930765fe41e4bac105c09317a2b8e4da1b9bb2bd7c161d780ef",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/HACKATHON_SOURCE_BASIS.md",
+      "sha256": "558ca31605751e0144676ea8a834fb0f9b77283577a902cf50df303c204cad77",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/PRD.md",
+      "sha256": "d0ffef70106e4483faa20fcdf9f89745231b06649dca4bacf824935ebe1d75fc",
+      "role": "decision_subject"
+    },
+    {
+      "path": "docs/RESEARCH_DECOMP.md",
+      "sha256": "1c4115a532ce8628a99a9899721edc5679e474814b8ced441384ff79fe3e43dd",
+      "role": "decision_subject"
+    },
+    {
+      "path": "docs/RESEARCH_DECOMP_REVIEW.md",
+      "sha256": "bd465f05873599a27eff7525efdafd962a651086c4ea877dd29d877117580894",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/reviews/research-basis/CONVERGENCE.md",
+      "sha256": "19124b7844a69b2476cc0edce79c0cfefed00a6a6ee922585b93c75f1f3f40f6",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/reviews/research-basis/REVIEW_BRIEF.md",
+      "sha256": "4d136dd91c88071ee7b77ce100a977f1fa08cfdc47446d6c4b339dc71d4268da",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/reviews/research-basis/round-1/CANDIDATE_MANIFEST.json",
+      "sha256": "b889d2c4435360717afa098072a84e9a0da5d024943704dca11ebcc0dfc73c25",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/reviews/research-basis/round-1/PARENT_DISPOSITION.md",
+      "sha256": "17e805f06f9c17ef46e1211e7b631b6190a67c3d16395cf010b22fb56ea587bb",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/reviews/research-basis/round-1/claude-review.md",
+      "sha256": "53c70a7509d8b1b37218ef0852ccdc32f4e6bc2f674ea14a9f8ff48953ad4103",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/reviews/research-basis/round-1/codex-review.md",
+      "sha256": "c252cd7e9aa3eb578601a77f0f9bd5fa3cf6ac5599d7b41b5255ff57f8349112",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/reviews/research-basis/round-1/parent-access-observations.json",
+      "sha256": "64782b2bdd80496b15803afca2f5504ab532526cd83bf6427e993b2410232480",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/reviews/research-basis/round-2/PARENT_DISPOSITION.md",
+      "sha256": "96726ce978c21eb17b5cae44f28c3970dd7447ec945f2683634d10fc4c9cae1b",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/reviews/research-basis/round-2/claude-review.md",
+      "sha256": "35bdd9062422bbf74b6659c7845c3856c17e970c4fab7f4656b4989e4d3eeee0",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/reviews/research-basis/round-2/codex-review.md",
+      "sha256": "6069342013c3cbe4954803fdd1403a7abfad634f84af1092e71281f10975263e",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/sources/hackathon/2026-11-06T164059Z/capture.json",
+      "sha256": "71f71134a4d983d1714726d535f9517a78ae561e8fb7594b556153cdd96646b2",
+      "role": "supporting"
+    },
+    {
+      "path": "docs/sources/hackathon/2026-11-06T164059Z/page.html.gz",
+      "sha256": "299005fa3508454e5f838f4378516a7ba64b79bd23e675eb1196c3a8be1dc0af",
+      "role": "supporting"
+    },
+    {
+      "path": "init/init-prompt.md",
+      "sha256": "06c0b967d73a03adfd85cef49bed32c3318489a8e760c1106f48ea03dcc1a680",
+      "role": "supporting"
+    },
+    {
+      "path": "init/research-formation-steering.md",
+      "sha256": "4777841d021282d11301a11a985d7cd4fdc891849335261dae453167b03d0c45",
+      "role": "supporting"
+    },
+    {
+      "path": "init/steering-template.md",
+      "sha256": "570a74a37f02348bdfad05a4d0fa5560c8f3d67e54011ac1ebef14dd0df9819a",
+      "role": "supporting"
+    },
+    {
+      "path": "loop/LOOP_INIT.md",
+      "sha256": "d174cecb63e7cc5a7ead2937d51aeca1843b8f180f1e77712b5ebb3ae3577d4e",
+      "role": "supporting"
+    }
+  ]
+}

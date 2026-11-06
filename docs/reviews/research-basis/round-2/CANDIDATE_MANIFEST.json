@@ -1,0 +1,72 @@
+{
+  "candidate": "research-basis-round-2",
+  "captured_at_utc": "2026-11-06T19:22:49+00:00",
+  "standing": "Revised unaccepted candidate; no setup or research execution",
+  "predecessor": "research-basis-round-1",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "ea488fad5f9d3930765fe41e4bac105c09317a2b8e4da1b9bb2bd7c161d780ef"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "27dbb314d4803e677799d2f7c840e62da63046fd4507cb0ca4b1c5414372b5eb"
+    },
+    {
+      "path": "init/init-prompt.md",
+      "sha256": "06c0b967d73a03adfd85cef49bed32c3318489a8e760c1106f48ea03dcc1a680"
+    },
+    {
+      "path": "init/steering-template.md",
+      "sha256": "570a74a37f02348bdfad05a4d0fa5560c8f3d67e54011ac1ebef14dd0df9819a"
+    },
+    {
+      "path": "init/research-formation-steering.md",
+      "sha256": "e928617177c006bf81121bedc83978e5a41b476ffac3d18827f7bf606224c775"
+    },
+    {
+      "path": "loop/LOOP_INIT.md",
+      "sha256": "bf8ce90257cd033031bc8f6438e1bfb438f7921fd3ec71b158f3f0ae1f8b90bc"
+    },
+    {
+      "path": "docs/PRD.md",
+      "sha256": "d7776062fdac1b78f3138afcc9a3ff56e3f663fe6efe8d7a7d0d4777bae2b51d"
+    },
+    {
+      "path": "docs/RESEARCH_DECOMP.md",
+      "sha256": "95c7c2f5dbadd39b064d0b6378188b0970293de1c407c8c7a8d879f7b1834a47"
+    },
+    {
+      "path": "docs/HACKATHON_SOURCE_BASIS.md",
+      "sha256": "558ca31605751e0144676ea8a834fb0f9b77283577a902cf50df303c204cad77"
+    },
+    {
+      "path": "docs/RESEARCH_DECOMP_REVIEW.md",
+      "sha256": "bd465f05873599a27eff7525efdafd962a651086c4ea877dd29d877117580894"
+    },
+    {
+      "path": ".chirality/workflow-drafts/research-decomp/WORKFLOW.md",
+      "sha256": "3582643e25805cd7c897d3f25d2775cb98f19bc99ee9b81973996fb866e4fd8d"
+    },
+    {
+      "path": ".chirality/workflow-drafts/research-decomp/execution.json",
+      "sha256": "355ed5f4d297a96f76bba8870cb421acf7e48a3c3f9bb6283756de19677e096c"
+    },
+    {
+      "path": ".chirality/workflow-drafts/research-decomp/resources/walkthroughs.md",
+      "sha256": "c996104090d0dfa2465b223601ca6afbe92110fad89b169614af0f4b07685fc0"
+    },
+    {
+      "path": "docs/sources/hackathon/2026-11-06T164059Z/page.html.gz",
+      "sha256": "299005fa3508454e5f838f4378516a7ba64b79bd23e675eb1196c3a8be1dc0af"
+    },
+    {
+      "path": "docs/sources/hackathon/2026-11-06T164059Z/capture.json",
+      "sha256": "71f71134a4d983d1714726d535f9517a78ae561e8fb7594b556153cdd96646b2"
+    },
+    {
+      "path": "docs/reviews/research-basis/round-1/parent-access-observations.json",
+      "sha256": "64782b2bdd80496b15803afca2f5504ab532526cd83bf6427e993b2410232480"
+    }
+  ]
+}

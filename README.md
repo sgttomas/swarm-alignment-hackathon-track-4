@@ -4,17 +4,23 @@ This repository is a workspace for research and project activities during [Apart
 
 The hackathon explores alignment challenges that emerge when AI agents interact—for example, when they negotiate, trade, or share tools. This workspace is intended to hold the ideas, experiments, code, and findings developed during the event.
 
-## Research directions
+## Research direction
 
-The hackathon includes four tracks:
+This project focuses on **Track 4: Multi-Agent Oversight and Control**. We are
+developing participant workflows and tooling to explore covert coordination,
+completion claims versus actual state, failure diagnosis from incomplete evidence,
+and controls for cooperating agents. Specific investigations will develop through
+the work, with room to follow other fruitful questions within this track.
 
-- Sandboxes and testbeds
-- The science of agent networks
-- Strengthening agent infrastructure
-- Multi-agent oversight and control
-
-The specific research question and approach for this repository are still to be determined.
+The Chirality Library and Root's nascent observability work provide conceptual
+and practical resources. Research conclusions must be supported by their stated
+principles, reasoning, and evidence.
 
 ## Project status
 
-This is an initial workspace. Setup instructions, experiment details, and results will be added as the project develops.
+The [draft PRD](docs/PRD.md) describes event requirements and the proposed research
+support. The [proposed research decomposition](docs/RESEARCH_DECOMP.md) organizes
+that work into inquiry and findings, research support capabilities, and research
+communication. No experiments or executable support tools have been implemented
+in this workspace yet. Setup instructions, experiment details, and results will
+be added as the project develops.

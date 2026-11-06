@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://swarmtraces.org/",
+    "method": "GET",
+    "request_headers": {},
+    "observed_at_utc": "2026-11-06T19:14:01+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://swarmtraces.org/data/final/redacted.jsonl.gz",
+    "method": "GET",
+    "request_headers": {
+      "Range": "bytes=0-0"
+    },
+    "observed_at_utc": "2026-11-06T19:14:01+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://swarms.wiki/",
+    "method": "GET",
+    "request_headers": {},
+    "observed_at_utc": "2026-11-06T19:14:01+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://transluce.org/data/urlquery-agent-activity-2026-09-23.zip",
+    "method": "HEAD",
+    "request_headers": {},
+    "observed_at_utc": "2026-11-06T19:14:01+00:00",
+    "status": 200,
+    "content_type": "application/zip",
+    "content_length": "4570708",
+    "content_range": null,
+    "last_modified": "Fri, 06 Nov 2026 14:00:24 GMT"
+  },
+  {
+    "url": "https://swarmtraces.org/",
+    "method": "GET via curl",
+    "range": null,
+    "observed_at_utc": "2026-11-06T19:14:34+00:00",
+    "exit_code": 0,
+    "response_headers": [
+      "HTTP/2 200 ",
+      "content-type: text/html; charset=utf-8"
+    ],
+    "dataset_link_present": true
+  },
+  {
+    "url": "https://swarmtraces.org/data/final/redacted.jsonl.gz",
+    "method": "GET via curl",
+    "range": "bytes=0-0",
+    "observed_at_utc": "2026-11-06T19:14:35+00:00",
+    "exit_code": 56,
+    "response_headers": [
+      "HTTP/2 200 ",
+      "content-type: application/octet-stream",
+      "content-length: 15214685"
+    ],
+    "error": "curl: (56) Maximum file size exceeded\n"
+  },
+  {
+    "url": "https://swarms.wiki/",
+    "method": "GET via curl",
+    "range": null,
+    "observed_at_utc": "2026-11-06T19:14:35+00:00",
+    "exit_code": 0,
+    "response_headers": [
+      "HTTP/2 200 ",
+      "content-type: text/html"
+    ]
+  }
+]
