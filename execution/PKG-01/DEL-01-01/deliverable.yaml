@@ -1,0 +1,58 @@
+# Consumer-local input/use conditions; no satisfaction or research-readiness state is asserted.
+id: DEL-01-01
+name: Research basis and bounded case definitions
+needs:
+- from: external:owner
+  condition: Ryan supplies actual research steering that clears the post-setup hold and identifies the
+    selected undertaking, discretion, resources and return. Approval of the source documents or initialized
+    files alone does not clear that hold.
+  when: Before any research production under this deliverable.
+  gating: true
+  evidence: docs/APPROVAL.md#authorized-setup-and-latest-hold
+- from: doc:docs/HACKATHON_SOURCE_BASIS.md
+  condition: The Overview, Resources, Guidelines and Schedule supply identified context, candidate leads,
+    event constraints and timing. Recheck the affected primary source when current wording or availability
+    matters; site examples and access headers are not novelty or data-fitness evidence.
+  when: When framing candidates, selecting source leads or planning against event requirements.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#1-purpose-basis-and-scope-standing
+- from: unknown
+  condition: Relevant primary research, data descriptions or arguments must be selected and examined far
+    enough to establish what a serious candidate would add, test, usefully replicate or challenge. Specific
+    source bindings are not selected at setup.
+  when: Before making a case-specific prior-work, novelty, inference or feasibility claim.
+  gating: false
+  evidence: execution/PKG-01/DEL-01-01/ScopeOfWork.md#deliverable-definition--ontology
+- from: DEL-02-01
+  condition: A bounded preliminary access/coverage/sample qualification supports the candidate observation
+    need, with actual source, permitted use, identity/time semantics, gaps and feasibility limits. A whole
+    evidence platform or complete support deliverable is not required.
+  when: When recommending a candidate whose inference depends on retained, source, host or state observations.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-02-01
+  condition: A material evidence-source or transformation finding identifies what changed and which framing/inference
+    conditions it undermines, so the affected candidate basis can be reconsidered.
+  when: When qualification or later consumption exposes a consequential source, coverage or observation
+    defect.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-02-02
+  condition: A named analytical or execution feasibility probe returns its identified inputs, method,
+    actual result and limits sufficient to settle the candidate uncertainty. New trial generation or a
+    general runtime is not presumed.
+  when: Only when an existing operation or small probe is needed to judge a serious candidate.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-01-02
+  condition: Investigation findings identify the contrary evidence, failed premise, changed criterion
+    or unresolved explanation that warrants revising a case definition, preserving the earlier basis.
+  when: When a selected case materially changes the research question, interpretation or method.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-03-01
+  condition: A synthesis critique identifies a specific unsupported added inference, incompatible condition
+    or lost qualification and the needed response from the case-definition owner.
+  when: When integration reveals a material defect in the framing or prior-work account.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration

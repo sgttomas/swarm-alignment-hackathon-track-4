@@ -1,13 +1,16 @@
 # Track 4 research — proposed decomposition
 
-**Status:** Working proposal for owner review; phased research and formation criteria clarified; not accepted.  
+**Status:** Accepted by the owner on 2026-11-06.
+
+**Acceptance:** [Owner decision and approved source identity](APPROVAL.md), containing source commit `3a73e382ac01d80bb3b1ac8790b88faeeecd9ae6`. Current standing annotations leave that accepted scope intact. Research remains on the owner's explicit hold after setup.
+
 **Date:** 2026-11-06.  
 **Owner:** Ryan.  
 **Authoring contribution:** HELPS_HUMANS, with HELP_HUMAN continuity in this session.
 
 The owner directed proceeding with `research-decomp` using the current PRD and
 all four hackathon website tabs. This document applies the explicitly selected
-local draft method to that undertaking. It proposes five deliverables in three
+local draft method to that undertaking. The owner accepted five deliverables in three
 flat packages. Their boundaries and identifiers support discussion and subsequent
 work; no research case, tool implementation, or experiment has been completed by
 writing this proposal.
@@ -21,14 +24,14 @@ bring the useful contribution into the hackathon's research-report format.
 
 The owner's established direction is Track 4, broad exploration, development of
 useful participant support, and the six-element architecture in the project entry.
-The particular questions, artifacts, and criteria below develop that direction
-as proposals. The PRD's complete contents remain draft requirements rather than
-an already accepted production contract.
+The accepted contribution boundaries and research standards govern setup.
+Particular case questions, artifacts and parameters remain open or conditional
+as stated; approval did not establish a selected hypothesis or research finding.
 
 | Basis | Use and standing |
 |---|---|
 | Owner steering, including “proceed accordingly” | Authorizes preparing this proposed decomposition under the previously established direction |
-| [PRD](PRD.md), especially O1–O5 and R01–R22 | Current intended outcomes, proposed support capabilities, and sourced event constraints; full PRD acceptance remains open |
+| [PRD](PRD.md), especially O1–O5 and R01–R22 | Current intended outcomes, proposed support capabilities, and sourced event constraints; owner acceptance and setup direction are recorded in APPROVAL.md |
 | [AGENTS.md](../AGENTS.md) and [project entry](../loop/LOOP_INIT.md) | Standing research/review instructions, authority, current orientation, and selected coordination practice |
 | [Local research-decomp draft](../.chirality/workflow-drafts/research-decomp/WORKFLOW.md) | Explicitly selected authoring method; its use here does not establish catalog registration or general efficacy |
 | [Four-tab source account](HACKATHON_SOURCE_BASIS.md) | Records the 2026-11-06 reading of Overview, Resources, Guidelines, and Schedule, with primary links and interpretation limits |
@@ -45,7 +48,7 @@ rule, resource, or session. Input identities for local documents are recorded in
 - **Selected direction:** Track 4 inquiry and participant support; evidence-based
   conclusions; standing review instructions in AGENTS.md; coordination through
   `coordinated-knowledge-work` when related contributions need it.
-- **Proposed work structure:** the five deliverables below, implemented only to
+- **Accepted work structure:** the five deliverables below, implemented only to
   the extent needed by selected investigations and the agreed result.
 - **Open:** specific study selection, hypotheses, datasets, models, interfaces,
   budgets, numerical targets, detailed protocols, and final publication choices.
@@ -97,7 +100,7 @@ clear purpose and grounds for its own synthesis; a summary alone should not be
 presented as a newly established empirical result. Select the route and necessary
 support from the question rather than assuming an experimental runtime must be built.
 
-## 3. Proposed packages and deliverables
+## 3. Accepted packages and deliverables
 
 | Package | Purpose | Deliverables |
 |---|---|---|
@@ -421,7 +424,7 @@ For each serious candidate, produce a concise case brief containing:
 Under the proposed PROJECT setup mapping in §8, keep the formation output in
 `execution/PKG-01/DEL-01-01/Work/RESEARCH_BASIS.md`. Reuse an existing suitable
 record there if one exists; do not maintain a second working copy in docs/.
-This planned path does not establish that setup or formation has run.
+This is the adopted output home. Setup prepares its locality; no formation output exists yet, and research remains held.
 Return a comparison and recommendation,
 with alternatives worth retaining and the actual open decisions. No weighted score,
 fixed candidate count, or compulsory document per candidate is required.
@@ -559,13 +562,13 @@ bounds practical; the structure alone does not enforce time or produce quality.
 
 ## 8. Review and next use
 
-No acceptance decision has yet been made on this decomposition. The reviewable
-choice is whether these contribution boundaries and their input/examination
-conditions are a useful basis for the next work, and which initial scope to
-activate. Existing direction remains in force; an accepted portion can be used
-without silently accepting the rest of the draft PRD or every optional study.
+The owner accepted this decomposition and the PRD and authorized project-setup,
+complete scopes, and dependency mapping. The actual decision is in APPROVAL.md.
+The latest direction requires holding before research activation. Optional studies,
+case-specific conditions, and reserved external/resource decisions retain their
+stated meaning; acceptance does not commission every candidate study.
 
-### Proposed setup mapping
+### Adopted setup mapping
 
 Adopt the Library's current **PROJECT consumer profile** for initialization of
 this research undertaking. `research-decomp` remains the producer of the scope;
@@ -615,14 +618,17 @@ Method registration is a separate optional decision and is not on this path.
 Research activation follows actual owner steering, AGENTS.md, and the selected
 coordinated-knowledge-work practice. The Library's separate package-activation
 and software-activation production routes are not selected by this setup mapping.
-No execution tree, production contract, or experiment has been created by the review.
+The subsequent setup creates and checks the five localities under the owner's direction. The project entry and setup basis state the actual completion and
+hold; no research experiment or formation inquiry has been performed by setup.
 
-## 9. Local input identities
+## 9. Local input identities recorded for the accepted candidate
 
 The repository HEAD at preparation was
 `c8401beef9854e3472aa0a07b24c65672bb7d231`; it contains only the initial README
 commit, not the uncommitted input documents below. These hashes identify the
-local bytes used for this revision; the cited paths remain mutable. This revision
+local bytes used for the accepted review candidate before the current standing
+annotations; recover them at the containing approved source commit. The cited
+working paths remain mutable. This revision
 makes the initial formation work, phase progression, and case-readiness conditions
 explicit. The five deliverable identifiers and their package allocation are
 preserved; no final hypothesis, research route, or dataset is selected here.

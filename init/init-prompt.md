@@ -17,6 +17,8 @@ boundaries, including the division of responsibilities among the project's
 standing instructions, entry, steering, decomposition, and coordination methods.
 Identify the current research position and the next useful contribution from
 actual work: formation/feasibility, focused investigation, or synthesis/reporting.
+Honor the latest owner hold in the project entry; initialized scopes or a prepared
+steering file do not activate research.
 Await the owner's separate steering when none has been supplied. If an actual
 undertaking is already selected in the conversation, continue within that
 direction. Initialization alone selects no undertaking and grants no acceptance

@@ -25,72 +25,72 @@ Decomposition and coordination are selected according to the work rather than
 run as compulsory stages of every session. The PRD and research artifacts supply
 the purpose, commitments, and evidence used through these methods.
 
-## Current basis
+## Accepted authority and source basis
 
-The owner wants participant workflows and tooling that support exploratory
-research, following fruitful paths without prematurely selecting one question.
-Current directions include covert coordination, completion claims versus actual
-state, failure diagnosis with incomplete evidence, and controls for cooperating
-agents; further angles can emerge. Research results must be explained from the
-principles and facts supporting them. Chirality supplies conceptual orientation
-and candidate means, not independent evidence for those results.
-Depending on the question, research may analyze existing records, run controlled
-experiments, develop an argument or method, or combine these routes. New agent
-trials are conditional. The source account records the current data-access
-observations and their limits.
+The owner accepted [PRD.md](../docs/PRD.md) and
+[RESEARCH_DECOMP.md](../docs/RESEARCH_DECOMP.md) and commissioned complete setup.
+[APPROVAL.md](../docs/APPROVAL.md) records the actual direction and accepted source
+hashes. The containing source commit is
+`3a73e382ac01d80bb3b1ac8790b88faeeecd9ae6`; the scopes bind that actual revision.
+Current document standing annotations do not replace the accepted bytes or record.
 
-[The draft PRD](../docs/PRD.md) captures that direction, sourced event
-requirements, participant support capabilities, candidate methods/tools, and
-open case-specific decisions. The full PRD remains unaccepted; selected direction
-and actual conversation authorization retain their scope. No hackathon research
-results or executable support tools are established yet.
+The selected focus remains Track 4, with open directions including coordination,
+completion reports versus state, failure diagnosis, and control of cooperating
+agents. The working framing is oversight under incomplete, unreliable, or distributed
+evidence. No final case, hypothesis, dataset, model or research finding has been
+established. Chirality supplies methods and conceptual resources; conclusions must
+rest on their actual principles, facts, reasoning and evidence.
 
-Use all four event tabs as sources. The
-[hackathon source account](../docs/HACKATHON_SOURCE_BASIS.md) distinguishes the
-Overview's context, Resources' research leads, Guidelines' requirements, and
-Schedule's timing and learning opportunities. It records the examined basis and
-the conditions still open before case-specific execution.
+Use all four event tabs. The [source account](../docs/HACKATHON_SOURCE_BASIS.md)
+distinguishes Overview context, Resources leads, Guidelines requirements and
+Schedule timing, and preserves access observations with their limits. The
+[two-round review](../docs/reviews/research-basis/CONVERGENCE.md) preceded the actual
+owner decision. The local research-decomp method remains an explicitly usable,
+unregistered draft; registration is separate from this setup.
 
-The owner requested a project-local research decomposition method using
-`create-workflow` with HELPS_HUMANS involved. The resulting
-[research-decomp draft](../.chirality/workflow-drafts/research-decomp/WORKFLOW.md)
-and its [design/review account](../docs/RESEARCH_DECOMP_REVIEW.md) remain available
-for registration review. The owner subsequently selected this draft explicitly
-to prepare the [first proposed decomposition](../docs/RESEARCH_DECOMP.md) from the
-PRD and all four website tabs. It proposes three packages and five deliverables,
-with inputs, evidence conditions, review responsibilities, and open case choices.
-The method remains unregistered; the decomposition remains unaccepted. No research
-experiment or downstream setup has been executed through this proposal.
-The current candidate proposes the Library's PROJECT setup profile, five native
-deliverable homes, and formation output at
-`execution/PKG-01/DEL-01-01/Work/RESEARCH_BASIS.md`. It is a planned destination,
-not an existing result. Setup must bind the owner's actual accepted portions to
-a recoverable source revision; the detailed mapping is in RESEARCH_DECOMP §8.
-The [two-round independent review](../docs/reviews/research-basis/CONVERGENCE.md)
-converged on recommending adoption, with small final clarifications backchecked
-by the parent. The owner has not yet accepted the candidate or authorized setup
-and formation through that review.
+## Initialized deliverable homes
 
-## Immediate research position
+All five deliverables use the adopted current PROJECT profile:
 
-The next substantive undertaking is **formation and feasibility** under
-[RESEARCH_DECOMP §6](../docs/RESEARCH_DECOMP.md#6-phased-research-and-open-conditions).
-The current material supplies an operating basis and source leads. It has not yet
-established a distinctive, answerable case through primary-source examination and
-inspection of the relevant data or argument. The working framing is oversight of
-agent swarms under incomplete, unreliable, or distributed evidence; it remains a
-guide for forming questions, not a confirmed research hypothesis.
+| Deliverable | Contract | Consumer needs |
+|---|---|---|
+| DEL-01-01 — Research basis and bounded case definitions | [ScopeOfWork](../execution/PKG-01/DEL-01-01/ScopeOfWork.md) | [deliverable.yaml](../execution/PKG-01/DEL-01-01/deliverable.yaml) |
+| DEL-01-02 — Investigations and supported findings | [ScopeOfWork](../execution/PKG-01/DEL-01-02/ScopeOfWork.md) | [deliverable.yaml](../execution/PKG-01/DEL-01-02/deliverable.yaml) |
+| DEL-02-01 — Evidence access and inspection | [ScopeOfWork](../execution/PKG-02/DEL-02-01/ScopeOfWork.md) | [deliverable.yaml](../execution/PKG-02/DEL-02-01/deliverable.yaml) |
+| DEL-02-02 — Analysis and optional trial support | [ScopeOfWork](../execution/PKG-02/DEL-02-02/ScopeOfWork.md) | [deliverable.yaml](../execution/PKG-02/DEL-02-02/deliverable.yaml) |
+| DEL-03-01 — Integrated research account and report candidate | [ScopeOfWork](../execution/PKG-03/DEL-03-01/ScopeOfWork.md) | [deliverable.yaml](../execution/PKG-03/DEL-03-01/deliverable.yaml) |
 
-The [prepared formation steering](../init/research-formation-steering.md) requests
-a bounded first pass, candidate case briefs, critique, and a recommendation. The
-owner can send it after orientation or explicitly select it by path. The current
-documentation revision did not perform that inquiry. Later phases use the selected
-case's evidence and conditions; they do not require every exploratory branch to
-finish first. Record the actual position here when substantive work changes it.
-The proposed first return is within two hours of activation, with later event
-targets in the decomposition. The initial pass uses existing authorized resources;
-optional model/data-access decisions condition the cases that need them. Method
-registration is separate and does not block explicitly selected draft use.
+Each home includes `Work/` for evolving reasoning, case definitions, evidence,
+analysis and returns. It currently contains only a folder marker. Scopes own the
+contribution commitments; YAML owns consumer input/use conditions. Six currently
+unknown source/environment/examiner bindings are explicit because no case is
+selected. Conditional feedback cycles are valid relationships, not a requirement
+to finish every deliverable before another can start. Input suitability is not
+established by parsing, file presence or an empty/complete-looking status.
+
+The [setup basis](../execution/_Coordination/SETUP_BASIS.md) identifies selected
+methods, source, bounded authoring assignments and checks. The
+[independent verification](../execution/_Coordination/SETUP_REVIEW.md) records the
+one narrow completeness-coverage repair and its parent backcheck. All five scopes,
+authored localities, deterministic checklist bindings, boundary-owner checks and
+native declarations have passed their applicable mechanical checks.
+
+## Immediate position — research held
+
+**Setup is complete. Hold for further owner instructions before research.** This
+is the owner's latest explicit direction, including formation and feasibility.
+Do not start primary-source/novelty inquiry, dataset inspection/acquisition for a
+research case, experiments, manuscript production, or the formation clock.
+
+When the owner supplies further research steering, the next proposed undertaking
+is formation and feasibility under the accepted decomposition §6.1. The
+[prepared formation steering](../init/research-formation-steering.md) describes
+candidate case briefs and a reasoned recommendation, with a first return within
+two hours of actual activation. It remains unselected. Its planned output is
+`execution/PKG-01/DEL-01-01/Work/RESEARCH_BASIS.md`; that research artifact does not
+yet exist. Reconcile the actual start, resources, authorship preference and event
+targets when research is authorized. Cases can later use existing records,
+controlled trials, argument or synthesis according to their actual evidence needs.
 
 ## Other project resources
 

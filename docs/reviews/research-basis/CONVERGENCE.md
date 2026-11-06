@@ -2,7 +2,9 @@
 
 **Status:** Converged after two rounds. Both requested reviewers and the parent
 recommend adoption of the revised research operating/setup basis. Small final
-clarifications were parent-backchecked. Owner acceptance remains outstanding.
+clarifications were parent-backchecked. The owner subsequently accepted the PRD
+and decomposition and authorized setup; research is held for further instructions.
+See [the actual decision](../../APPROVAL.md).
 
 The owner authorized two independent reviewers with specified models and effort,
 and up to three rounds of reconciliation with the parent. No acceptance decision

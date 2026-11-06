@@ -1,0 +1,46 @@
+# Consumer-local input/use conditions; no satisfaction or research-readiness state is asserted.
+id: DEL-01-02
+name: Investigations and supported findings
+needs:
+- from: external:owner
+  condition: Ryan supplies actual research steering that clears the post-setup hold and identifies the
+    selected undertaking, discretion, resources and return. Approval of the source documents or initialized
+    files alone does not clear that hold.
+  when: Before any research production under this deliverable.
+  gating: true
+  evidence: docs/APPROVAL.md#authorized-setup-and-latest-hold
+- from: DEL-01-01
+  condition: An identified selected case brief supplies the question, multi-agent mechanism, route, premises/alternatives,
+    intended inference, actual criteria, observation/evaluation access, resource conditions and review
+    route. A selected adequate case may be used while other formation branches remain open.
+  when: Before dependent case execution, analysis or claimed confirmation.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-02-01
+  condition: The selected evidence is available and suitable for the actual case use, with source/observation
+    identity, transformations, relevant timing, coverage and uncertainty explicit. Reconstructed payloads
+    and missing records retain their actual limits.
+  when: Before relying on those observations and when a relevant source or observation condition changes.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-02-02
+  condition: The consumed analysis, check, derivation or trial operation has a qualified interface and
+    relevant correctness/evaluator evidence for this case, with actor/monitor/evaluation information separated
+    and failures/comparison limits retained.
+  when: When the investigation relies on a supplied analytical or execution operation.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: unknown
+  condition: A competent examiner or independent evidence/derivation provides the scrutiny required by
+    the selected claim, with actual scope, grounds, findings and independence limits. The actual examiner/source
+    is not appointed at setup.
+  when: Before reliance on a case finding whose numerical, logical, causal or other consequential claim
+    requires separate scrutiny.
+  gating: false
+  evidence: execution/PKG-01/DEL-01-02/ScopeOfWork.md#completion-and-reliance-basis--epistemology
+- from: DEL-03-01
+  condition: The report/synthesis owner returns a specific claim-evidence or compatibility finding requiring
+    case repair or clarification, including the affected version and intended use.
+  when: When integration exposes a material defect in an investigation finding.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration

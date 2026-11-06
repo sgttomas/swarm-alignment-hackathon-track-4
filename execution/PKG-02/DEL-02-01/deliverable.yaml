@@ -1,0 +1,50 @@
+# Consumer-local input/use conditions; no satisfaction or research-readiness state is asserted.
+id: DEL-02-01
+name: Evidence access and inspection
+needs:
+- from: external:owner
+  condition: Ryan supplies actual research steering that clears the post-setup hold and identifies the
+    selected undertaking, discretion, resources and return. Approval of the source documents or initialized
+    files alone does not clear that hold.
+  when: Before any research production under this deliverable.
+  gating: true
+  evidence: docs/APPROVAL.md#authorized-setup-and-latest-hold
+- from: DEL-01-01
+  condition: A preliminary candidate question and consumer distinction identify what evidence/state/interaction
+    must be inspectable and why. Full formation completion is unnecessary for a bounded access or observation
+    probe.
+  when: Before choosing or qualifying a source route for that candidate.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: unknown
+  condition: The selected evidence supplier/interface provides actual permitted access, source identity
+    and meaning, relevant structure and observation limitations. The case-specific supplier is not bound
+    at setup; public catalogs and URL responses alone do not satisfy the condition.
+  when: Before claiming a qualified acquisition/inspection route or relying on captured contents.
+  gating: false
+  evidence: execution/PKG-02/DEL-02-01/ScopeOfWork.md#deliverable-definition--ontology
+- from: doc:docs/HACKATHON_SOURCE_BASIS.md
+  condition: Recorded source/endpoint observations identify leads and known constraints to investigate,
+    including manual gating and client-specific responses. Verify the actual access route, contents and
+    terms for the selected use instead of assuming those historical observations remain current.
+  when: When selecting a listed incident/data source for qualification.
+  gating: false
+  evidence: docs/HACKATHON_SOURCE_BASIS.md#follow-up-access-observations
+- from: DEL-02-02
+  condition: An analytical consumer supplies its actual input/identity/time semantics and a material observed
+    interface mismatch where those change evidence qualification.
+  when: When an analytical operation consumes the evidence or reveals a source/transform defect.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-01-02
+  condition: A case-level observation failure identifies the affected source, use, version and competing
+    explanation needed to investigate a capture/coverage/state discrepancy.
+  when: When investigation exposes a material evidence-route problem.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-03-01
+  condition: A source/view representation issue in the integrated account is identified with the affected
+    claim and its required evidence distinction.
+  when: When synthesis requires correction or qualification of the evidence description.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration

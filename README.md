@@ -18,9 +18,10 @@ principles, reasoning, and evidence.
 
 ## Project status
 
-The [draft PRD](docs/PRD.md) describes event requirements and the proposed research
-support. The [proposed research decomposition](docs/RESEARCH_DECOMP.md) organizes
+The [accepted PRD](docs/PRD.md) describes event requirements and conditional research
+support. The [accepted research decomposition](docs/RESEARCH_DECOMP.md) organizes
 that work into inquiry and findings, research support capabilities, and research
-communication. No experiments or executable support tools have been implemented
-in this workspace yet. Setup instructions, experiment details, and results will
-be added as the project develops.
+communication. All five native deliverable homes now have substantive scopes, consumer-local
+needs, and Work/ folders. See the [project entry](loop/LOOP_INIT.md) for their
+locations and verification. Research is held pending further owner instructions;
+formation and experiments have not started.

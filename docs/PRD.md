@@ -1,6 +1,9 @@
 # Swarm Alignment Hackathon — Draft Product Requirements Document
 
-**Status:** Working draft for owner discussion; not accepted.  
+**Status:** Accepted by the owner on 2026-11-06.
+
+**Acceptance:** [Owner decision and approved source identity](APPROVAL.md). The exact accepted text is preserved at commit `3a73e382ac01d80bb3b1ac8790b88faeeecd9ae6`; current standing annotations do not change its research requirements.
+
 **Revision:** 2026-11-06.  
 **Owner:** Ryan.  
 **Basis:** Owner steering, event requirements, Library foundations, and Root's
@@ -34,7 +37,7 @@ provide the evidential basis of a research conclusion. The report must make its
 definitions, assumptions, reasoning, observations, and limits understandable to a
 reader who does not adopt Chirality. [S9–S11]
 
-### Draft objectives
+### Accepted objectives
 
 The objectives combine the event's expectations with the owner's selected
 direction. Findings will refine the particular contributions pursued.
@@ -60,7 +63,7 @@ tools; their inclusion is not a commitment to build each kind. [S1, S3, S9]
 
 Work may reuse or adapt identified Library capabilities and learn from Root's
 nascent assessment design. A complete Root service, hosted platform, or new agent
-runtime is not a prerequisite for useful hackathon work. The proposed setup uses
+runtime is not a prerequisite for useful hackathon work. The adopted setup uses
 native deliverable homes under `execution/`, as mapped in
 [RESEARCH_DECOMP §8](RESEARCH_DECOMP.md#8-review-and-next-use). Implementation
 depth follows the question and available time.
@@ -192,7 +195,8 @@ responsibilities and current locations. Standing research and review standards
 live in `AGENTS.md`; steering selects the particular undertaking and examination
 needs. The two workflows define research contributions and coordinate their
 execution as needed. This PRD supplies project intent and capability requirements;
-its full acceptance and the local workflow's registration remain separate.
+the owner has accepted the PRD/decomposition and commissioned setup. Local method
+registration remains separate, and research is held pending further owner instructions.
 
 ### 2.7 Formation before dependent investigation
 
@@ -222,7 +226,7 @@ R01–R12 come from the event or its linked template and terms.
 They describe preparation of a compliant submission if the owner elects to submit.
 They do not authorize an external submission or imply that one has occurred.
 References identify source locations in §7; future checks are summarized in §5.
-R13–R22 develop the participant support requested by the owner. They are draft
+R13–R22 develop the participant support requested by the owner. They are accepted conditional
 capability requirements, not claims that those capabilities are implemented.
 
 ### 3.1 Report and supporting evidence
@@ -255,7 +259,7 @@ Author and contact details remain to be supplied by the team.
 
 - The Overview says participants submit a report "with your code." The detailed
   Guidelines explicitly make a public repository optional, and the template
-  permits work without code or with information-hazard constraints. This draft
+  permits work without code or with information-hazard constraints. This PRD
   therefore requires the research report and leaves code publication optional.
 - The template recommends four pages; the Guidelines recommend four to eight and
   set an eight-page maximum. Four pages is guidance, not an additional cap.
@@ -376,7 +380,7 @@ research route has been exercised in this workspace.
 
 | Participant need | Existing resource | Fit and remaining work |
 |---|---|---|
-| Organize the research undertaking | Project-local [research-decomp draft](../.chirality/workflow-drafts/research-decomp/WORKFLOW.md) | Authored with HELPS_HUMANS using create-workflow; explicitly used to prepare the [first proposed decomposition](RESEARCH_DECOMP.md). The method remains unregistered and the decomposition unaccepted. See the [design/review account](RESEARCH_DECOMP_REVIEW.md). |
+| Organize the research undertaking | Project-local [research-decomp draft](../.chirality/workflow-drafts/research-decomp/WORKFLOW.md) | Authored with HELPS_HUMANS using create-workflow; explicitly used to prepare the [first proposed decomposition](RESEARCH_DECOMP.md). The method remains unregistered; the owner accepted the decomposition and commissioned setup, with research held until further instructions. See the [design/review account](RESEARCH_DECOMP_REVIEW.md). |
 | Frame a useful investigation | Library [define-work](/Users/ryan/dev/chirality-library/workflows/define-work/WORKFLOW.md) | Produces the smallest useful definition; does not require a deliverable hierarchy. Adapt a brief to the research question. |
 | Integrate related contributions | Library [coordinated-knowledge-work](/Users/ryan/dev/chirality-library/workflows/coordinated-knowledge-work/WORKFLOW.md) | Selected project coordination practice, applied with AGENTS.md's research standards and the current steering. A single bounded investigation can remain with one contributor. |
 | Reconsider a question or method | Library [reflect-on-work](/Users/ryan/dev/chirality-library/workflows/reflect-on-work/WORKFLOW.md) | Starts from a concrete finding and examines its implications with the participant. |
@@ -412,7 +416,7 @@ The site does not specify weights or a minimum passing score. These dimensions
 inform the eventual research design; they do not establish a guaranteed score,
 prize, or fellowship outcome. [S3: Judging Criteria]
 
-| Dimension | What the judges examine | Implication for this draft |
+| Dimension | What the judges examine | Implication for this project |
 |---|---|---|
 | Impact Potential & Innovation | Importance of the problem, novelty relative to existing work, and potential contribution to the field | Explain the question's relevance, closest prior work, and what the weekend adds |
 | Execution Quality | Sound methodology and implementation, interpretable findings, validation, and acknowledged limitations | Select evidence and checks appropriate to the actual claim; retain failed or inconclusive findings honestly |
@@ -505,7 +509,7 @@ including Track 4's extended examples and timing/resource considerations.
 | S5 | [Official report template linked by Guidelines](https://docs.google.com/document/d/1_1_27EyZriMlc8n8EBE2YScaeyMjm-8xjR097nmHXAE/copy?usp=sharing) | Read through its plain-text export; report structure and usage instructions examined, visual formatting not verified |
 | S6 | [Sprint submission and prize terms](https://apartresearch.com/sprints/prize-terms) | Submission license and team agreement; prize-payment administration is outside the research-product requirements |
 | S7 | [Chirality Library PRD](/Users/ryan/dev/chirality-library/docs/PRD.md) | Structural example for outcome, objectives, requirements, verification, open choices, and inputs; its own commitments are not imported |
-| S8 | [Library software-prd workflow](/Users/ryan/dev/chirality-library/workflows/software-prd/WORKFLOW.md) and its contract, method, and product-question resources | Guidance for draft authoring; full candidate review, acceptance, and handoff have not been performed |
+| S8 | [Library software-prd workflow](/Users/ryan/dev/chirality-library/workflows/software-prd/WORKFLOW.md) and its contract, method, and product-question resources | Authoring guidance; the owner subsequently accepted this PRD after the documented independent review. No software-decomp handoff is selected |
 | S9 | Owner steering in this conversation on 2026-11-06; [local agent instructions](../AGENTS.md) and [project entry](../loop/LOOP_INIT.md) | Selects Track 4, participant workflows/tooling, broad exploration of all four named problems and further angles, and research conclusions explained from their principles and facts |
 | S10 | Library thesis [Philosophical Framework, §§3.1–3.6](/Users/ryan/dev/chirality-library/docs/thesis/03_philosophical_framework.md), [Epistemic Architecture](/Users/ryan/dev/chirality-library/docs/thesis/05_epistemic_architecture.md), and [source/warrant account](/Users/ryan/dev/chirality-library/docs/thesis/README.md) | Conceptual orientation: distinctions among work, representation, evidence, action, and judgment; the thesis itself limits its empirical claims |
 | S11 | [Chirality in Practice, chapters 2, 3, 5, 6, and 12](/Users/ryan/dev/chirality-library/docs/alignment-manual/Chirality_in_Practice_Edition_1.md) | Purpose, source interpretation, coordination, evidence, reflection, and burden; explanatory material that does not add project obligations by itself |
@@ -528,8 +532,8 @@ PRD candidate. The candidate read for S12 has SHA-256
 The path locates the mutable source; the hash identifies the observed content
 and does not guarantee future recovery of an uncommitted file.
 
-The next use is to refine and implement useful research support under the owner's
-steering, beginning with a bounded case and expanding as findings warrant. The
-research direction is selected; the complete PRD remains a draft. Requirement
-references organize its intent and event constraints without allocating work or
-establishing acceptance. External submission remains a separate owner decision.
+The owner accepted this PRD and the research decomposition and authorized complete
+setup. The approval record binds the actual source bytes; the decomposition
+allocates the contributions. Research and external submission await their actual
+owner instructions. The project entry identifies the initialized localities and
+the latest hold.

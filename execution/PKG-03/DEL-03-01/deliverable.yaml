@@ -1,0 +1,66 @@
+# Consumer-local input/use conditions; no satisfaction or research-readiness state is asserted.
+id: DEL-03-01
+name: Integrated research account and report candidate
+needs:
+- from: external:owner
+  condition: Ryan supplies actual research steering that clears the post-setup hold and identifies the
+    selected undertaking, discretion, resources and return. Approval of the source documents or initialized
+    files alone does not clear that hold.
+  when: Before any research production under this deliverable.
+  gating: true
+  evidence: docs/APPROVAL.md#authorized-setup-and-latest-hold
+- from: DEL-01-01
+  condition: The current identified research basis gives the selected question, multi-agent mechanism,
+    relevant prior work and actual contribution scope, with exploratory/conditional standing and criteria
+    changes preserved. Preliminary material can support an honestly labeled outline.
+  when: When drafting the problem, related-work, method or contribution account.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-01-02
+  condition: Each case finding entering the account supplies its actual evidence/argument, conditions,
+    analysis, counterevidence, uncertainty and review/repair standing. No broader inference or completed
+    coverage is implied by a returned fragment.
+  when: Before including or relying on that research claim, and after a material correction.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-02-01
+  condition: Evidence/source descriptions and any inspection views retain actual capture/identity/time/coverage
+    limits and required source locators, enough to support the method and evidence account.
+  when: When the report describes or relies on an observation/inspection route.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-02-02
+  condition: Analytical/trial/derivation descriptions and supplied values are bound to actual input/configuration/criteria,
+    correctness and resource observations, with unsupported uses and costs explicit.
+  when: When the report describes an operation or cites its outputs, validation or burden.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: doc:docs/HACKATHON_SOURCE_BASIS.md
+  condition: Current Guidelines, official linked template, submission interface and Schedule support report
+    formatting, attribution, ethical appendix, metadata, deadline and replacement conditions. Recheck
+    affected current primary rules before final compliance claims.
+  when: When preparing or checking the actual report candidate or any later authorized submission.
+  gating: false
+  evidence: docs/PRD.md#31-report-and-supporting-evidence
+- from: external:authors
+  condition: The actual team supplies correct names/affiliations and relevant contribution/AI-use facts;
+    Ryan selects the drafting/revision allocation. Any later submission uses the named members actual
+    agreement to the stated terms.
+  when: Before finalizing author metadata/disclosure, and before a later authorized submission.
+  gating: false
+  evidence: docs/PRD.md#32-submission-interface-and-timing
+- from: unknown
+  condition: Appropriate examination of the combined argument and saved PDF supplies actual findings,
+    scope and independence limits. The examiner is assigned under the actual report/review brief, not
+    invented at setup.
+  when: Before returning the selected checked report candidate for reliance.
+  gating: false
+  evidence: execution/PKG-03/DEL-03-01/ScopeOfWork.md#completion-and-reliance-basis--epistemology
+- from: external:owner
+  condition: Return the identified examined report candidate, its supported contribution and material
+    open conditions to Ryan for the actual decision. This outward handoff does not authorize submission
+    or publication.
+  when: When the report candidate is returned under later research steering.
+  gating: false
+  evidence: execution/PKG-03/DEL-03-01/ScopeOfWork.md#deliverable-definition--ontology
+  direction: downstream

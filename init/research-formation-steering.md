@@ -3,6 +3,10 @@
 **Prepared for selection by the owner.** Send this after orientation, or explicitly
 direct the agent to read and execute it. Its presence does not start the work.
 
+**Current activation standing:** Research is held by the latest owner direction
+in `docs/APPROVAL.md` and the project entry. Further owner instructions must select
+research execution; setup completion alone does not execute this prepared prompt.
+
 <steering>
 Begin the formation and feasibility work described in `docs/RESEARCH_DECOMP.md`
 §6.1, through DEL-01-01 with the bounded evidence-access and probe support it needs.

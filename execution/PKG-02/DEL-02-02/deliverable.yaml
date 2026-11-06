@@ -1,0 +1,50 @@
+# Consumer-local input/use conditions; no satisfaction or research-readiness state is asserted.
+id: DEL-02-02
+name: Analysis and optional trial support
+needs:
+- from: external:owner
+  condition: Ryan supplies actual research steering that clears the post-setup hold and identifies the
+    selected undertaking, discretion, resources and return. Approval of the source documents or initialized
+    files alone does not clear that hold.
+  when: Before any research production under this deliverable.
+  gating: true
+  evidence: docs/APPROVAL.md#authorized-setup-and-latest-hold
+- from: DEL-01-01
+  condition: The selected case or named feasibility question supplies required analytical meaning, criteria,
+    comparison/premise conditions, permissible variation, information boundaries and resource limits,
+    sufficient to justify the operation.
+  when: Before selecting, implementing or qualifying an analytical/check/trial route.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-02-01
+  condition: Consumed inputs have the identity, structure, timing, permission and coverage needed by the
+    operation, including explicit missing or ambiguous records and source transformation limits.
+  when: When an operation consumes qualified evidence or its relevant source conditions change.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: unknown
+  condition: The selected permitted runtime, implementation or tool source supplies actual dependencies,
+    versions, input/output/effect semantics and resource bounds. No model/provider or new runtime has
+    been selected at setup.
+  when: Before executing or promising a route whose behavior depends on that environment or component.
+  gating: false
+  evidence: execution/PKG-02/DEL-02-02/ScopeOfWork.md#deliverable-definition--ontology
+- from: unknown
+  condition: The selected correctness/reference route provides an appropriate known answer, independent
+    derivation, legitimate-success/failure case or other claim-specific grounds, including scrutiny of
+    the evaluator itself. The actual oracle/examiner binding remains open.
+  when: Before claiming numerical/logical correctness or validity that depends on those grounds.
+  gating: false
+  evidence: execution/PKG-02/DEL-02-02/ScopeOfWork.md#completion-and-reliance-basis--epistemology
+- from: DEL-01-02
+  condition: An actual consumer finding identifies an operation, criterion binding, evaluator or reproduction
+    defect and its case consequence so the owning operation can be repaired and backchecked.
+  when: When selected investigation exposes a material analytical or execution issue.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
+- from: DEL-03-01
+  condition: A synthesis finding identifies a mismatch between a described method/result and the qualified
+    operation or its actual observations.
+  when: When integration exposes a material method, numerical meaning or resource-reporting issue.
+  gating: false
+  evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
