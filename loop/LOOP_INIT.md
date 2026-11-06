@@ -21,6 +21,9 @@ The owner selected the following six elements as the architecture for this work:
 
 The init prompt loads the standing instructions and this context. The owner then
 steers the undertaking; existing steering continues to apply if already supplied.
+The starting instance is HELP_HUMAN acting as Agent 0. Its purpose, continuity,
+Agent 1/2 relationships and dispatch responsibilities are stated in project
+AGENTS.md and the selected Library role instructions.
 Decomposition and coordination are selected according to the work rather than
 run as compulsory stages of every session. The PRD and research artifacts supply
 the purpose, commitments, and evidence used through these methods.
@@ -77,16 +80,26 @@ native declarations have passed their applicable mechanical checks.
 
 ## Immediate position — research held
 
-**Setup is complete. Hold for further owner instructions before research.** This
-is the owner's latest explicit direction, including formation and feasibility.
+**Setup is complete. Hold for further owner instructions before research.** At
+this recorded position, that is the owner's latest research direction, including
+formation and feasibility.
 Do not start primary-source/novelty inquiry, dataset inspection/acquisition for a
 research case, experiments, manuscript production, or the formation clock.
+
+An owner's later explicit instruction to execute the formation steering clears
+this earlier hold for that bounded pass and its stated support. Reading the file
+for orientation or assessment does not. Once the owner actually selects it, record
+that instruction and the pass's actual start/due time in its owning work, update
+this current-position section, and proceed within that grant without requesting
+the same authorization again. The original approval/hold record remains historical.
 
 When the owner supplies further research steering, the next proposed undertaking
 is formation and feasibility under the accepted decomposition §6.1. The
 [prepared formation steering](../init/research-formation-steering.md) describes
 candidate case briefs and a reasoned recommendation, with a first return within
-two hours of actual activation. It remains unselected. Its planned output is
+two hours of actual activation. It includes explicit fresh-session reads, work
+boundaries, activation/recovery instructions and return criteria. It remains
+unselected by this documentation assessment. Its planned output is
 `execution/PKG-01/DEL-01-01/Work/RESEARCH_BASIS.md`; that research artifact does not
 yet exist. Reconcile the actual start, resources, authorship preference and event
 targets when research is authorized. Cases can later use existing records,

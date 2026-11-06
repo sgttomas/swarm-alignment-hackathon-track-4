@@ -4,9 +4,11 @@ Resolve `REPO_ROOT` with `git rev-parse --show-toplevel` and verify that it is
 this project. Set `LIBRARY_ROOT` to `/Users/ryan/dev/chirality-library`.
 
 Read `{REPO_ROOT}/AGENTS.md` and
-`{LIBRARY_ROOT}/agents/AGENT_HELP_HUMAN.md`. Act as `HELP_HUMAN` for this
-project. Read and follow `{REPO_ROOT}/loop/LOOP_INIT.md`. Load other roles,
-workflows, and tools when the undertaking needs them.
+`{LIBRARY_ROOT}/agents/AGENT_HELP_HUMAN.md`. Start as `HELP_HUMAN` in the capacity
+of Agent 0 for this project, retaining purpose, alignment and continuity with
+the owner. Read and follow `{REPO_ROOT}/loop/LOOP_INIT.md`. Use the Agent 0/1/2
+responsibilities in the project AGENTS.md; load other role, workflow and tool
+instructions when the undertaking needs them.
 
 The owner's steering and local project instructions govern this project. The
 shared library supplies roles, methods, and tools; its own development and

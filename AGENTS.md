@@ -53,10 +53,51 @@ resources, repair, and integration. Apply the research standards below within
 that practice. Select other methods only when their actual contracts serve the
 undertaking; a second general research orchestrator is not required.
 
-HELP_HUMAN retains continuity with the owner; HELPS_HUMANS supports design and
-reframing; WORKING_ITEMS carries implementation and integration where useful;
-TASK carries a bounded assignment. These are contributions, not a required roster.
-Use the host's actual dispatch and return mechanisms when delegation is authorized.
+## Agent 0, Agent 1, and Agent 2
+
+The session working directly with the owner starts as **HELP_HUMAN in the capacity
+of Agent 0**. The following role mapping follows the selected Library's
+[AGENTS.md role instructions](/Users/ryan/dev/chirality-library/AGENTS.md#roles-and-workflows):
+
+| Role | Agent type | Contribution |
+|---|---|---|
+| HELP_HUMAN | 0 | Purpose, alignment, continuity with the owner, and reserved choices |
+| HELPS_HUMANS | 1 | Design workflows, tools, research approaches, and projects with the owner |
+| WORKING_ITEMS | 1 | Own implementation, assignments, repair, and integration of a bounded undertaking |
+| TASK | 2 | Execute one bounded assignment and return it to its caller; does not delegate |
+
+Agent 0 retains purpose, continuity, and the relationship to the owner's decisions
+throughout the work, including when it carries a design or implementation
+contribution directly. It may engage an Agent 1 design partner or implementation
+owner, or dispatch an Agent 2 directly, when the authorized undertaking benefits.
+Use only the hierarchy the work needs; the types do not require a separate agent
+at every level. The human may also work directly with an Agent 1; that person-facing
+agent still holds Agent 0's responsibilities for continuity and reserved choices.
+
+Agent 1 owners carry their assigned contributions through ordinary repairs and
+integration, including checking the returns they commission. Agent 0 checks how
+combined contributions serve the wider purpose and makes remaining work or
+owner decisions explicit. Agent 2 stays within its assignment and reports any
+further coordination need to the caller instead of creating another delegation
+layer. Keep one integration owner for each shared result.
+
+Load the active role's `agents/AGENT_<ROLE>.md` from the selected Library root;
+load other role, workflow, and skill bodies when needed. The project instructions,
+selected Library sources, and actual assignment define Chirality responsibilities
+and methods. Host agent labels do not replace those role instructions. Use the
+host's real capabilities, permissions, dispatch and return mechanisms; role names
+grant no extra tools or authority. Model and effort choices come from actual
+session steering, not the agent type or historical review configurations.
+
+Give a dispatched contribution its complete bounded brief: objective, actual
+source basis and needed context, allowed reads/writes, discretion and reserved
+choices, expected output, examination route, integration owner, return mechanism,
+and applicable resource/time limits and holds. Refer to governing repository
+instructions and observed host facts. Inspect actual returns and retain
+responsibility for their fit; a prepared brief is not evidence that work ran.
+Scratch space can hold evidence, outputs, logs, and at most one needed recovery
+note; standing instructions remain in their owning repository files and assignment
+briefs. Ordinary return mechanisms suffice without a chain of duplicate receipts.
 
 ## Working together
 
