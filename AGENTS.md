@@ -237,3 +237,32 @@ inspect what actually ran and exists before repeating an uncertain operation.
 The owner decides the project's direction and acceptance. Follow the owner's
 instructions and applicable host rules for external actions, publication, and
 other reserved decisions.
+
+## Git and pull requests
+
+For this repository, agents may commit, push, open, update and merge pull requests
+within authorized work after proportionate verification and required checks pass
+on the exact head. Explicit holds and reserved owner decisions still apply. This
+grant does not authorize research, publication of research, event submission,
+releases, protection bypasses, history rewrites, force pushes, or permission changes.
+Host permissions and the owner's instructions bound every operation.
+
+Run `uv run --python 3.13 tools/checks.py` before committing or publishing changes;
+[README.md](README.md#repository-checks) documents dependencies and coverage.
+Require the GitHub **Repository checks** result to pass on the revision being
+integrated, alongside any focused checks needed for the change.
+
+Use `main` as the integration branch and an author prefix such as `codex/` or
+`claude/` for task branches. Use a merge commit unless the pull request or owning
+undertaking selects another strategy within its authority. Preserve unrelated work,
+stage only the intended change, and retain truthful authorship. Use a host-prepared
+checkout when supplied; otherwise isolate when requested or overlap or risk warrants
+it. Inspect the actual diff and affected checks before publishing, and verify the
+source head before integration.
+
+The pull request explains what changed, why, what was checked, the checked revision,
+material findings and what remains open; quote the owner's words for reserved
+decisions where relevant. Reuse applicable evidence and checks when the change and
+remaining concerns warrant it. A separate Git workflow or routine receipt is not
+required. Keep credentials, private data and restricted source material out of any
+remote repository; observe the actual terms and permissions for research sources.
