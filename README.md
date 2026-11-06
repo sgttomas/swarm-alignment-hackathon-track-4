@@ -25,3 +25,39 @@ communication. All five native deliverable homes now have substantive scopes, co
 needs, and Work/ folders. See the [project entry](loop/LOOP_INIT.md) for their
 locations and verification. Research is held pending further owner instructions;
 formation and experiments have not started.
+
+## Repository checks
+
+Run the same checks used by GitHub Actions from this checkout:
+
+```sh
+uv run --python 3.13 tools/checks.py
+```
+
+Install [uv](https://docs.astral.sh/uv/) first if needed. The first run downloads
+Python dependencies, a separate clean Chirality Library checkout at revision
+`897e04e963e4e0eb9ba8126adf92faff36dd5d65`, and Gitleaks 8.30.0 with a recorded
+SHA-256 check. The Library is cached outside the project under
+`~/.cache/swarm-alignment-checks/` so its deliverables cannot enter project
+queries; Gitleaks is cached under ignored `.cache/`. Subsequent runs reuse them. To use an existing clean Library checkout at that revision, add
+`--library /path/to/chirality-library`. The active working Library is never reset.
+
+Checks cover native deliverable declarations, SOW_V1 scope structure and boundary
+owner references, conflict markers, changed code/config whitespace, credentials
+(including compressed captures), and the check runner's focused tests. They scan
+tracked and non-ignored untracked files; ignored files are outside the scan.
+Historical review artifacts and source captures are excluded from marker and
+whitespace checks, but remain in the credential scan. Markdown spacing is left
+alone because double spaces encode hard breaks. Findings redact credential values.
+These checks do not establish research validity or evaluate dependency conditions;
+unknown bindings and conditional cycles remain visible observations.
+
+Use `--base origin/main` to check whitespace changes against the integration
+branch. Before publishing previously local history, add `--scan-history` to scan
+all commits reachable from HEAD as well as current files. Ordinary runs scan
+current files; GitHub runs on PRs, pushes to `main`, and manual dispatch, using
+the PR base or prior push revision. No experiment or paid model call runs in CI.
+As research code appears, add focused tests with small redistributable fixtures.
+
+Agents must run these checks before committing or publishing changes and resolve
+failures before merging. GitHub reports a single **Repository checks** status.
