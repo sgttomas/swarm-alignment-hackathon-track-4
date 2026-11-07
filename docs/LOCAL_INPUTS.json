@@ -1,0 +1,2508 @@
+{
+  "standing": "Local-only acquired inputs, source copies and raw records. Original contents remain at these paths locally and in the private preserved case package; they are excluded from this public Git history.",
+  "preservation_record": "docs/WORKED_CASE.md",
+  "recovery_manifest_sha256": "9605d65a66de80ce7a3ecd0fec8773111e73418bed8874bd3ce32e4694dfd2bf",
+  "public_metadata": "Acquisition sidecars and source accounts retain source URLs, versions, hashes and coverage. Local relative source links in reports may name these excluded inputs.",
+  "files": [
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/adaptive.headers",
+      "bytes": 600,
+      "sha256": "d36c3e58ba01fb16794cff20af94c625c61d8a6482b5df8b74130820d1e61259"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/adaptive.html",
+      "bytes": 663689,
+      "sha256": "132886889eae507c2cb74541f990c6f35417f3cde2e9c12d8190fd6dea4d4856"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/adaptive.txt",
+      "bytes": 138105,
+      "sha256": "7fa0ed1987cd12b635ed0138b583ba05da3e57f372b701416efabbaa231805d2"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-bing.txt",
+      "bytes": 2145,
+      "sha256": "98d9127460e3080a20735e5772a48b23795c3570dfc4e1f9b8e3c075c5a67269"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-crossref.json",
+      "bytes": 18518,
+      "sha256": "b3e3758f845841d95a0bd3ebb5f9f3848d06b39d5a3d69caeeefb14babafaa53"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-crossref2.json",
+      "bytes": 48723,
+      "sha256": "b22c5437711b2ddda41390fc8f0fa37723a87fde2b30f802c9eccadc87f1d307"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-crossref3.json",
+      "bytes": 51928,
+      "sha256": "8b944299414cdf87d52e66322c2077a179792e59bf59c1113047fc2f05b70633"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-crossref4.json",
+      "bytes": 50001,
+      "sha256": "59cc7a9ef00f3bb19d8ca6a3f6e04a049334d3d5121ae36d5ca87083f4b428fb"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-crossref5.json",
+      "bytes": 53098,
+      "sha256": "6a9cb788625932404c9ab9f105588f50fba1ffa7e0711bee7044fac67263032f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-google.txt",
+      "bytes": 212,
+      "sha256": "7ec86978515471d543eb7730e2c0913ae26f37452eabac5bbc26c2f8adad825e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-openalex.json",
+      "bytes": 135578,
+      "sha256": "0284549fe9e7f39debfe8c7e89016ff8ac0638f1fdcbb5cf029bf7817de6f698"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/control-google.txt",
+      "bytes": 212,
+      "sha256": "7ec86978515471d543eb7730e2c0913ae26f37452eabac5bbc26c2f8adad825e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/control-openalex.json",
+      "bytes": 173156,
+      "sha256": "ce42178f43f559a593f44fc572160bfa05fcc0b4527c749e6b937fbc38361663"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/games.headers",
+      "bytes": 600,
+      "sha256": "30167b66074560da27cf9dcb180344852cfa96ed913c434a79b84a9994c77e46"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/games.html",
+      "bytes": 833270,
+      "sha256": "505c07cd89d8f9c26c27a0370bb1961c656f0da377a251f5d7fc0e7a2cc8e197"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/games.txt",
+      "bytes": 164811,
+      "sha256": "fe64e5c5910ab74e2dbc5bbe3bbf32de4435cb8eeb84031723eeda4a25e36095"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/needles-landing.html",
+      "bytes": 24733,
+      "sha256": "96a89f467a3cbc8a8e495942d3d224db03678a1413fd4a8dd34b687d1aad3922"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/needles.headers",
+      "bytes": 997,
+      "sha256": "eeae37564e5259e1433baaa623cf45e5df4ef4487f266830eca52be7aff3b174"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/needles.pdf",
+      "bytes": 1050459,
+      "sha256": "6d7e1530c4d9c102d74afd41dca43157a09f9b68b52efad8022b0db417b38169"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/needles.txt",
+      "bytes": 60997,
+      "sha256": "dfb30e11b0f7151dbed1399b776206b6b27599fdcc27b523142191309724cde5"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/prioritization-openalex.json",
+      "bytes": 149756,
+      "sha256": "83d99f9a00d2aded663d9b595d10c63e4d42e96316092e825a2367118a28d02e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/a2a-1680.json",
+      "bytes": 6284,
+      "sha256": "3f919dc363f1c67a611b4c356e38c8387bf699958af696f447426b0c3f3353c7"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/a2a-1715.json",
+      "bytes": 12367,
+      "sha256": "30ddca4120b336637fc1f22a26260f390028a1ab84a2757788e127a41ab94b5d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/a2a-2323-comments.json",
+      "bytes": 18023,
+      "sha256": "382918778c6b2a41d5cb44b2f6040fdbe311b5ec32369a791b0dceb678d5eb22"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/a2a-2323.json",
+      "bytes": 10382,
+      "sha256": "17c45c3924ecbdd16bf82c277be3c5b6af90e3bc997fdb78c2c8bded094b182c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/a2a-issues-compensation.json",
+      "bytes": 59380,
+      "sha256": "33ebff1ab5bd45974b24cd443474e2f10b1f1438cdd4966f15c7cedecc14ac72"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/a2a-issues-rollback.json",
+      "bytes": 64481,
+      "sha256": "20c8ba0425ed1c703748d1431c7cc5c1729ae5ebd5bf5aa7f50509b496c975af"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/a2a-spec.html",
+      "bytes": 624337,
+      "sha256": "238a7cba6959ceabf1975a93f862c572001f9ad3f4b8b7cfee228cb6fb85e033"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/a2a-spec.txt",
+      "bytes": 177004,
+      "sha256": "edadfcf511bf66d30f3c333e15be757cc6db508a873dab561e1b958f72c84bbf"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/mavic-abs.html",
+      "bytes": 41016,
+      "sha256": "f937260be917e852d2bd72db7dd05370c7716a8d9d0a2c4b1b3a48d32975e8a2"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/mavic.pdf",
+      "bytes": 1015860,
+      "sha256": "2075d4ecbea56c284a67f17283fa875b984e1bb3ed5889113338fb8ba93adf81"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/mavic.txt",
+      "bytes": 55378,
+      "sha256": "9702e1ef7db7ec7409d2bcc95a9de0d476384183ca707c6f0740a88775f53278"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/mcp-auth.html",
+      "bytes": 345194,
+      "sha256": "db74acbf185b67bb732cfee7991d7a86109dbb02969d1267194bb86d13e90cfc"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/mcp-auth.txt",
+      "bytes": 144631,
+      "sha256": "2ab78d8f8874f92501b62d171a7d15984da2b0dae4b52fbb55b1d2cc7bb812e7"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/mcp-cancellation.md",
+      "bytes": 4658,
+      "sha256": "1bffe7f8f1b17362e97f3f44b98e1781ca7639a6ab6a4547f8ac874760cc5f92"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/mcp-current-auth.md",
+      "bytes": 25510,
+      "sha256": "59bc8d07ef88538e4d4e539ca1c846c3ae3162e7911dc29453495cddeac18444"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/mcp-security.html",
+      "bytes": 283891,
+      "sha256": "c318e58b44f5a19ef317d5112940e626e66deb69a23bf4aa15b27d0b13b1810c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/mcp-security.md",
+      "bytes": 37460,
+      "sha256": "91fe938394ce86939b94c36e5040e42baa3a481725d2a900ba53bb5d833962f1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/mcp-security.txt",
+      "bytes": 124742,
+      "sha256": "c20059ccaa192c27d815a2b4860508aba195b46bfb49b1076429f92b8012d1e1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/mcp-tasks.md",
+      "bytes": 9604,
+      "sha256": "af7048bc5af31f84754b1a0bd0392236088c621bd38d618fba443a122798c692"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/multi-interrupt-abs.html",
+      "bytes": 42753,
+      "sha256": "aaf422a708e9f29e66b03cc0ce44044225b528df73eac9b91fb47aa8ef0cc7ee"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/multi-interrupt.pdf",
+      "bytes": 192985,
+      "sha256": "daf4c5d3520713e0e4915770c92c4b36819325c75e867f7513a21af8dc0f97f4"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/multi-interrupt.txt",
+      "bytes": 54544,
+      "sha256": "9229d8ee03ea3eb594a379e00ee05ef4fa26bb090b153acbea020806a2b8fa48"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/oauth-exchange.txt",
+      "bytes": 63113,
+      "sha256": "dd601b55236e643a4bb46f0917476838b5d52ccebbcced628f79ef007b6e924d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/oauth-rar.txt",
+      "bytes": 66137,
+      "sha256": "19dc035c49843df75de80d2c0363ebd13b39d8903311db5d5039f64a5a7bf5d0"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/safe-interrupt.pdf",
+      "bytes": 527278,
+      "sha256": "f6cce90669f761ba792dd115f62410fd1ff0de480753017130be87f6ce6ede42"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/safe-interrupt.txt",
+      "bytes": 86323,
+      "sha256": "09c91d8f57994adafb991e10c6e506d9c649212f4deaa7619da15d2105a383e9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/sagas.pdf",
+      "bytes": 1235147,
+      "sha256": "7d49642d4871a855fc2eea2afe80d1e2dbc0d85e6b0f10457655a2d7dc412b1a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/sagas.txt",
+      "bytes": 61883,
+      "sha256": "64d40012dfde21def5cad6d658b3bac8d2ad4e9457f87a962fbf5577f5ffe378"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/search-interrupt-commit.html",
+      "bytes": 92783,
+      "sha256": "e68cf7af8306d646793a04291e6c2fedcb8747c611b55136413680458a1fdbb2"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/search-interrupt-compensation.html",
+      "bytes": 92958,
+      "sha256": "9dda8dda02596a2bceda718f7680fb9d2d3d8f67f9296198f30414ed77ec7a54"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/token-view-transformations.json",
+      "bytes": 917,
+      "sha256": "e247012394162f2a0752ccc0ac9e0f27009db080b7fbae5ee8b22c3ed71062d5"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/authority/captures/transforms.json",
+      "bytes": 2181,
+      "sha256": "19ad24bf90719d604a0ec04664a30d65db181220f8b9d17ab1e427308541b7eb"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/primary-sources/coalitional-marl.xml",
+      "bytes": 14,
+      "sha256": "467622e2f17f01d302d6c790b13078569f17d71cd83910558535019a594e07c1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/primary-sources/coalitional-mediator.xml",
+      "bytes": 915,
+      "sha256": "2028d9991947b596799ff0d15d07898a0c9cf2ebae3fa2396bed1e27d9641ee8"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/primary-sources/correlated-control.xml",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/primary-sources/interrupt-commit-search.xml",
+      "bytes": 18518,
+      "sha256": "8bc09ba684d66d291eb525581cd09998ec870c74651d36102d77d3f464052cc6"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/primary-sources/intervention-externalities.xml",
+      "bytes": 14,
+      "sha256": "467622e2f17f01d302d6c790b13078569f17d71cd83910558535019a594e07c1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/primary-sources/oversight-allocation.xml",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/primary-sources/strong-mediated-aaai.pdf",
+      "bytes": 403867,
+      "sha256": "48201238869655c7bce31006aed63d936fc06dd844c46bba932e2aad36412222"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/primary-sources/strong-mediated-aaai.txt",
+      "bytes": 44402,
+      "sha256": "1c8d4c3ce502731918395e6dbe3f8a9f8bcb684d218cd5d4e55af87ca74e2d54"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/primary-sources/strong-mediated-crossref.json",
+      "bytes": 30294,
+      "sha256": "3024c25b6cfac8a14faf4dbc5842f14c832c3202862f15d631e5f3e4c0cccc92"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/primary-sources/strong-mediated-openalex.json",
+      "bytes": 17221,
+      "sha256": "e69caf13b665a6b8820aa6627be882be436000d33adba93ac3305f2c5eeedcf8"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/primary-sources/strong-mediated-publisher.html",
+      "bytes": 832981,
+      "sha256": "5cb866b261401f604553eabc72f4ca7f92f844b80db5c93794e94a1856d500ea"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/adversarial-attribution.xml",
+      "bytes": 16312,
+      "sha256": "3d15ca23acd9163cf117984bbfd59d6aea3495bef841be8290adde64770631e8"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/blade-readme.md",
+      "bytes": 6745,
+      "sha256": "d9e82725285423ee5bf7e6b21303b1807354197ff1398419a4ddeadbee73ee0a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/blade-repo.json",
+      "bytes": 4903,
+      "sha256": "c47c8f4b62bd2bf92d28c486cbd75ea0e6a0ee974c5fd5856211dbbb27218d14"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/blame-framing.xml",
+      "bytes": 29688,
+      "sha256": "5f65137df3c7afa41c626b3241d039f1ebe35ccd095df93d8c74f404c7cff5c3"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/dover-project.html",
+      "bytes": 7008,
+      "sha256": "97ad60b8ea21d26a98067e753f59198ba8b374e9f3ac46bc8afb3414a9cf3c55"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/dover-search.xml",
+      "bytes": 3491,
+      "sha256": "7a0e3bce1058a4c006ff3b65fbebfbe15c049b80eb8241f3152a8033ff506b23"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/dover-tree.json",
+      "bytes": 5055,
+      "sha256": "d88d80352fc222868cdc107855d8103c1f747aa3769f3ca1b4caab7bf0986169"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/dover.pdf",
+      "bytes": 2254341,
+      "sha256": "b741f3a46ff93e067f2174939b16857e867b132b1ce14914a6b8f134b611433a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/dover.txt",
+      "bytes": 130192,
+      "sha256": "76e71329e8fd68da313b9dbe91585a87fd70cf5773300ff424f00aa134d5e364"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/famas.pdf",
+      "bytes": 1213885,
+      "sha256": "d6b44b296911fc3d2f2422cd223ba8b3e0315d76c2d48c14e76cfebf7fafa1ea"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/famas.txt",
+      "bytes": 103461,
+      "sha256": "d5162414e241eb7e73d2406a221aa77ffe19a3b301be6dac9199e64ea55146d9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/misattribution.pdf",
+      "bytes": 2629214,
+      "sha256": "2645b9d648500fc18285823d9a604bec74cdd88f89cdbebcc7a13beb8e0a2f88"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/misattribution.txt",
+      "bytes": 129232,
+      "sha256": "297e27c03b2e10198a7a7e1e4c3e65c8f86607824a20a9d0cb8fe950091a6ef8"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/reflect.pdf",
+      "bytes": 8899561,
+      "sha256": "494d4665464dffc752cbf52cff874dc470a69e44fc78b6a5e4a08e0429d42616"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/attribution/sources/reflect.txt",
+      "bytes": 130749,
+      "sha256": "9beae16ba8212fae8c489b2b4ff26cbd29df1b16c587fae969062fd23b843eb3"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/codetta.html",
+      "bytes": 1022046,
+      "sha256": "e21e83a0d5b82e5c6ad50a73ee7a1b6ca322431e631a932d1f57e6dc2e07ec8f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/codetta.txt",
+      "bytes": 185164,
+      "sha256": "ecd4a6e27c1bcef605d890c934d0dcc60ba731e5991e0a31aad04ac6b3c24f5a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/firewalls-head.json",
+      "bytes": 67754,
+      "sha256": "94d6e72f8c0374fd018008329d6bd13790d9a2ce30f40c28970c45303aa9ee39"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/firewalls-readme.md",
+      "bytes": 40169,
+      "sha256": "c46ee764819b1725a97140bb0e6ba7208b1cb6b5a5cb97691736c1aa0bfa8b85"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/firewalls-repo.json",
+      "bytes": 6734,
+      "sha256": "f7f27102320ed3f75f0e8ea96b60fefa0a1b7f635b03274830ec9a6ae38134de"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/firewalls-tree-selected.json",
+      "bytes": 1477,
+      "sha256": "46e37e9df70a99af10f77e9094b1453362892470dc6c8c3c031dbacc21e45d43"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/firewalls.html",
+      "bytes": 453604,
+      "sha256": "ce961a5fedcaef1f32d00a8e02750065a7bb8c6cb6eddbc8c3f935f4a0707dae"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/firewalls.txt",
+      "bytes": 107098,
+      "sha256": "03da3531f230312478e9d74ef50028b5bb4069247afa425813b6c1bcfc9ab3e7"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/fish.html",
+      "bytes": 573907,
+      "sha256": "acbb935b3b17f64717e6fd0063f0036067a782f06d051ca24e35b102166fd625"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/fish.txt",
+      "bytes": 197437,
+      "sha256": "0eff6c31598481e88f855f3a0156d6f2851a43962963311468b31e1570a40c64"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/language_checker.py",
+      "bytes": 11299,
+      "sha256": "8b681e25df9f2e7f3799e4a92e4e2542fedbe13eb76b7889cac4ebb7b0ec9564"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/language_converter_firewall.py",
+      "bytes": 11288,
+      "sha256": "5b8b2109af258b73b7b65a47e39bf36611d7dc72c255a69ed4b92a9ac523bd14"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/mathew.html",
+      "bytes": 1942914,
+      "sha256": "28476e88e402db38fafe73a081dfa609e154742739cacbda3d80d432ef6119f9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/mathew.txt",
+      "bytes": 128920,
+      "sha256": "7cafbe9fca208413d410746bd76be94ed243c54ee6590fc14714970acafe214e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/roger.html",
+      "bytes": 189297,
+      "sha256": "3cea6da04fa199baf781419d2cb7b04f1b766f624e109c50a78a3b30cdc676a9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/communication/sources/roger.txt",
+      "bytes": 69667,
+      "sha256": "954738d960cd66debdfe218071e1f5dbb3b0093d52e7ca22f7015b3a68c2abad"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/composition/agentdojo-commit.json",
+      "bytes": 8532,
+      "sha256": "340db743cd61cd2d0771550d3ac0a43a84db5d2f54591e95edf1141373cb43a1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/composition/agentdojo-readme.md",
+      "bytes": 3184,
+      "sha256": "d8c6460ecce9bbf59ed300fbc74b4440188f74cd147a7611836270be49e7660e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/composition/agentdojo.html",
+      "bytes": 309965,
+      "sha256": "d294f76188b5e04f45d6affb5613e8e5472b3c5e55ff7c3c6b09e8f39cc48258"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/composition/agentdojo.txt",
+      "bytes": 73779,
+      "sha256": "e39b77f0aa4a55ae68656ee4dcd1ee4292158e0183499e4404b8c2ce450c3c31"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/composition/sabotage-commit.json",
+      "bytes": 10682,
+      "sha256": "ba2c02dcdf4fcb5c63a1d3bd6a3939277fa710706064b9241f16ea802aa1df03"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/composition/sabotage-readme.md",
+      "bytes": 7218,
+      "sha256": "c0fdb4f2da55484edc1a2aa22ed5913f9b11ae653289600b0c1b72aaba0758b8"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/audit-arxiv.json",
+      "bytes": 197,
+      "sha256": "4a5c3c5014a9236c73a63eab7085fc0d3680826f76c3cf5b77a5aaf40fac7d70"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/audit-arxiv.txt",
+      "bytes": 136403,
+      "sha256": "5eacca9e155db5b8efbb24d315e84a774d4806c88c9f06a25375e7d4085f3f84"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/audit-search.json",
+      "bytes": 191,
+      "sha256": "033594fe3341bcb133051ce1c1a5f284a4008c981a6e0b63196995f987d60069"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/audit-search.txt",
+      "bytes": 168,
+      "sha256": "cba21eb26119b19ffa9b14357a9196212285aa2f0e09f9bcec3697154a24f25c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/ci-aware.html",
+      "bytes": 1234131,
+      "sha256": "a3c52e785d1008056353663771493a3e82c129eb961053e5e0b489d97f85dc64"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/ci-aware.json",
+      "bytes": 326,
+      "sha256": "1582dd563e60b59c676e8bd73d6d009714a5a299853f8de1677a82374a085c55"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/ci-aware.txt",
+      "bytes": 202326,
+      "sha256": "d3966916e525669c27db8fad3ce02a769d6bf76789f4c6ea93124de4a4f5616f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/ciaware-repo-README.md",
+      "bytes": 3534,
+      "sha256": "85dac08b92f329a49ea80cf4cfbfd9be75d429c2c33059dbf91bb4dbdd77347c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/ciaware-repo-capture.json",
+      "bytes": 372,
+      "sha256": "5d8a32b1e58c7409bc5d1f73538a6ac74122220169b022284e60874dd6176422"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/controlarena-README.md",
+      "bytes": 12659,
+      "sha256": "d86d4a9d5cf3e5fc587a69606a75f1cc9bd5d64fbeb999fe5a10c44c7714ac95"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/controlarena-capture.json",
+      "bytes": 372,
+      "sha256": "45ed1d773d5197f1d264644470a4da759af4b896773c4d5ccf6f2a5bc886c7ce"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/family-transfer.html",
+      "bytes": 249889,
+      "sha256": "15c77d0785d21acb207d3d3d191dbe1dce15b48895e529c93a0a56d7eb69514e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/family-transfer.json",
+      "bytes": 326,
+      "sha256": "98f2a4b687fc895f93a3674eacb6bb20e323d74f8f2ed50234f50abf8b53aa11"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/family-transfer.txt",
+      "bytes": 98963,
+      "sha256": "2254a4ec231478fb5a1c797b2ec6bb29d6cd11f2c30389a8de3dffa16ce313db"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/monitor-arxiv.json",
+      "bytes": 197,
+      "sha256": "897caeeb01b9404ca6564ece7788d9a68af06cb6671ccaf9fe23fc7d00be7bbc"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/monitor-arxiv.txt",
+      "bytes": 132538,
+      "sha256": "5456920b45d568705ec4e660046cffbba2212b02c5350bb04d2f2ccaf5e0b417"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/monitor-search.json",
+      "bytes": 177,
+      "sha256": "18427c526d2a788d32c8aa7fcc60e50ada07478b13310ec8f504d62254b791e9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/monitor-search.txt",
+      "bytes": 168,
+      "sha256": "cba21eb26119b19ffa9b14357a9196212285aa2f0e09f9bcec3697154a24f25c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/self-recognition-repo-README.md",
+      "bytes": 799,
+      "sha256": "147700f74b66e584a4ac049fec783b59bb6359fd7a1776759850cd09e1582eed"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/self-recognition-repo-capture.json",
+      "bytes": 392,
+      "sha256": "c99b381223fd5fae8b91b34d08ffced5c59233e764207de1e09702748fcd03f8"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/self-recognition.html",
+      "bytes": 1535242,
+      "sha256": "a659b6c6ddc59ce22bf66b0b0ebef84153d399489df9a555e276604d453746c6"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/self-recognition.json",
+      "bytes": 326,
+      "sha256": "f79ea98cbf9a000fa6bf2af56ad41b791a1ad8cd4b3d95ea327ed4103bfbc013"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/self-recognition.txt",
+      "bytes": 225489,
+      "sha256": "14acc772933bc5ce99c87fa7519b5343266ad7156e2792853676aa83a5b02212"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/traceguard.html",
+      "bytes": 250152,
+      "sha256": "08fa28a723c2f520b4347571baa72cebaaba5b2e169656946637ca1d4d3a2c11"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/traceguard.json",
+      "bytes": 326,
+      "sha256": "fe3741c8e7da80da03fdcfb2df5ef920ae5c8107d2413cec848f9d846b6b425f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-coalitions/sources/traceguard.txt",
+      "bytes": 46451,
+      "sha256": "1b36ec314fdc353e6f1d7333d2ca8febc078cfc71ecaabb78de627ddf7c9debc"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/SHADE-Arena-readme.md",
+      "bytes": 275,
+      "sha256": "8d496cc555b000e63a155b276650a10f225f36d68e62e86011f8366fc10919b3"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/SHADE-Arena-repo.json",
+      "bytes": 6683,
+      "sha256": "d2645ec9584f4ab54f9337aea9467520f92019587d34c31b21397be84e31eab1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/adaptive-monitors.html",
+      "bytes": 3017221,
+      "sha256": "c3c9c36e96df3123b24754ba952788c6442af481f447ce4bc4fdda79b96448a2"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/adaptive-monitors.txt",
+      "bytes": 168282,
+      "sha256": "a10786d522009aaf1c6b1f0d2fc94dbc9a5ae340d41bc612bafc7e79ebd50b0e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/auditing-games.html",
+      "bytes": 905522,
+      "sha256": "bd4224a3fea33268fc617f99d4b9d176bc29161a3d9148392e03477b63244533"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/auditing-games.txt",
+      "bytes": 254997,
+      "sha256": "7f6f3c615a10a9e4691659a1bfd7b872c2d798cce0c3af36571c1b46ddd944c3"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/crescendo.html",
+      "bytes": 284986,
+      "sha256": "a9388a023a0f1b52749ab8327c35c706a5f181c12d5f2b71c00a2aa5e264b087"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/crescendo.txt",
+      "bytes": 75608,
+      "sha256": "4b463ccdf3b59182627702eb77c44ae43fbfebc68d49a969134be9e490b03847"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/legibility-abs.html",
+      "bytes": 41161,
+      "sha256": "a2adc56ab4d0f30c942fb6892a50abadf2def1a5ede6c68628d8122283616e6e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/monitor-memory.json",
+      "bytes": 144644,
+      "sha256": "7e80f2290a8b8ae30203c07260915afff5fd1195a540cce464ae4997ecf8d6d5"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/monitor-rationale.json",
+      "bytes": 192710,
+      "sha256": "c827e1be1c6dadcff95b6be26613d518d90d3ff7f77713aa92ae3a9a864af9e5"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/multiagent-sandbagging.json",
+      "bytes": 136628,
+      "sha256": "a0399268e6febcdd7c3840ea91b221b7b45ced135bb3f0d2d6da994ba2d7c448"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/sandbag-src__sabotage_games__model_registry__model_registry.py",
+      "bytes": 13849,
+      "sha256": "a1402ceb29a5cebb616a881d4934333f63b9003d2486da6ef904700d283e1af9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/sandbag-src__sabotage_games__task_registry__tasks__bigcodebench.py",
+      "bytes": 537,
+      "sha256": "4dc291372be9a47c2dd3f09b7460cab05d2e4a583b2d157ea9d13f47bf1afd8b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/sandbag-src__sabotage_games__task_registry__tasks__tic_tac_toe__tic_tac_toe_eval.py",
+      "bytes": 5672,
+      "sha256": "fbe55469697b322750466aa1090b29bf51f43b5aa29fef1a59c77c0ea1fa6c46"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/sandbagging-tree.json",
+      "bytes": 29405,
+      "sha256": "67a688a799a3e7341edc54ab2cb9da2e31036d7de6b7b50d27e902b6e2d5ff16"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/sandbagging.html",
+      "bytes": 366338,
+      "sha256": "3bbb8347d4be7032af3d4cb357907cec761792283d3670150a2529e34acbfce9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/sandbagging.txt",
+      "bytes": 99798,
+      "sha256": "e8d2d1755a1dd11ad763ca90c74aeafd9d66b3d8c4fab41909c3e4ff25cc2334"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/sandbagging_auditing_games-readme.md",
+      "bytes": 9562,
+      "sha256": "4e214e3b6f83c3957758bd1fd814fec64222bf8ff0d51270fd5ea9af8adb5912"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/sandbagging_auditing_games-repo.json",
+      "bytes": 7958,
+      "sha256": "f0771046975aae6b55dbe85c0e44d1c2002699841737d6aef9dc85aa02b005ab"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/shade-current-readme.md",
+      "bytes": 5525,
+      "sha256": "9a713a3f9d49398177262aedb76444ba9a5dafd89c5412282f04c98d989a8052"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/shade-current-repo.json",
+      "bytes": 5178,
+      "sha256": "b256432dd8ae374f182852c367f5b337dfd36ae9de1c1f36bd4dd8edd1cb8e74"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/shade-task_completion.py",
+      "bytes": 7444,
+      "sha256": "40b56ba930af0f0c8ed65076f4be8c8d8c7e0392cebc223cb6b01d91477b07ed"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/shade-task_evaluation__bank_transfer_2_evaluation.py",
+      "bytes": 13894,
+      "sha256": "a6a2e01b37868e799fba795907890d9df01264dc4cace6e4892faeaa7f4aafaf"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/shade-task_evaluation__expenditure_accounting_evaluation.py",
+      "bytes": 10249,
+      "sha256": "50a9b2befa1244d86e6d66b5e1348908bdf81a516e85211ff11d4e0ee0003f35"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/shade-task_pairs__bank_transfer_2__task_definition.py",
+      "bytes": 7916,
+      "sha256": "2ca66acaddf743f09e65d060bf934d92aeb7e0580d7e1e5ddfa0213df51ed9c9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/shade-task_pairs__expenditure_accounting__README.md",
+      "bytes": 389,
+      "sha256": "26a1d0136391cfd37079112d6bf5e01d0059965697bab151bdbd76b58e0a3e55"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/shade-task_pairs__expenditure_accounting__task_definition.py",
+      "bytes": 12371,
+      "sha256": "f205b2bea7ef15da9277b5d22b2a95435666c712af878a073cf05b1ab539913a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/shade-tree.json",
+      "bytes": 42809,
+      "sha256": "7c451d327927f19ed9d334ee340d09dc1326779199dfbb434ebbd74df7bc95f0"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/tame.html",
+      "bytes": 387475,
+      "sha256": "2e9f2ae0a63b02775152544113ccf5cfb8a18fad1c8154a7e2ad6a9e13aeef4d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/broad-formation/monitor-influence/sources/tame.txt",
+      "bytes": 69062,
+      "sha256": "d664b9876f8d6103be5b286d6eb1ca28d97898b37aa4b645dddac1fcfc3a72fb"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/collusion.html",
+      "bytes": 10154,
+      "sha256": "7216ba21149bad49ec5e792857582837ce447586960fad915e8e3c59c0e8838c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/collusion.html.headers",
+      "bytes": 308,
+      "sha256": "424e5013bc00b02f6891043be800487eb6e6c225b2cd0c6cae95efe0d65aa47a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/collusion.pdf",
+      "bytes": 1111170,
+      "sha256": "1efbc4d91e61eb2141f36f1e1747fdd6d159d1d201978bf4741b986550226922"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/collusion.pdf.headers",
+      "bytes": 417,
+      "sha256": "5c6c2be7ee5e0f1a04256cf63b79468da6fc54023356dd93b94a4f45bd3ed687"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/collusion.txt",
+      "bytes": 224587,
+      "sha256": "17e7e809f1aa813fcc5518df06d2d06e08d293a8893311acb6ec3af04e01d41b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/config.py",
+      "bytes": 1041,
+      "sha256": "a0d771aca91fe3ab150cd7f53c68e159c4cbbf400172702702fa83f0491ff9e6"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/control.html",
+      "bytes": 673443,
+      "sha256": "96457a5f56a3e6619c9b0534ef762c6b1a9e932f67750f4263f2b868e6feddc9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/control.html.headers",
+      "bytes": 599,
+      "sha256": "c971f996096c1e99495ce6da83ddf4ca022ff792b1c05683bba5576995223e24"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/control.txt",
+      "bytes": 170607,
+      "sha256": "4e7c875f0f8f309f15305132c179932c5c3019e5cb12380df7d5443f2cec47de"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/event.html",
+      "bytes": 927178,
+      "sha256": "dbc791ec06a1c6922a2b1b61e7f41d3f612ab755759ef1e587cd7035736b6e81"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/event.html.headers",
+      "bytes": 2001,
+      "sha256": "7330f1336a0d438f05ec542f7ebc99cb2e1f58661b9229802d9e1073d05a4db7"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/event.txt",
+      "bytes": 82272,
+      "sha256": "c985ce78739f579d3b0009b41b89db7ec7c46e986587d32deb227b5663988cdc"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/extraction__extract_core.py",
+      "bytes": 17300,
+      "sha256": "efb9d2d938236065afcd7259ff8873f1ad4ce9aa5f79aa6c0d830c1ec6e3a8ce"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/generation__core.py",
+      "bytes": 317979,
+      "sha256": "08fb49a3d5ecf0f1260f567f4b695ebd5749d597a93bd24578ce7d4707eff22a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/jones-bing.html.headers",
+      "bytes": 2493,
+      "sha256": "903b3c22e2ee3e5511bf3a466118dc81bfaf60ae25c3b2f1dcdfe8e235669f4f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/jones-bing.txt",
+      "bytes": 11448,
+      "sha256": "dd4c25f3888c801bad9295b7201117655b69d56647f25e009d7d365acefa0260"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/jones-search.html",
+      "bytes": 93048,
+      "sha256": "02a77e579632e6633fe0a554cf58a96bb7b9b68f2ba0819d5bbca68c84750cdb"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/jones-search.html.headers",
+      "bytes": 1521,
+      "sha256": "4a4cb0d956665b133c4ac90bdfbc239530379e901376edaa1c7f7cda66e7782a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/multi-agent-interpretability.html",
+      "bytes": 889944,
+      "sha256": "775455bd4afd851230f3cdb5a6f292d05eb6e4c65d8a4904835023a87f48a29f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/multi-agent-interpretability.html.headers",
+      "bytes": 601,
+      "sha256": "ae6819386ce85457249dd0157b62ea7dfad297c200ad61bbf8f04d31046e6217"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/multi-agent-interpretability.txt",
+      "bytes": 195370,
+      "sha256": "5ccb1bf9aac6c10044e7f7a1fb39c24b0174c9e0c74735c2e5bf9aa3cbd4f665"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-code.tar.gz",
+      "bytes": 216775,
+      "sha256": "3ca2bc81a58d8860989f1991b0e15f2749930b2bec848fa0a2e6446f33c2ee7d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-code.tar.gz.headers",
+      "bytes": 706,
+      "sha256": "e8c93f282f5904e0d76bcbafa92b0bb345ddd00512244f3d2b7ff5e8af5d3230"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-commit.json",
+      "bytes": 9610,
+      "sha256": "83c94ebaaafe0081c04ce06790bf9eb008315c2d81000872a85cfa6142670daf"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-commit.json.headers",
+      "bytes": 1320,
+      "sha256": "059fb6b8b75b0c1c2d4f97da04ec130969778d9dfd25a9b2eda428c47428911d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-git-commit.json",
+      "bytes": 1345,
+      "sha256": "7500100d973e2a41223699726071591b6e13a2253f4aad7a095f1cf18d33e137"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-git-commit.json.headers",
+      "bytes": 1320,
+      "sha256": "c2c7e363ce4e75ac7a711c6d2775d24b7aecc51055712e986b4730f266907a44"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-hf-tree.json",
+      "bytes": 151368,
+      "sha256": "7d888b7af63f34f4845eca479c55d3ef99c16fa2d7647058a236772a237cbc17"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-hf-tree.json.headers",
+      "bytes": 1407,
+      "sha256": "368dafafe10ac903bf350c8bc77cbc2024b1170d638d2a0f051c48330d276999"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-hf.json",
+      "bytes": 102030,
+      "sha256": "5dcf1c6d8d6dabda7346f14be674bbc8152be492ab385477e8d3ba5e981ef022"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-hf.json.headers",
+      "bytes": 1018,
+      "sha256": "4c639b31467de76f2ae5baa3e9e47d71e4d9a14552488aea066ac3902002dd8f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-readme.md",
+      "bytes": 9301,
+      "sha256": "49e7ccee957ee7bf795ff11011aaaf030422d90bbc12c37ef916e13a1239da0d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-readme.md.headers",
+      "bytes": 889,
+      "sha256": "cd1e7bf4fd5b53534c2e987b84286ae20e91e0578a06862d262435cc4e4a9b52"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-repo.json",
+      "bytes": 5692,
+      "sha256": "6b5bacd03d693f1930cf48d6f160a8a7a6b57f0df72c341f947cf5c59fb49d1e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-repo.json.headers",
+      "bytes": 1318,
+      "sha256": "6480cb9633c39dbb9aad02160cd2bc50057d0cd4d81528775acd7fb02959e387"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-tree.json",
+      "bytes": 12687,
+      "sha256": "0bfde52da610d862873da94e210b4d65d39d07f4da119fdd41d7447a3c576178"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/narcbench-tree.json.headers",
+      "bytes": 1318,
+      "sha256": "cd292dbf1db6b251394a1b6a25e992228d98f87f4515c28cd6cfaf7d93d1ff90"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/reproduce_LR.py",
+      "bytes": 29902,
+      "sha256": "0bde89799e032e8d9b93eb54fa62a095a572fa6fbb2e835111a001c06b34f100"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/reproduce_LR.py.headers",
+      "bytes": 889,
+      "sha256": "36808b03b459b4deb0c3381f3407816c895004c06630a18670721990bce2643d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/split-attacks-api-v1.json",
+      "bytes": 250,
+      "sha256": "e3211f113c28c88d2d6df1dea79186522ebd117e41246e137c01439a73dd2baf"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/split-attacks-api-v1.json.headers",
+      "bytes": 472,
+      "sha256": "07b63adfcf60ad4b967f0ef24ada66932604acea758f3ff796613ff00edc5c79"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/split-attacks-metadata.json",
+      "bytes": 273,
+      "sha256": "85b5757012ec1e2d4b41c4fef8e39618b29970852ebc187aec043252bec11d27"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/split-attacks-metadata.json.headers",
+      "bytes": 500,
+      "sha256": "2f6a780b8092172d51a4c305e60618842ea0828ef0c433eb1a91a71ec7a5188f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/split-attacks.html",
+      "bytes": 4787,
+      "sha256": "401cbde8b918d86884b0555e1768b4860d604dd3ecf045b0d1ae94ae83d1e965"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/split-attacks.html.headers",
+      "bytes": 4892,
+      "sha256": "f018cd6bff0a3169a217cd045123ac85a7dee7b393eac20f42d022fa3fdce00e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/split-attacks.pdf",
+      "bytes": 12692,
+      "sha256": "a2d811e0d24af89d9bd4b19cc9e8fbc474c67ef3827648550a6560eca2a5e332"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/split-attacks.pdf.headers",
+      "bytes": 187,
+      "sha256": "780e389eece86644e41abfba9a7bd8fef781591250b341273db0c4dda957ff0e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/verify_ground_truth.py",
+      "bytes": 6516,
+      "sha256": "cefb9268e45c036630a21d2d02db0dafa8e650e2eea09d59c2eaa363c615c69d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/verify_ground_truth.py.headers",
+      "bytes": 888,
+      "sha256": "e1c9da7ce7c0df94e10376e7fcfd4bd6788ec8747c8070e982c4cb797a47b54f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/_rubrics-listing.json",
+      "bytes": 12439,
+      "sha256": "40f358ea1f29a3b06726c5ab5e8072a7ea6b0683fd89fa069dc158f8d93c3162"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/_rubrics-multi.yaml",
+      "bytes": 6528,
+      "sha256": "10758f0ff36722c8d7c7a03b78264718983b40baa777ed92a440cd7e1214fb04"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/asb-codebases.json",
+      "bytes": 9181,
+      "sha256": "debd7c6c5715f7b1d93f564132bb743ba9524fb3e4bf68fc9cddb9f33845518d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/hop-jump-PAPER.md",
+      "bytes": 9600,
+      "sha256": "7068d6c9a9ced89eb2f8d0fe6ff4a3a9fde92f37fb0d3ff7eeffa46cbaccae3a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/hop-jump-README.md",
+      "bytes": 1009,
+      "sha256": "2776bb4943d164f47320e9b6dd373c3019d23d427f5526492ec5aacf23218fd9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/hop-jump-experiments-fully_synthetic-run_evaluation.py",
+      "bytes": 11759,
+      "sha256": "1cdfff9aa7cd074e2bd9326abff62c762ff1df52ec5a6af5604375563b6e51a2"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/hop-jump-latent_reasoning-datagen-synthetic_spouses-generate.py",
+      "bytes": 48205,
+      "sha256": "fb186f16fc85c8ca1d7c36e5c1e239dfcbfb386d2af403c5fce3eb04707c6809"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/hop-stride-README.md",
+      "bytes": 1009,
+      "sha256": "2776bb4943d164f47320e9b6dd373c3019d23d427f5526492ec5aacf23218fd9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/hop-stride-latent_reasoning-datagen-synthetic_spouses-generate.py",
+      "bytes": 49002,
+      "sha256": "a12b48e9b25bab5060ccfcc12d9d3d2dc3d56022229019a399dcb1bd8ca90cdb"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/hop-tree.json",
+      "bytes": 5755,
+      "sha256": "0431f4a38a5e8be9b15e495a55f114b4da975213e3297fc2c6efcb1bf3d60ab4"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant-PAPER.md",
+      "bytes": 15627,
+      "sha256": "5c952d811c51ed23544a8368707e877b4da9f480acb7dcdfd882cf757d82f17d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant-README.md",
+      "bytes": 537,
+      "sha256": "d673b9c99c23f090b625c80cebe963a6a24d8fb3dcedb1c4ddc9cc7feca0fec4"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant-asr_analysis_utils.py",
+      "bytes": 54871,
+      "sha256": "d7b488db1afc56af632d51b5bbac6152d8644d8cbf349b1b5fb12fd8e7d7301e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant-generate_data.py",
+      "bytes": 17358,
+      "sha256": "aaa828eb9f63091e60dc9c58440b5bbd8cff1f3cc287470015d022aa779d305b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant-listing.json",
+      "bytes": 18264,
+      "sha256": "1dd7942314b1917987986dbab8a002b7ef5e2825a2ce56ffb4152b55ce829534"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant-main.py",
+      "bytes": 10588,
+      "sha256": "85972f8f44e961782e472578eeb3fcf1709234e45be606c3b8e003338ca2af70"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant-plot.py",
+      "bytes": 8006,
+      "sha256": "b6554eaedbe980e276a0167e97cc79551443c1ab186b7df3e4076cf259a32572"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant-utils-check_refusal.py",
+      "bytes": 4812,
+      "sha256": "720edceed82616528cd590c947363e463a1a0204908e74568458826dc3592aaa"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant-utils-listing.json",
+      "bytes": 10940,
+      "sha256": "73ccc4f9e79be3f266fb49177b33a2d2905687197968a5d5d714084e7b180f79"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant-utils-run.py",
+      "bytes": 22710,
+      "sha256": "58ccb631ce20d34af30fb85ec0cae3c377e47c3f277a9283555e045c079ab942"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant_fixed-PAPER.md",
+      "bytes": 15947,
+      "sha256": "9c6aa1809010d8ee0e412f65739d28a49cb2cfb66f9766f6a7059f23547b8887"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant_fixed-asr_analysis_utils.py",
+      "bytes": 54871,
+      "sha256": "d7b488db1afc56af632d51b5bbac6152d8644d8cbf349b1b5fb12fd8e7d7301e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant_fixed-listing.json",
+      "bytes": 18834,
+      "sha256": "9f67c70b6edece3da108fedb072f5c41c02f48fd2f2260bfb21939de3e24fd09"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant_fixed-utils-check_refusal.py",
+      "bytes": 4812,
+      "sha256": "720edceed82616528cd590c947363e463a1a0204908e74568458826dc3592aaa"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant_fixed-utils-listing.json",
+      "bytes": 11264,
+      "sha256": "b52faf1da63d999abb88e84bab2b0ac0b2a6e5967f5b897b5c97ad7592d496ab"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-ant_fixed-utils-run.py",
+      "bytes": 23195,
+      "sha256": "5e7fd166f09e871e336159251c8253602dc08edba937b87f2dd7db2f05d8a512"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-gem-PAPER.md",
+      "bytes": 15474,
+      "sha256": "72416644de5811e7fe6897f740475c10360d0bdc5a3651e89bc7d2a53cc06b4b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-gem-asr_analysis_utils.py",
+      "bytes": 54285,
+      "sha256": "3ff4a6fae30611d8dc7d6e4b6f6fa5e88f4d6a47f979c760eb19e27447e1acb8"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-gem-generate_data.py",
+      "bytes": 17358,
+      "sha256": "aaa828eb9f63091e60dc9c58440b5bbd8cff1f3cc287470015d022aa779d305b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-gem-listing.json",
+      "bytes": 18264,
+      "sha256": "75a2d1e8bde44348b62ed9e321e4dbd2f8df6b38338d376d4253ac42b8a6cb84"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-gem-plot.py",
+      "bytes": 6383,
+      "sha256": "4a16c19f2f2d5db06667bf8bad7f3120fad16cd4a4b9731da3c1f67a48af3eb4"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-gem_persuasion-PAPER.md",
+      "bytes": 15923,
+      "sha256": "a7b4d7a84f05e22b1644a7e3eea3192c52c8be3f6f7918bc00eb03f53bc4c77e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-gem_persuasion-listing.json",
+      "bytes": 1181,
+      "sha256": "9ed829b71882f72d32926fef1255c6635e04294c3e77c49bfecb6514bac84932"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-pen-PAPER.md",
+      "bytes": 15439,
+      "sha256": "dcc951f3dd63f692d25561cf0badf576835bb9798fb3a819337e0f8eb400fabf"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-pen-asr_analysis_utils.py",
+      "bytes": 54825,
+      "sha256": "400e9eb344a11bc19292ea96937bcc3872364c33f0925f4279f59ea5e2f8bf1a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-pen-generate_data.py",
+      "bytes": 17357,
+      "sha256": "0aa6ac202ec41a06c0e8f6d062e9d308e996bbad0534d1612cd5c7d02825d346"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-pen-listing.json",
+      "bytes": 18264,
+      "sha256": "654a93f2edb2087684aa17a470ed4c22157d1435b91dda670512086bdc55ffd1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-pen-plot.py",
+      "bytes": 6383,
+      "sha256": "4a16c19f2f2d5db06667bf8bad7f3120fad16cd4a4b9731da3c1f67a48af3eb4"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-pen_persuasion-asr_analysis_utils.py",
+      "bytes": 55012,
+      "sha256": "2fa2deac9319bd9b7a2b79109bb02c87646a423f86a770be64dc292c96448588"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-pen_persuasion-listing.json",
+      "bytes": 1272,
+      "sha256": "b7008b5218560c0544b73a9fddc125ba9827a3b4918c27b58140f882c4d01d2e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/multi-tree.json",
+      "bytes": 5731,
+      "sha256": "081fd4d96b44259004f8a07165e22beb4138ac5adec2cbc88b4eb0429596d018"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/hybrid-formation/episode-sources/negative-tree.json",
+      "bytes": 3895,
+      "sha256": "71f24d484e034221a47b55870caf353d9f49f4911027bd52741742125bab9d79"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/belief-updates.html.gz",
+      "bytes": 61561,
+      "sha256": "c824c64a8156dc9151e6e2fc18a1c1294d6a9a0c42d2db19e922cb1802dddf4c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/belief-updates.txt",
+      "bytes": 101832,
+      "sha256": "f3066c71014d6be4f11ef547d75a4de87e8bf7776e1d404534f5b86d0b608e44"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/boardroom.html.gz",
+      "bytes": 36495,
+      "sha256": "a0110927636bdf8e24c5f2d2425ae290c38af295d8540feb18ba3ea13db983d9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/boardroom.txt",
+      "bytes": 47289,
+      "sha256": "3d204a402f732a8faf06619a18bc5b48481da15f95d64f53cd9ea3333d59cd95"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/camel-original.html.gz",
+      "bytes": 218793,
+      "sha256": "b45fca5d9cf1a133adfca3d60ac82a8a6acb39a5da52c5ebd47a4c24aabb1331"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/camel-original.txt",
+      "bytes": 371261,
+      "sha256": "169299806d18752082ffcb8eb8cb8e7fc149c9390df95ea837dfa6edacddc3b9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/camels.html.gz",
+      "bytes": 115866,
+      "sha256": "06b173dddc38fe41fec375faaa731acb34d9a2055b8aa97341953ef68366e99f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/camels.txt",
+      "bytes": 132128,
+      "sha256": "1860a7b03850ee8d9066ab3b6e552c62a624aacbe63f3692e82430554608b0ec"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/comembench.html.gz",
+      "bytes": 51830,
+      "sha256": "8e8f47a31b15a45cb17ff1def460bebdbecd82fd215276e960bc262d3390fe9d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/comembench.txt",
+      "bytes": 65223,
+      "sha256": "a4420237a37b0fd401b7df0db84b9adb7b6aff6db05e7f38c571f16fe1c195e4"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/commitment-revision.html.gz",
+      "bytes": 23218,
+      "sha256": "10b2fca4775f021bb7c70c93fd3f91f0f775b4139a957c249ee943ec467f104a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/commitment-revision.txt",
+      "bytes": 22243,
+      "sha256": "b98fb53f49526aed268d1c83c84c9fdbe6a95401eb5cca5b65b7097e893b606f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/context-fractured.html.gz",
+      "bytes": 55509,
+      "sha256": "be64bb185194811a30d15fe33cf85258d6be615c2e09faedd7eddf49ca3105e0"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/context-fractured.txt",
+      "bytes": 73355,
+      "sha256": "1a609064268bed1fba62d2638598a4e9471dcb49553bd69182767a7b5defc92e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/jones-abs.html.gz",
+      "bytes": 8858,
+      "sha256": "dda03da215ead1bac8febf9ea5238abced7e2eacff156d90e30bc2f1712932b4"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/jones-abs.txt",
+      "bytes": 4766,
+      "sha256": "db53c498af6afaac0483ccd9d1eabadc6f84972d48a8693e9acf4fa80d16856b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/jones-pmlr.html.gz",
+      "bytes": 4142,
+      "sha256": "9af26d8d19765ec4cf39cdd5471d75ef901b9c7927c0574f8292f09bc689f307"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/jones-primary.html.gz",
+      "bytes": 59124,
+      "sha256": "aa2254f6baea21ca9f78502938757ffc4947791d457acd8407d71699366e4ab8"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/jones-primary.txt",
+      "bytes": 98914,
+      "sha256": "d6cd122e13356ecfb1ed7ef213e3e6ecb78b21aa94d1d1c6c765f2fd3a101cad"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/memsecbench.html.gz",
+      "bytes": 67297,
+      "sha256": "7b085f329baf06ec1343af614daea2fa983ee1eb33f124569ab51c6f23c57544"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/memsecbench.txt",
+      "bytes": 92551,
+      "sha256": "be4d526171f831b22ccf1b19f732f91c593eb15f907125540a18027cb26b4a0b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/revocation-contract.html.gz",
+      "bytes": 42955,
+      "sha256": "59b4fed8b51db7304e217a7638bf066c17432d1d3d31f1d884e8d8eb203fb586"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/revocation-contract.txt",
+      "bytes": 65112,
+      "sha256": "8d9c590f262ece2c295c2648efe6367eed06829afe9fc75c45dd34d81156f7dd"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/revoked-memory.html.gz",
+      "bytes": 84090,
+      "sha256": "e77b51c135af6038c75e0a6f0f69aa9b79530ed5305843b867fcd49f1d5d6e65"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/revoked-memory.txt",
+      "bytes": 81707,
+      "sha256": "e249c474ff87cfac77d6959700749372eed840380e691fc626a649147dd9b208"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/safeflow.html.gz",
+      "bytes": 55331,
+      "sha256": "0f1695ef60d005b0491393dd5b06fd6701de60d7833ee3ccd7a360f49bf96d11"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/safeflow.txt",
+      "bytes": 70333,
+      "sha256": "e829e89c80ac8feaed3f34c0bdc74186f9fc3eec41280681e266278fb64a5128"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/semantic-consensus.html.gz",
+      "bytes": 41380,
+      "sha256": "3009ee47e99d792dac5089247ff0441729d1bcddfa6338fd26665c318c01d5f9"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/semantic-consensus.txt",
+      "bytes": 51390,
+      "sha256": "cfbbdaac33c5d16fe018f78dc36eb654268ae56084b28010f43733135ff7aa50"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/twingate.html.gz",
+      "bytes": 55877,
+      "sha256": "fcfd3167f4eb8149d5da836b3a6634620f882106e6bc8587a78d026736137bc6"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/twingate.txt",
+      "bytes": 92610,
+      "sha256": "0dd71e36e21d4bf787a7532d0670a631d59fb84d062caf2c701f1cf76cfd2714"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/adaptive-control-search.xml",
+      "bytes": 10982,
+      "sha256": "c37b5f3e90b0000325b8f44a39b6e34385c21b097b4bae56a1e9ef4e5389ca88"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/coco.pdf",
+      "bytes": 4274069,
+      "sha256": "218268b8f488a3875f30fbed21984ad88338874dfe3daf6b8ae04d754d6c1a21"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/coco.txt",
+      "bytes": 50127,
+      "sha256": "c932e0134d5e8c76f49a00810bae2ab543fbc28bd396a104b0b80fc6b079f967"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/discussion-monitored.pdf",
+      "bytes": 6227189,
+      "sha256": "2c02e1ca45bce1c0fd61872bb6f1d41154c56bd27ec34dc5f1b8dce6a7508dca"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/discussion-monitored.txt",
+      "bytes": 66360,
+      "sha256": "5e40531ec03d62fcf95efbf842ecf1a6781b22d30a78903142ab2112573e67d8"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/episem.html",
+      "bytes": 285100,
+      "sha256": "1990f45133134a24192cce8f552e99a8e92b9fe2d4e0f19eba4c0076bd032258"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/episem.txt",
+      "bytes": 79864,
+      "sha256": "fd887f7573ff70a21c74d851a16d2bd3ba23f9b6381e2b71e90b8f3adc8080fe"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/evidence-recovery-search.xml",
+      "bytes": 15955,
+      "sha256": "653db57ba52969b2e776876d6a44a0b3946802a14619145dbba40ce76bb001c3"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/factor-tu.pdf",
+      "bytes": 678828,
+      "sha256": "c3a2c6c5215fe7ab7839fe61ec1e0c885f3bc06bcd881ac9229158c5d8da2672"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/factor-tu.txt",
+      "bytes": 106841,
+      "sha256": "5ec702d6ca0301870668f6cdcd8dec96564eedd78bdc5492d69fd9bd9998948f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/factor-ut.pdf",
+      "bytes": 229295,
+      "sha256": "fcfb3b5cf8b3247b8fe4725233dd12d7f5e87e732f5a11b26d07d6f2264ef679"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/factor-ut.txt",
+      "bytes": 47632,
+      "sha256": "3755b4396d47e7306343628aa60ae2b3831a321735f2ea2ca8562ca988151a09"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/factored-search.xml",
+      "bytes": 18662,
+      "sha256": "4fd343f44983dfeab528a7ee4142d5e05af49d06fddf9f3620512fc6131e2e5b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/governed-escalation-search.xml",
+      "bytes": 16373,
+      "sha256": "39f8c48b5f640345bb0767749985aaf105029b84fba72919010770e5a85325aa"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/handoff.html",
+      "bytes": 264977,
+      "sha256": "5fa326d7c8802676a7104f8a009aadf61dc720360e36612c3d7dee877f7cf346"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/handoff.txt",
+      "bytes": 69621,
+      "sha256": "b1d59855ddbe827d0cf500c2eb3d64827bbe07223263c2ffd5856eea927d0774"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/legibility-search.xml",
+      "bytes": 19692,
+      "sha256": "74e1e944b07fc91596b45c8c40a6761c77345dee4c626e49bfa3c4ba5ce1f637"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/legibility.pdf",
+      "bytes": 2248215,
+      "sha256": "f66620e8c00d705e2d1cf4aa2e55e7e925f036e7c7007847bf29a269dc10dc3b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/legibility.txt",
+      "bytes": 104152,
+      "sha256": "2ce1ab61dca15206fa4b8ae35099d423061119cc363cd465bb6d5cfbcbf6c840"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/linear-sabotage.pdf",
+      "bytes": 414624,
+      "sha256": "070114edbb0ae68ae35306161c1e047b25e26858a90d3ec1e7750e2a6ced282d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/linear-sabotage.txt",
+      "bytes": 62071,
+      "sha256": "5a9a26febedd6eb9e3d712ca87a0be7d86a7f6bf3b9f8d5172fce2115b7609a5"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/multiagent-monitoring-search.xml",
+      "bytes": 17444,
+      "sha256": "2f09b316fd430a5a0c1234a99c45f7b69e8b32e4ea881cf9ae5ceafbd13cb884"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/repair-control-search.xml",
+      "bytes": 20455,
+      "sha256": "381b10755b2de42118c4bc1bbafa4efeb67a728e30ce210bb1534418c28aa57f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/research-sabotage-search.xml",
+      "bytes": 7603,
+      "sha256": "f164209aa6a7b27847728e67f4f31d97bedb4a71329d7c9a8c36a85c4f8f625d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/sabotage-bench.pdf",
+      "bytes": 3466397,
+      "sha256": "833a48e6c63b0e1b36af9d7e1952878752379115c49f72bc2c9e3e7af3161cc0"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/sabotage-bench.txt",
+      "bytes": 159133,
+      "sha256": "362dd884e7cf70f1a6e195e1c97293862b98a9380ec8d5be123aa517fc652238"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/shade-search.xml",
+      "bytes": 9244,
+      "sha256": "802b148de9f4dc50038741cf176279a95dc9c970f290b747e41a835caffdbe46"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/shade.pdf",
+      "bytes": 3703037,
+      "sha256": "f9c1656907b7387faad5099d405d048a0346071bea8dbffc0b68962a278330f4"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/shade.txt",
+      "bytes": 160282,
+      "sha256": "e6be6a1e3b23029b4945a3620d7250cbb2009f8840ca20a6d67584bfb1c886df"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/primary-sources/shared-premise-search.xml",
+      "bytes": 821,
+      "sha256": "8688f09b09afb7fd6e1bb56a56a13ddd899b310003a8bbcf188d40ea932036c8"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/attribution-search.xml",
+      "bytes": 40792,
+      "sha256": "eda334654b6e638077cb6a7ceacca2dedf532d6830f76789353e3c43a45d8611"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/blade.links.txt",
+      "bytes": 935,
+      "sha256": "a24cb1273f5210556fba2cc3ac4785d207bfe86d4564915b664c84dc14fd4267"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/blade.pdf",
+      "bytes": 845216,
+      "sha256": "bc3f62a86b695f5ee014897cf1389f6bed91f724a73813539cf5c42a3b4a4d99"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/blade.txt",
+      "bytes": 67225,
+      "sha256": "5a56b5f89f5727ac6fc85b74d4497568d883d20e2428076b9e52d61085f6b65d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/event-context-recheck-20261106T220602Z.html.gz",
+      "bytes": 134978,
+      "sha256": "c31df8a5f2b456dc9351b7c56de686bc2d900e58836fead88a79ab6a89cf1b48"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/event.html",
+      "bytes": 927178,
+      "sha256": "dbc791ec06a1c6922a2b1b61e7f41d3f612ab755759ef1e587cd7035736b6e81"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/event.html.headers",
+      "bytes": 2001,
+      "sha256": "84290f1f359df3e420db8e4340e76c7aefb1000f8569be70e3296f361bce7a48"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/event.links.txt",
+      "bytes": 13919,
+      "sha256": "4278f0ebb80f34917e8b97fd91714c6bede20b133a7ce066554796efb7a0e927"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/event.txt",
+      "bytes": 72104,
+      "sha256": "424b7c27dc8be3e9f7bf423807c3b996530715f5f57312234d914eff52f1c04a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/failure-attribution.html",
+      "bytes": 4787,
+      "sha256": "2f813378e7ada62ccb6bafa8014f29f5e85f9fb04bf9d3afe05540b914a47083"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/failure-attribution.html.headers",
+      "bytes": 4892,
+      "sha256": "e7dc0d527450297798db60648693bb2f71fb0b6c26cb6831be7daea965dc757a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/failure-attribution.links.txt",
+      "bytes": 82,
+      "sha256": "aae926493f6cfda2f3709ce04244308e4524ca35faf46a754cbf2f64e62746d7"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/failure-attribution.pdf",
+      "bytes": 12692,
+      "sha256": "a2d811e0d24af89d9bd4b19cc9e8fbc474c67ef3827648550a6560eca2a5e332"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/failure-attribution.pdf.headers",
+      "bytes": 212,
+      "sha256": "d3e37cb4ba16b92f494705764c08240c3684eb72a0f250f6eeaf4dee4e868b42"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/failure-attribution.txt",
+      "bytes": 284,
+      "sha256": "765249e6bd8e7b83e4b4259b20ae2b9b66a508762efe525827ce77917d640a5a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/failure-note-v1.json",
+      "bytes": 250,
+      "sha256": "f486b1e009fbe31c639da6bf9d0dbc75a393e00b9115e517fa4856b234abb933"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/failure-note.json",
+      "bytes": 273,
+      "sha256": "9b1afff6151da24efe307333b997af5d034d31d35b36ecc594d1004489a1fb16"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/metr-incident.pdf",
+      "bytes": 7443085,
+      "sha256": "f7e87133833363da6eee661df0c86926ef852f8b202ad87695ea6596b92d3c73"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/metr-incident.pdf.headers",
+      "bytes": 512,
+      "sha256": "2c392385b7f691c0b273a4138239ba5165184ef7ceb4ba0303d85ea971a88fdd"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/metr-incident.txt",
+      "bytes": 228707,
+      "sha256": "20979c385c9fd0b8600038e32cfbc0c89b20dc58559e91cd631cd04166db2e3b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/partial-monitoring.pdf",
+      "bytes": 1141411,
+      "sha256": "0ba46622dc4ba496fae87dee6d73760513ce971a21f392693161260873c554ec"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/partial-monitoring.txt",
+      "bytes": 231234,
+      "sha256": "d83a1eb92506e60b081063183774a9223281a912e9a24aca99d16db650774eee"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/partial-observation-search.xml",
+      "bytes": 21925,
+      "sha256": "b12af4d491e42399d741e6345198cf8d62772c77f0cc7bdd0e808a5f127bc106"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/reference-error-search.xml",
+      "bytes": 27352,
+      "sha256": "cc6b8e0037e10405417aec71a4b14afa2f5674427026f417a47c25e9fa03c517"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/trace-trial.links.txt",
+      "bytes": 184,
+      "sha256": "3d8e8d6cdb4a615f3ffe7faa4c9d96fef0eecf3d2d1c810670d4818277f4bd6a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/trace-trial.pdf",
+      "bytes": 9839763,
+      "sha256": "91799f8df58200c13b5e566ec593460a5d76bea7cfe99f3eac93c368e21b5049"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/trace-trial.txt",
+      "bytes": 293625,
+      "sha256": "0ffd011c166ea385a94d04afe5a3b9b93d61158370eeebbcaa3dc957c8ea237b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/who-when-pro.links.txt",
+      "bytes": 2518,
+      "sha256": "3129e7f55d5766de5538e13691c5103f81396e713d67c609b4a8a08f83dca544"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/who-when-pro.pdf",
+      "bytes": 3000513,
+      "sha256": "a85506fa6d8235758e3495f2a8037e8e06dd85fa0ce5c8f1ccf96be8470272af"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/who-when-pro.txt",
+      "bytes": 193857,
+      "sha256": "e1c915602de4507cfea0e68c4d0b6ec2d1618beb95f4defd700edf9902ade5d5"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/who-when.links.txt",
+      "bytes": 90,
+      "sha256": "8b9cb1c2694f5c90ac0188a2cabbc53b2e67968e989510e8aa4ddc2de632ad08"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/who-when.pdf",
+      "bytes": 1463076,
+      "sha256": "1d8b788987d06a6337fd923995e3e8c0514cc0a3cb5e758cf9510f4d7cc9032c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/who-when.txt",
+      "bytes": 108745,
+      "sha256": "abc2a9750f2b1d44295026ff4fb6f4a7588909d1217f902583545a4f9f056329"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/foundations-pdf.headers",
+      "bytes": 997,
+      "sha256": "4c9e99f885005fc59c3da17d4e5b68bef12df449803ced9c929dd837695e5317"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/foundations.headers",
+      "bytes": 901,
+      "sha256": "efbc7bf302b857050c39401841f27d96f000ab404381ff78742c384b4a229a79"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/foundations.html",
+      "bytes": 22299,
+      "sha256": "2d653431fdc51640c26eab4e1bc128e63f111f2a5fede973e6ba4f228c3bc1c5"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/foundations.pdf",
+      "bytes": 125753,
+      "sha256": "ac6b2ac8fe3379f77f4669c81e162746d597073ed2a6ebb721766e7b73a222bf"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/foundations.txt",
+      "bytes": 67861,
+      "sha256": "23f6d4dc26af0e9a65d36b263f1cfae98d66ffd1ea662d9b4738c65b5db0c7ba"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/mediated-abs.headers",
+      "bytes": 620,
+      "sha256": "3c4be4de956482f53484837a80a718d22b68e4f8988f44727ac4327c7619f8a7"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/mediated-abs.html",
+      "bytes": 42153,
+      "sha256": "47126155fefb9b394823191edec31ed0372ae7343aba0e6882b4c4779f83f850"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/mediated.headers",
+      "bytes": 680,
+      "sha256": "6bd2c03d1c932de7837c9379549c660feefdd5f7a923cc0e1dcfc290b9b13e30"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/mediated.pdf",
+      "bytes": 651011,
+      "sha256": "deaa940dc40dd72aa67f694042e9e35b500984d8646d3cf5123507612e7ec7a5"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/mediated.txt",
+      "bytes": 108606,
+      "sha256": "2b8a137e2bea329037ea17eb45af763e743a1649adc5205a16931597518d54b1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/stackelberg-abs.headers",
+      "bytes": 621,
+      "sha256": "1ea5d440f97d028f356aff2a3223fb5edc7ba0d7d87f224c07d0815e68eb0b9a"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/stackelberg-abs.html",
+      "bytes": 41849,
+      "sha256": "47b9fb8a4f5b0fa312406bf7df56665e4775e429b55dc58db004c0dd5d8b1cc2"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/stackelberg.headers",
+      "bytes": 679,
+      "sha256": "b0588b7ff5bccaa4face4b3e8314c40133134be3645a41194f4527766d4bce6d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/stackelberg.pdf",
+      "bytes": 209093,
+      "sha256": "1b636759e0e8b317263572fb38fe6ab35e7fe1d7e3f79cbdef2845df87340ce1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/cooperation-mechanisms/captures/stackelberg.txt",
+      "bytes": 82866,
+      "sha256": "948ad59ee8bd354e0a6716d5a6f3ebedf0d083bb66e5da03027dfd1c99297fb1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/general-context/sources/aria-thesis.pdf",
+      "bytes": 609910,
+      "sha256": "9d2d8e0368440cf6b9e9426eebe91c930adfbd367bcbdb31f38aef797f2f3eaa"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/general-context/sources/aria-thesis.txt",
+      "bytes": 58269,
+      "sha256": "d59c236e7f4221975ea5d3dfef6f3b77a59de3e96e6de16d77c657b0df17a925"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/general-context/sources/aria.html",
+      "bytes": 67471,
+      "sha256": "ea5797eca743937cb587d40c68d0662ffb0fdfa4dae2f00518eba3249adf6e29"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/general-context/sources/distributional-abs.html",
+      "bytes": 40613,
+      "sha256": "afc5fb1ce86acd6f5d4c65537c5f4cb292f33e170562eb124381150888c6797e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/general-context/sources/distributional.pdf",
+      "bytes": 634503,
+      "sha256": "0d57f8961ff51520c905d0dcd7b822222c3c36852a544d1cba2ead045dbc0384"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/general-context/sources/distributional.txt",
+      "bytes": 137517,
+      "sha256": "7621643438ad617c0289a47a758d87d1d4bfd7d88e0a8a4558bc257f5733a164"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/general-context/sources/infrastructure-abs.html",
+      "bytes": 43125,
+      "sha256": "85d6ce4d7a5a8463dd3580d8c12c39d21a37d47b908a7d11759f91cedc2c8dcf"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/general-context/sources/infrastructure.pdf",
+      "bytes": 639758,
+      "sha256": "e1f9c0ae819c88660eae40fb1a5c945168a0a4077cc1acebc8ba3098ca221d75"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/general-context/sources/infrastructure.txt",
+      "bytes": 115997,
+      "sha256": "46d5404c0a4c8b7a93dc848f96698b2f34d32dd363303ea94110815a970dac8c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/primary-sources/cooperative-open.pdf",
+      "bytes": 1442210,
+      "sha256": "b749cbd231480275d214f5cca1ff2d332fffecd1bdde560a1e1423915309dfbb"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/primary-sources/cooperative-open.txt",
+      "bytes": 266760,
+      "sha256": "93eb56b0f8795150ea46c54faee6d766548d4b72b65750855f7085970dd83432"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/primary-sources/metadata.xml",
+      "bytes": 8184,
+      "sha256": "0b119268b1bd105eea314b48a994732d776ea8cbc9fe7c4fc95376444f1d1487"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/primary-sources/risks.pdf",
+      "bytes": 4061553,
+      "sha256": "3a8e798a29f77ca422b8565efd0b59928c1e5b24d5cea27fed91485b54b67f5f"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/primary-sources/risks.txt",
+      "bytes": 429520,
+      "sha256": "103678e27e86118dc278a47cdc601e80651005bd604905ec664398a93c7e2dba"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/control.txt",
+      "bytes": 168386,
+      "sha256": "056641e90709e21793fd47d1e53da0c8a39dc6210e801edc5c5725472ee7b330"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-abs.html",
+      "bytes": 42845,
+      "sha256": "891b65b6cfe3530cc028f011bae0b6e85db6aaccceddd1e5ea6e8341f1f85f8c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-abs.txt",
+      "bytes": 8125,
+      "sha256": "4c2ead2b020739f1ff577a17ac4252669892baac94646c59056e6b1d3a0f2d0e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-arxiv.html",
+      "bytes": 49326,
+      "sha256": "8ac41a962d653f7d0e1cce2bdbe94ec58797feaef054179af5229d4e49ef0ae1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-arxiv.txt",
+      "bytes": 31257,
+      "sha256": "15f5b8d08036d4822d8edec453c9fe95b22a72ad4d83492cfb3d345c6a275e20"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-bing.txt",
+      "bytes": 12124,
+      "sha256": "21747cdf04f485551fe6ebc2d8abccf27292b5516a190b8b3801c8423bf8e8b5"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-body.html",
+      "bytes": 320187,
+      "sha256": "5ea4454a5e8118cf29dbeb412d65e501d2d41f7b014a83cfaae008f7761ee42d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-body.txt",
+      "bytes": 99686,
+      "sha256": "7904c0e50c35334324d440c94dc559be908701c8c7abdf8ce4b828bb0ea52627"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-forum.html",
+      "bytes": 4787,
+      "sha256": "e6b8d4626332b7e7fce3272d792477095a4008037dbc6c87a47dd20d933c6b60"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-forum.txt",
+      "bytes": 351,
+      "sha256": "d1ef98683a8f39e90b67b48a381dad3ccef5f2b2ba626f19bd2d48f88081899b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-iclr-list.html",
+      "bytes": 758163,
+      "sha256": "877e23333c92265d910c15060faaf60010dfdf4d73e68baa4e8fe110ac9977c4"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-iclr-list.txt",
+      "bytes": 627803,
+      "sha256": "92654ef1eadf6b0cac39a66f454b44d02c98c37a83a40c822f2c80f77508a937"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-iclr.html",
+      "bytes": 84069,
+      "sha256": "0027c86f7818c51bcb2a6938e1d281551c64d40475c2589f997c9d6759c8831c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-search.html",
+      "bytes": 92944,
+      "sha256": "02efd43ce7be26f363034a73403c93b91bfc5c6be7607ab0c28ad03be931ce1e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-search.txt",
+      "bytes": 429,
+      "sha256": "8e071fb70bb1b5be90a82af6cafe5c86d4d3241d59959075c2fc489856b9f292"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/who-when-page15.png",
+      "bytes": 360952,
+      "sha256": "89f767d821679e744c0a79a8c418b2125864a4dced0904f49341d5345b14639a"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/acquisition.json",
+      "bytes": 46751,
+      "sha256": "bd74ec43ab28a66c34bff1737d6e8e43e0cc1f9a1e81738dede65c045e1a34c9"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/cicd__cicd_01__collusion--agent_prompts.json",
+      "bytes": 80112,
+      "sha256": "766087272a7f379dc664edf4b42bb0bd7093f474f63db87d2c185e32d5117e82"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/cicd__cicd_01__collusion--results.json",
+      "bytes": 24310,
+      "sha256": "f3269e7d98de669c387d6a6098c020ee6dcc66e9a43d3fed2a85e81d8e16bc68"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/cicd__cicd_01__collusion--run_config.json",
+      "bytes": 620,
+      "sha256": "8105d1fd199c9fab086725da18a96d7fec7a1ddd75efed8da085f43a666d96ad"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/cicd__cicd_01__control--agent_prompts.json",
+      "bytes": 56030,
+      "sha256": "fab88eee098c636b70204cd5262733fd31c963c3e3e5449cce7947cf2c724ef0"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/cicd__cicd_01__control--results.json",
+      "bytes": 17329,
+      "sha256": "24425990d0e1c3f3c8cd953fa4e3dab9a53055babb2f3063c62a95381e4a8403"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/cicd__cicd_01__control--run_config.json",
+      "bytes": 567,
+      "sha256": "0ad8b3f219e671999d4e84010579775ab1a2283c89fb7fe7028dc8b94a65e0ae"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench--LICENSE.gz",
+      "bytes": 624,
+      "sha256": "9989a0ec32fd88a7d2c3a2b8e0c36233a0338a8f4a94e264dbfd9295b10eb6ef"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench--README.md",
+      "bytes": 12888,
+      "sha256": "28c26212f89f337872fa44da01ed6d0718ee396c4daaf429f3c2df0275ac842c"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench--data__control_instances.jsonl",
+      "bytes": 221600,
+      "sha256": "a39db0506e36b95ff41123cf85246ba9c2d9044ff0879bac35e0f7515774e59b"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench--data__polluted_instances.jsonl",
+      "bytes": 300000,
+      "sha256": "38faf5377b985759b40a3ab0c2206ab12b066bd91388a1a42c252e9950a64a55"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench--schemas__handoff_oracle.schema.json",
+      "bytes": 1830,
+      "sha256": "e4dcb8329685784f448297e19b104ca0cfe58ed5fe90a3064f1a6a2d566d8fe1"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench--schemas__node_view.schema.json",
+      "bytes": 4558,
+      "sha256": "8858b8d15e049d361aa9da05e547dde70e4c6971266a7020018923621719ecd9"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench--schemas__workflow_family.schema.json",
+      "bytes": 7747,
+      "sha256": "2e652b4c5315f6e72639b661feaa3e476d60d773c56e2506482ad2f204b392c2"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench-first-workflow.json",
+      "bytes": 73949,
+      "sha256": "8a7e5af659222918172f80510273f900a70ba5854fff7e3c9832d410a27c7d04"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench-hf-tree.json",
+      "bytes": 2877,
+      "sha256": "2f262292606fae576632a47845f7d09274e60b02e028b87edb755efade6d7acc"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench-hf.json",
+      "bytes": 2505,
+      "sha256": "291f14a9941a4b592bcd193cd6bd631e96e669d03d85d9190d53f0671e71fe63"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench-tasks.html",
+      "bytes": 3591,
+      "sha256": "d87fe56666e3946a5d89e4d335c3a065831c4f56e614cee7821e007917a7ab3d"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench-workflow-prefix.bin",
+      "bytes": 262144,
+      "sha256": "a0aed7b720145d89d04c8613a6ee12b14a8ade58e4ee0b1c2536d0a978ed9768"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/comembench.html",
+      "bytes": 160352,
+      "sha256": "69d9b142d43b538546d317243bd462df0ea14b6925fe9066295fa4edf090a546"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent--LICENSE",
+      "bytes": 1096,
+      "sha256": "ca802461525577bcacfca6cc9d8e6701b7c59e45655ec11e02b6d54613af2971"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent--README.md",
+      "bytes": 11188,
+      "sha256": "3c53f7b648aa4944d796b5e51f082c75d33eb389a3fb4a61807358a1eab9e004"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent--experiments__controlled.py",
+      "bytes": 7507,
+      "sha256": "e2579a590584836cf85402c1d2810163050f69561e8f759cfa78a9e6c0e9268f"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent--experiments__evaluation.py",
+      "bytes": 8776,
+      "sha256": "ed8c5c01238514bb5df44835d591c4ca232e8c607f6c40f7e100ae137216aa62"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent--experiments__prompts__policies.py",
+      "bytes": 3710,
+      "sha256": "02ee679d579c02dc10bd5a6d9b1523904573b74a00808485b798f55583085fdf"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent--experiments__protocol__messaging.py",
+      "bytes": 3216,
+      "sha256": "ed01f5c54802443bd1daba8d210fabd176fad0c924840c07f2b6820ed092a71f"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent--task__text-extraction__sources__text_16_contract_termination.txt",
+      "bytes": 2153,
+      "sha256": "9e23ca39df787e527f76106dbcb62ea63d8d7397f1a7ce5eda29bbb212cedce0"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent--task__text-extraction__task_manifest_text50.json",
+      "bytes": 61290,
+      "sha256": "2e37b6948259782a88dac80be75212c508a147024ca0295ba61646677737f2b3"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent-abs.html",
+      "bytes": 41161,
+      "sha256": "cae45fed123f66e92426cc7d9988b79b628016d11636dd62fb8084c504536dd9"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent-commit.json",
+      "bytes": 5669,
+      "sha256": "3cb746b63db8f1b5b6429f876c12eaac674d33a4e87412a4631e032f93a25240"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent-hf--EXPERIMENTS.md",
+      "bytes": 5519,
+      "sha256": "9d1d848a9022b8b7135ae2d5b423a4c35029ae6654a97a64402e8576450948c9"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent-hf--README.md",
+      "bytes": 4616,
+      "sha256": "fdc131f0da394e57ec339374bbdf212fbb5ff8afc5ba8a2c311850999387f0a1"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent-hf--SCHEMA.md",
+      "bytes": 5938,
+      "sha256": "cb4fac288475fceb28860575f540fbd8f3394a3454cfd05027d4714b2f053569"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent-hf-tree.json",
+      "bytes": 219262,
+      "sha256": "f775a5312374b34cc7ae59955e2b3ed3d84e993697a766ed1e098ebcf7b239cf"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent-hf.json",
+      "bytes": 307439,
+      "sha256": "dec6b4b89fd3faede068d98b214161fffe7cb9e4728db08b8034f73e5961fe10"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent-main-rep001.json.gz",
+      "bytes": 4056981,
+      "sha256": "5fb2bd6e5722f8476beea29b3579229fc638ba97411d63081c07ed3d088e2897"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent-repo.json",
+      "bytes": 6533,
+      "sha256": "0681cf897fc19ecdf14985a0347016226b5731a88bffdbff974e536f5b0339bd"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent-tree.json",
+      "bytes": 82614,
+      "sha256": "c41830cc4c3b8bc1417e2a4877990597f10a095dcd3c17908643699d6bf34de2"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent-unconstrained-rep001.json.gz",
+      "bytes": 2833504,
+      "sha256": "6acfb80ab66f2e09e73bc3ef00cdcd8e3c13d5cbefb41b62e9eb6449bbe8f9ba"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent.html",
+      "bytes": 891048,
+      "sha256": "ad087d545916248f0de4865bf384776deea4234f9610d4a76a4d1c9cd00a1cc6"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/emergent.txt",
+      "bytes": 152516,
+      "sha256": "271ff767dcb0f6bd256d7b6707aa9991d9fa21b2482cc06311f1346c9adca669"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/research__rp_01__collusion--agent_prompts.json",
+      "bytes": 72510,
+      "sha256": "b059a4755f61eb20af335ecb7fd4dda390523d81b75bc3a0a9b8ea1260cb6953"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/research__rp_01__collusion--results.json",
+      "bytes": 21942,
+      "sha256": "66cf0531d6361b1e567436d4214886be7d6902e60b4edfdf72cf7dfe8c765de3"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/research__rp_01__collusion--run_config.json",
+      "bytes": 630,
+      "sha256": "36d81814225e84e5645d99b02eb096da2fcce53c6d5798a58f2e91526caaa0ed"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/research__rp_01__control--agent_prompts.json",
+      "bytes": 57993,
+      "sha256": "674aa1f71bfb77848b2efd11b8e09eec8d6c8e1723a3df464e9251480e30846f"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/research__rp_01__control--results.json",
+      "bytes": 18642,
+      "sha256": "8f362dd3bb606333a30579d0b98a0b5d01c9b84c6d32b3ac3f96d17d70cfcc2f"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/research__rp_01__control--run_config.json",
+      "bytes": 574,
+      "sha256": "eb5b2d37b644c976c6b6f96af3c2d6cae261734aa66fead0e7816a83b3c78cbf"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage--LICENSE",
+      "bytes": 1063,
+      "sha256": "2f0f543d7910f64b14e85396475116506be6bc4fec54efdfe16ff2476fcaa6a7"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage--README.md",
+      "bytes": 7218,
+      "sha256": "c0fdb4f2da55484edc1a2aa22ed5913f9b11ae653289600b0c1b72aaba0758b8"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage--blue_teaming__dataset_loader.py",
+      "bytes": 13826,
+      "sha256": "0d62d58f4bd432a00f58ffd26f255b60a10b351c3f97ebbad06bc6bae6ff43da"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage--blue_teaming__llm_judge.py",
+      "bytes": 17365,
+      "sha256": "3aad45b001b3115fe2ea29080e5bee849b5b4a6437230be6dabe5f53d6b73cdd"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage--codebases___rubrics__lazy.yaml",
+      "bytes": 4203,
+      "sha256": "30cd9a350a2054b298585c23054b38bb2c4901c316d104c0a0c5681b59b1241e"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage--codebases__lazy__alpha__PAPER.md",
+      "bytes": 11484,
+      "sha256": "b13f5b879e04633b9ddf1639322806153de190cf7a55e21bea2ecc615bdb97c1"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage--codebases__lazy__alpha__arch__basics.py",
+      "bytes": 7762,
+      "sha256": "9863180ddbffae390aff81faeba81ff62167dcd18160ad8175b5ef0159a00a78"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage--codebases__lazy__dimension__arch__basics.py",
+      "bytes": 7720,
+      "sha256": "c0b07a6d51d8943dfdb2c62b247fa5bfa180a49b6b581c20e65e32c951be6155"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage-blue_teaming.json",
+      "bytes": 18801,
+      "sha256": "55130da680e71d74c067f04371c96ba3546b940967d98e4d513d7ed06f29d967"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage-codebases.json",
+      "bytes": 9181,
+      "sha256": "debd7c6c5715f7b1d93f564132bb743ba9524fb3e4bf68fc9cddb9f33845518d"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage-commit.json",
+      "bytes": 10682,
+      "sha256": "ba2c02dcdf4fcb5c63a1d3bd6a3939277fa710706064b9241f16ea802aa1df03"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage-lazy.json",
+      "bytes": 3887,
+      "sha256": "3a15e8aa83f8be5bf8dbda61763e60e8ef628a65617f72ed57e853f51101945b"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage-repo.json",
+      "bytes": 5667,
+      "sha256": "44d0680ad7fad6ed32213a5508715385f0734279bac74a86ecc42cf36a910435"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage-results.json",
+      "bytes": 10658,
+      "sha256": "0ea06de8bbd6584a1b4af2bef4c49765e2b9898a188ec859b9303ee574aa82ec"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage-root.json",
+      "bytes": 7995,
+      "sha256": "f1222b00e12b85e3dd5ca0091065f255bb58ea635798989ea57c2206ff25d6d9"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/sabotage-rubrics.json",
+      "bytes": 12439,
+      "sha256": "40f358ea1f29a3b06726c5ab5e8072a7ea6b0683fd89fa069dc158f8d93c3162"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/trace-inspection.json",
+      "bytes": 76683,
+      "sha256": "eacd97f990554890282ca051b0f307da65481d5b19b2991847c6d1d909df11e3"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/transfer-inspection.json",
+      "bytes": 48640,
+      "sha256": "a03e2f2c2a354b4b7ca810275fa3be60bc83a9cbe0fa0db12b959f0ce2ced071"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/pass-2/sources/transfer.py",
+      "bytes": 122692,
+      "sha256": "21585f025b8a7fab78360b63d19619ff06166c9756de32c4652f6d9342c29134"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/ai-village-metadata.json",
+      "bytes": 43564,
+      "sha256": "384e31b01377410565250aa81755ca4576f4999c372cb12cb527be8eb42cabae"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/ai-village.headers",
+      "bytes": 1016,
+      "sha256": "c2c8179a6e646b323d974e9757c1ee79a239a288313fe78a39778762dee07953"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/acquisition.json",
+      "bytes": 4946,
+      "sha256": "e7710467d7201d9c66a8e1d2f2131f0b8d104a37db826006e93d3116d9975b70"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/dataset-README.md",
+      "bytes": 3178,
+      "sha256": "05be2d89e255948d6f33d94862d21d4a6f8ff82f1d156c0d97be6b7e49285163"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/deception__audit_01__collusion--agent_prompts.json",
+      "bytes": 146220,
+      "sha256": "fe9689661a989a7a1d4b6480cc4b5c5c41cc4a0553dafd2091ea8d7cd4b37ee3"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/deception__audit_01__collusion--results.json",
+      "bytes": 14385,
+      "sha256": "1214ccb403fb40432ce98e21f88d260c97f4aecf60fa4de3842a7965b66bfff0"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/deception__audit_01__collusion--run_config.json",
+      "bytes": 919,
+      "sha256": "e442306c39c1487a2926089c66f7d12153c92fce433175e7719beac861c616ee"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/deception__audit_01__control--agent_prompts.json",
+      "bytes": 132403,
+      "sha256": "3f7c28e62351c3da244b88c1e863f778a645337b43e32b9f151e0df95b6f6067"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/deception__audit_01__control--results.json",
+      "bytes": 12747,
+      "sha256": "133706423d52edbd12a3fd47c3f9b34cb67d822a3129073c9d085807179be8bc"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/deception__audit_01__control--run_config.json",
+      "bytes": 870,
+      "sha256": "c7723bca132710108e907e378c61387adfd6a6beadc840f9036f6315982c832b"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/deception__audit_02__collusion--agent_prompts.json",
+      "bytes": 152050,
+      "sha256": "0dd193452d5c0f343072a4187351753325edb64eba7c7f1917ea5d663ae6f720"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/deception__audit_02__collusion--results.json",
+      "bytes": 15430,
+      "sha256": "d1877455ca950a4c4dedf7e102e64b5fc1700f9823dcf12f8cda177f44da8ba8"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/deception__audit_02__collusion--run_config.json",
+      "bytes": 936,
+      "sha256": "49af65f2dee61cd39dd182a5a2ca472f92ebcfc2f460a9eb46bc32c694d683a0"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/metadata-qualification.json",
+      "bytes": 892,
+      "sha256": "e723017a4c8245a5410f6dd20463f1044154201d01dc689f325c756b92649141"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/metadata_gen.json",
+      "bytes": 562309,
+      "sha256": "b2411c7b8479f1bb67c2a7ca0a06886b18cc30a0fc8987ec6ef3c3619c060ad2"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/narcbench/sample-qualification.json",
+      "bytes": 2361,
+      "sha256": "8be02903a19dcf8a5bc8d2cebc4a174d1c386f897e753f049a7be70979edca3c"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarm-data.headers",
+      "bytes": 970,
+      "sha256": "7845f9415bbdafa7b4e9dfd4874081cacd503d84ffa90bb3ed98ebf97ae49855"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarm-redacted.jsonl.gz",
+      "bytes": 15214685,
+      "sha256": "7b66ab21674de52fcd3f557652f68b1801170c998e2f266862124e6edf283488"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarm-relation-check.json",
+      "bytes": 1043,
+      "sha256": "bbc79ed06c71d1ec71be0cc4eb98dcebf802273453af1d7ff03ed9e2beca2db8"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarm-row-R0053434.json",
+      "bytes": 704,
+      "sha256": "ac970296110f02f978611fd14aac288e8d7ba2e4e848c6f2241fb131001df9a3"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarm-structure-summary.json",
+      "bytes": 45119,
+      "sha256": "dc1bdb2d5453ac92731d9ad56b6ca7a7e0dd39d5424043958a18b535aec69d5c"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarm-viewer.headers",
+      "bytes": 970,
+      "sha256": "19d04c1989edef51ab48b2ec0a9626599f840ea0a32e292958d3f001a7d97337"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarm-viewer.html",
+      "bytes": 4008,
+      "sha256": "972c2b40a5ee63195485ffb285c22279d81f93ff6c767cae26428d0950a9a15e"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarm-viewer.js",
+      "bytes": 12348,
+      "sha256": "3992d8f3d03c89b73af7a63605159ca07885859edbfea52286585eed9e157ea0"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarm-viewer.txt",
+      "bytes": 348,
+      "sha256": "0af83dc04cfd3667c408dc74790ad4e06c3e76d38949f8f9d7874f05bb72323b"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarmtraces.headers",
+      "bytes": 966,
+      "sha256": "2fdfa8b9b84e7598fd19fd884f9823f5cb49ee37858445d59d1e6486505cdd4a"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarmtraces.html",
+      "bytes": 79696,
+      "sha256": "13a356b688fc345c40955fe09dfafa080cd032e063873fca7ba1132d4020ee94"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarmtraces.links.json",
+      "bytes": 2788,
+      "sha256": "b4392e9efd5cdbfb5dfb66b0dea70f1c9a5400621421d409fb761008aaeddbea"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/swarmtraces.txt",
+      "bytes": 50321,
+      "sha256": "4225d1253b7702b08af53d598998f48a37e866a03cca7a0e9b777e3b1ac0ef34"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce-README.md",
+      "bytes": 5349,
+      "sha256": "0b498c2b26d80bdd28adc9790438f8c2cf2557abe06c00035bb610b1459641d6"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce-classification-overrides.json",
+      "bytes": 1906,
+      "sha256": "92ab708f5c10fac306425354603ee0cd948c8508942438ebf4e209f79dbd85b3"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce-collection-summary.json",
+      "bytes": 1083,
+      "sha256": "5a7bf02c1a6aa8e2c70efe7c18af2344c222bccf098ff83a3246d04a3d0e8dbe"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce-data.headers",
+      "bytes": 587,
+      "sha256": "64160fbdbfb6607be98acf96fdda6376210b7689985fabdf2421a1d343daafed"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce-data.zip",
+      "bytes": 4570708,
+      "sha256": "969a13fbd7d80d7e1556eef58a347f52ecdd85661c541f6c0d1d6f5e2a86570d"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce-methods.json",
+      "bytes": 21187,
+      "sha256": "4eed4705fce4e7cd944af37bb303b63218bfceb95fdbea0475e0e857bd69a28d"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce-selection-provenance.csv",
+      "bytes": 12947,
+      "sha256": "1fcf2c9e36149ab6f8ab4bfdfaab5de5db193fd4733300556ac4c863946563f1"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce-structure-summary.json",
+      "bytes": 8199,
+      "sha256": "f06e940c60ad702c386f6fc7b95f0d426e1c98c06d544ab291586c05521e7b5b"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce.headers",
+      "bytes": 542,
+      "sha256": "a3cb784d31fb42436e0f6b505049905c0fda64d4879d4835a78249bb06d04262"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce.html",
+      "bytes": 183898,
+      "sha256": "bd4b79a18c04e6d7e8b3507dd191f864e31235f08ee584e68e30c2b5539c937e"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce.links.json",
+      "bytes": 9943,
+      "sha256": "50736522112cc828b25895dcc7f5a0c38e7568119414f090b3971ffaa9addb8f"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/transluce.txt",
+      "bytes": 40142,
+      "sha256": "37b73dde8d4933f155af36462f93434a58e95b07ca63f61f89398a7c0e5321ed"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/urlquery-representative.headers",
+      "bytes": 471,
+      "sha256": "af88dccd4f9373c905f2362f986567ea1e2290f7eaed393faf2b63ff32f0aae9"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/urlquery-representative.html",
+      "bytes": 31605,
+      "sha256": "ff768e55bfae4a698c4eb8b6461978b3bb6a88337136fb6ae89fa23627cb242d"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/urlquery-representative.txt",
+      "bytes": 5072,
+      "sha256": "b91ea270c44cea0061eee6792c6e83b2b6d9282e56c5ae25bcb6b0885c6f30c2"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/urlquery-terms.html",
+      "bytes": 27159,
+      "sha256": "f667cd8d88105246682872a0f0a7d20b0f3a273040abdfe9942b1bb9d6781e9c"
+    },
+    {
+      "path": "execution/PKG-02/DEL-02-01/Work/sources/urlquery-terms.txt",
+      "bytes": 13200,
+      "sha256": "1479dadeb14c630c69c44f7f0e61216e5ea3cb053af6b17b5b8deaac923765f4"
+    }
+  ]
+}

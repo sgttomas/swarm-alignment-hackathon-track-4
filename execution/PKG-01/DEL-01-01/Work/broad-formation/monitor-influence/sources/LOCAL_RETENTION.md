@@ -1,0 +1,3 @@
+# Source reading-view retention
+
+The adaptive-monitor paper quotes long literal separator lines in its example material. The repository conflict-marker check flagged these source quotations. The exact extracted text is retained outside Git at `/Users/ryan/working/hackathons/apart-Nov-26-local-evidence/broad-formation-20261107T011857Z/monitor-influence/adaptive-monitors.txt`; `adaptive-monitors.reading-view.json` records original/view identities and affected lines. The repository reading view prefixes those lines with `[literal source separator]`, preserving their wording and line numbers. Original HTML and its acquisition metadata are unchanged. No payload or source code was executed, and no checker rule was weakened.

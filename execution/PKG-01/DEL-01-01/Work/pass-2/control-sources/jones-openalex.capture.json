@@ -1,0 +1,8 @@
+{
+  "url": "https://api.openalex.org/works?search=multi%20agent%20jailbreak%20Jones&per-page=10",
+  "utc": "2026-11-06T22:18:06.002794+00:00",
+  "status": 200,
+  "final_url": "https://api.openalex.org/works?search=multi%20agent%20jailbreak%20Jones&per-page=10",
+  "bytes": 168320,
+  "sha256": "c65abcbc9c7de7e59e89bac395ffed4c9bf868327c92da57c0ca9674bb8c747b"
+}

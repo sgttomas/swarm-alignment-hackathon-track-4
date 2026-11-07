@@ -18,13 +18,16 @@ principles, reasoning, and evidence.
 
 ## Project status
 
-The [accepted PRD](docs/PRD.md) describes event requirements and conditional research
-support. The [accepted research decomposition](docs/RESEARCH_DECOMP.md) organizes
-that work into inquiry and findings, research support capabilities, and research
-communication. All five native deliverable homes now have substantive scopes, consumer-local
-needs, and Work/ folders. See the [project entry](loop/LOOP_INIT.md) for their
-locations and verification. Research is held pending further owner instructions;
-formation and experiments have not started.
+The owner stopped the hackathon undertaking after formation and proposal design.
+This repository is now [preserved as a worked case](docs/WORKED_CASE.md) for
+adapting useful assessment practices into Chirality Root. Formation produced
+source accounts, candidate designs and examined reviews; no empirical model
+study or event submission was completed. The owner explicitly described the
+responses as reasonable, so preservation does not assign a failure grade.
+
+The [accepted PRD](docs/PRD.md) and [research decomposition](docs/RESEARCH_DECOMP.md)
+remain the historical project basis. See the [project entry](loop/LOOP_INIT.md)
+for the actual stopping direction, preservation and source locations.
 
 ## Repository checks
 

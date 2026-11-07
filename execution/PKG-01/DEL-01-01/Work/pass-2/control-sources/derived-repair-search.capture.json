@@ -1,0 +1,8 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3Aagent%20AND%20%28all%3A%22belief%20revision%22%20OR%20all%3A%22truth%20maintenance%22%20OR%20all%3A%22dependency%20invalidation%22%20OR%20all%3A%22selective%20repair%22%29&max_results=35",
+  "utc": "2026-11-06T22:23:45.779192+00:00",
+  "status": 200,
+  "final_url": "https://export.arxiv.org/api/query?search_query=all%3Aagent%20AND%20%28all%3A%22belief%20revision%22%20OR%20all%3A%22truth%20maintenance%22%20OR%20all%3A%22dependency%20invalidation%22%20OR%20all%3A%22selective%20repair%22%29&max_results=35",
+  "bytes": 81369,
+  "sha256": "a0aeaff22bf0028e3b8c11629dbf422786c3fbfed20faac4c7a08a775f1f7d62"
+}

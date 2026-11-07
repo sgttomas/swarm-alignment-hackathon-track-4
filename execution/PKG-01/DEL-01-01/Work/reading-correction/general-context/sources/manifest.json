@@ -1,0 +1,56 @@
+[
+  {
+    "file": "distributional-abs.html",
+    "requested_url": "https://arxiv.org/abs/2512.16856",
+    "final_url": "https://arxiv.org/abs/2512.16856",
+    "retrieved_utc": "2026-11-06T23:13:48.547988+00:00",
+    "bytes": 40613,
+    "sha256": "afc5fb1ce86acd6f5d4c65537c5f4cb292f33e170562eb124381150888c6797e",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "distributional.pdf",
+    "requested_url": "https://arxiv.org/pdf/2512.16856",
+    "final_url": "https://arxiv.org/pdf/2512.16856",
+    "retrieved_utc": "2026-11-06T23:13:49.023118+00:00",
+    "bytes": 634503,
+    "sha256": "0d57f8961ff51520c905d0dcd7b822222c3c36852a544d1cba2ead045dbc0384",
+    "content_type": "application/pdf"
+  },
+  {
+    "file": "infrastructure-abs.html",
+    "requested_url": "https://arxiv.org/abs/2501.10114",
+    "final_url": "https://arxiv.org/abs/2501.10114",
+    "retrieved_utc": "2026-11-06T23:13:49.165453+00:00",
+    "bytes": 43125,
+    "sha256": "85d6ce4d7a5a8463dd3580d8c12c39d21a37d47b908a7d11759f91cedc2c8dcf",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "infrastructure.pdf",
+    "requested_url": "https://arxiv.org/pdf/2501.10114",
+    "final_url": "https://arxiv.org/pdf/2501.10114",
+    "retrieved_utc": "2026-11-06T23:13:49.468950+00:00",
+    "bytes": 639758,
+    "sha256": "e1f9c0ae819c88660eae40fb1a5c945168a0a4077cc1acebc8ba3098ca221d75",
+    "content_type": "application/pdf"
+  },
+  {
+    "file": "aria.html",
+    "requested_url": "https://aria.org.uk/opportunity-spaces/trust-everything-everywhere/scaling-trust/",
+    "final_url": "https://aria.org.uk/opportunity-spaces/trust-everything-everywhere/scaling-trust",
+    "retrieved_utc": "2026-11-06T23:13:51.015010+00:00",
+    "bytes": 67471,
+    "sha256": "ea5797eca743937cb587d40c68d0662ffb0fdfa4dae2f00518eba3249adf6e29",
+    "content_type": "text/html"
+  },
+  {
+    "file": "aria-thesis.pdf",
+    "requested_url": "https://aria.org.uk/media/dkhlumky/scaling-trust-programme-thesis.pdf",
+    "final_url": "https://aria.org.uk/media/dkhlumky/scaling-trust-programme-thesis.pdf",
+    "retrieved_utc": "2026-11-06T23:14:14.595570+00:00",
+    "bytes": 609910,
+    "sha256": "9d2d8e0368440cf6b9e9426eebe91c930adfbd367bcbdb31f38aef797f2f3eaa",
+    "content_type": "application/pdf"
+  }
+]

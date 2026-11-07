@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22legibility%22+AND+all%3A%22monitoring%22&max_results=8",
+  "retrieved_utc": "2026-11-06T22:20:40.922074+00:00",
+  "returncode": 0,
+  "sha256": "74e1e944b07fc91596b45c8c40a6761c77345dee4c626e49bfa3c4ba5ce1f637",
+  "query": "all:\"legibility\" AND all:\"monitoring\""
+}

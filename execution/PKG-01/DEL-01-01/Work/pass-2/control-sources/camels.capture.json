@@ -1,0 +1,26 @@
+{
+  "url": "https://arxiv.org/html/2601.09923",
+  "final_url": "https://arxiv.org/html/2601.09923",
+  "utc": "2026-11-06T22:16:49.556441+00:00",
+  "status": 200,
+  "sha256": "f388c17d2a023d81d7f4c70cfe174754d127e339dd74133cc4fb3956f52181cf",
+  "bytes": 961540,
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "961540",
+    "last-modified": "Mon, 24 Aug 2026 19:40:13 GMT",
+    "server": "Google Frontend",
+    "content-type": "text/html; charset=utf-8",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "access-control-allow-origin": "*",
+    "link": "<https://arxiv.org/html/2601.09923>; rel='canonical'",
+    "x-robots-tag": "nofollow",
+    "etag": "\"CMLm87yCupYDEAE=\"",
+    "Accept-Ranges": "bytes",
+    "Age": "487193",
+    "Date": "Fri, 06 Nov 2026 22:16:49 GMT",
+    "X-Served-By": "cache-lga-kjfk8660035-LGA, cache-lga-kjfk8660035-LGA, cache-lga-kjfk8660052-LGA, cache-yyc1430029-YYC",
+    "X-Cache": "MISS, HIT, MISS",
+    "X-Timer": "S1794003410.746999,VS0,VE58"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://ie.technion.ac.il/~dov/st_full_site.pdf",
+  "utc": "2026-11-07T00:04:33.661919+00:00",
+  "http": "000",
+  "returncode": 28,
+  "error": "curl: (28) Connection timed out after 25004 milliseconds\n",
+  "sha256": null
+}

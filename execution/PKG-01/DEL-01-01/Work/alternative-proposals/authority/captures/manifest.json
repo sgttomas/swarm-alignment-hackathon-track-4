@@ -1,0 +1,230 @@
+[
+  {
+    "file": "mcp-auth.html",
+    "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization",
+    "final_url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization",
+    "utc": "2026-11-07T00:02:15.437585+00:00",
+    "sha256": "db74acbf185b67bb732cfee7991d7a86109dbb02969d1267194bb86d13e90cfc",
+    "bytes": 345194,
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "mcp-security.html",
+    "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/security_best_practices",
+    "final_url": "https://modelcontextprotocol.io/docs/2025-11-25/tutorials/security/security_best_practices",
+    "utc": "2026-11-07T00:02:16.300896+00:00",
+    "sha256": "c318e58b44f5a19ef317d5112940e626e66deb69a23bf4aa15b27d0b13b1810c",
+    "bytes": 283891,
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "a2a-spec.html",
+    "url": "https://a2a-protocol.org/latest/specification/",
+    "final_url": "https://a2a-protocol.org/latest/specification/",
+    "utc": "2026-11-07T00:02:16.654461+00:00",
+    "sha256": "238a7cba6959ceabf1975a93f862c572001f9ad3f4b8b7cfee228cb6fb85e033",
+    "bytes": 624337,
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "/Users/ryan/working/hackathons/apart-Nov-26-local-evidence/alternatives-20261106T235928Z/oauth-rar.txt",
+    "url": "https://www.rfc-editor.org/rfc/rfc9396.txt",
+    "final_url": "https://www.rfc-editor.org/rfc/rfc9396.txt",
+    "utc": "2026-11-07T00:02:17.047754+00:00",
+    "sha256": "d6a8f032d8a585daae1c33a8c7b6e539d199f886ec8cc1c7898436f7f2eed29c",
+    "bytes": 65926,
+    "status": 200,
+    "content_type": "text/plain;charset=utf-8",
+    "original_local_name": "oauth-rar.txt",
+    "repository_reading_view": "oauth-rar.txt",
+    "retention_note": "Original byte-identical capture outside Git; repository view explicitly omits RFC example tokens only. See LOCAL_RETENTION.md."
+  },
+  {
+    "file": "/Users/ryan/working/hackathons/apart-Nov-26-local-evidence/alternatives-20261106T235928Z/oauth-exchange.txt",
+    "url": "https://www.rfc-editor.org/rfc/rfc8693.txt",
+    "final_url": "https://www.rfc-editor.org/rfc/rfc8693.txt",
+    "utc": "2026-11-07T00:02:17.296096+00:00",
+    "sha256": "358d658014738bf4dc56c8aae2094ce716ede23b6d5a80488a7dc8e8d72da609",
+    "bytes": 63031,
+    "status": 200,
+    "content_type": "text/plain;charset=utf-8",
+    "original_local_name": "oauth-exchange.txt",
+    "repository_reading_view": "oauth-exchange.txt",
+    "retention_note": "Original byte-identical capture outside Git; repository view explicitly omits RFC example tokens only. See LOCAL_RETENTION.md."
+  },
+  {
+    "file": "mcp-current-auth.md",
+    "url": "https://modelcontextprotocol.io/specification/2026-07-28/basic/authorization.md",
+    "final_url": "https://modelcontextprotocol.io/specification/2026-07-28/basic/authorization.md",
+    "utc": "2026-11-07T00:03:42.824459+00:00",
+    "sha256": "59bc8d07ef88538e4d4e539ca1c846c3ae3162e7911dc29453495cddeac18444",
+    "bytes": 25510,
+    "status": 200,
+    "content_type": "text/markdown; charset=utf-8"
+  },
+  {
+    "file": "mcp-cancellation.md",
+    "url": "https://modelcontextprotocol.io/specification/2026-07-28/basic/utilities/cancellation.md",
+    "final_url": "https://modelcontextprotocol.io/specification/2026-07-28/basic/patterns/cancellation.md",
+    "utc": "2026-11-07T00:03:43.353439+00:00",
+    "sha256": "1bffe7f8f1b17362e97f3f44b98e1781ca7639a6ab6a4547f8ac874760cc5f92",
+    "bytes": 4658,
+    "status": 200,
+    "content_type": "text/markdown; charset=utf-8"
+  },
+  {
+    "file": "mcp-tasks.md",
+    "url": "https://modelcontextprotocol.io/specification/2026-07-28/basic/utilities/tasks.md",
+    "final_url": "https://modelcontextprotocol.io/extensions/tasks/overview.md",
+    "utc": "2026-11-07T00:03:43.843632+00:00",
+    "sha256": "af7048bc5af31f84754b1a0bd0392236088c621bd38d618fba443a122798c692",
+    "bytes": 9604,
+    "status": 200,
+    "content_type": "text/markdown; charset=utf-8"
+  },
+  {
+    "file": "mcp-security.md",
+    "url": "https://modelcontextprotocol.io/docs/2025-11-25/tutorials/security/security_best_practices.md",
+    "final_url": "https://modelcontextprotocol.io/docs/2025-11-25/tutorials/security/security_best_practices.md",
+    "utc": "2026-11-07T00:03:44.041827+00:00",
+    "sha256": "91fe938394ce86939b94c36e5040e42baa3a481725d2a900ba53bb5d833962f1",
+    "bytes": 37460,
+    "status": 200,
+    "content_type": "text/markdown; charset=utf-8"
+  },
+  {
+    "file": "sagas.pdf",
+    "url": "https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf",
+    "final_url": "https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf",
+    "utc": "2026-11-07T00:03:45.365574+00:00",
+    "sha256": "7d49642d4871a855fc2eea2afe80d1e2dbc0d85e6b0f10457655a2d7dc412b1a",
+    "bytes": 1235147,
+    "status": 200,
+    "content_type": "application/pdf"
+  },
+  {
+    "file": "a2a-issues-compensation.json",
+    "url": "https://api.github.com/search/issues?q=repo%3Aa2aproject/A2A%20compensation",
+    "final_url": "https://api.github.com/search/issues?q=repo%3Aa2aproject/A2A%20compensation",
+    "utc": "2026-11-07T00:03:46.139690+00:00",
+    "sha256": "33ebff1ab5bd45974b24cd443474e2f10b1f1438cdd4966f15c7cedecc14ac72",
+    "bytes": 59380,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "file": "a2a-issues-rollback.json",
+    "url": "https://api.github.com/search/issues?q=repo%3Aa2aproject/A2A%20rollback",
+    "final_url": "https://api.github.com/search/issues?q=repo%3Aa2aproject/A2A%20rollback",
+    "utc": "2026-11-07T00:03:46.890440+00:00",
+    "sha256": "20c8ba0425ed1c703748d1431c7cc5c1729ae5ebd5bf5aa7f50509b496c975af",
+    "bytes": 64481,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "file": "multi-interrupt-abs.html",
+    "url": "https://arxiv.org/abs/1704.02882",
+    "final_url": "https://arxiv.org/abs/1704.02882",
+    "utc": "2026-11-07T00:04:42.675849+00:00",
+    "bytes": 42753,
+    "sha256": "aaf422a708e9f29e66b03cc0ce44044225b528df73eac9b91fb47aa8ef0cc7ee",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "multi-interrupt.pdf",
+    "url": "https://arxiv.org/pdf/1704.02882",
+    "final_url": "https://arxiv.org/pdf/1704.02882",
+    "utc": "2026-11-07T00:04:42.941454+00:00",
+    "bytes": 192985,
+    "sha256": "daf4c5d3520713e0e4915770c92c4b36819325c75e867f7513a21af8dc0f97f4",
+    "status": 200,
+    "content_type": "application/pdf"
+  },
+  {
+    "file": "safe-interrupt.pdf",
+    "url": "https://intelligence.org/files/Interruptibility.pdf",
+    "final_url": "https://intelligence.org/files/Interruptibility.pdf",
+    "utc": "2026-11-07T00:04:43.308823+00:00",
+    "bytes": 527278,
+    "sha256": "f6cce90669f761ba792dd115f62410fd1ff0de480753017130be87f6ce6ede42",
+    "status": 200,
+    "content_type": "application/pdf"
+  },
+  {
+    "file": "search-interrupt-commit.html",
+    "url": "https://www.google.com/search?q=%22safe%20interruptibility%22%20%22commitment%22",
+    "final_url": "https://www.google.com/search?q=%22safe%20interruptibility%22%20%22commitment%22",
+    "utc": "2026-11-07T00:05:40.251961+00:00",
+    "bytes": 92783,
+    "sha256": "e68cf7af8306d646793a04291e6c2fedcb8747c611b55136413680458a1fdbb2",
+    "status": 200
+  },
+  {
+    "file": "search-interrupt-compensation.html",
+    "url": "https://www.google.com/search?q=multi%20agent%20interruption%20commitment%20compensation%20participation",
+    "final_url": "https://www.google.com/search?q=multi%20agent%20interruption%20commitment%20compensation%20participation",
+    "utc": "2026-11-07T00:05:40.539010+00:00",
+    "bytes": 92958,
+    "sha256": "9dda8dda02596a2bceda718f7680fb9d2d3d8f67f9296198f30414ed77ec7a54",
+    "status": 200
+  },
+  {
+    "file": "a2a-2323.json",
+    "url": "https://api.github.com/repos/a2aproject/A2A/issues/2323",
+    "final_url": "https://api.github.com/repos/a2aproject/A2A/issues/2323",
+    "utc": "2026-11-07T00:05:40.959768+00:00",
+    "bytes": 10382,
+    "sha256": "17c45c3924ecbdd16bf82c277be3c5b6af90e3bc997fdb78c2c8bded094b182c",
+    "status": 200
+  },
+  {
+    "file": "a2a-2323-comments.json",
+    "url": "https://api.github.com/repos/a2aproject/A2A/issues/2323/comments",
+    "final_url": "https://api.github.com/repos/a2aproject/A2A/issues/2323/comments",
+    "utc": "2026-11-07T00:05:41.486623+00:00",
+    "bytes": 18023,
+    "sha256": "382918778c6b2a41d5cb44b2f6040fdbe311b5ec32369a791b0dceb678d5eb22",
+    "status": 200
+  },
+  {
+    "file": "a2a-1680.json",
+    "url": "https://api.github.com/repos/a2aproject/A2A/issues/1680",
+    "final_url": "https://api.github.com/repos/a2aproject/A2A/issues/1680",
+    "utc": "2026-11-07T00:05:42.007699+00:00",
+    "bytes": 6284,
+    "sha256": "3f919dc363f1c67a611b4c356e38c8387bf699958af696f447426b0c3f3353c7",
+    "status": 200
+  },
+  {
+    "file": "a2a-1715.json",
+    "url": "https://api.github.com/repos/a2aproject/A2A/pulls/1715",
+    "final_url": "https://api.github.com/repos/a2aproject/A2A/pulls/1715",
+    "utc": "2026-11-07T00:05:42.532232+00:00",
+    "bytes": 12367,
+    "sha256": "30ddca4120b336637fc1f22a26260f390028a1ab84a2757788e127a41ab94b5d",
+    "status": 200
+  },
+  {
+    "file": "mavic-abs.html",
+    "url": "https://arxiv.org/abs/2605.12655v4",
+    "final_url": "https://arxiv.org/abs/2605.12655v4",
+    "utc": "2026-11-07T00:07:36.549805+00:00",
+    "bytes": 41016,
+    "sha256": "f937260be917e852d2bd72db7dd05370c7716a8d9d0a2c4b1b3a48d32975e8a2",
+    "status": 200
+  },
+  {
+    "file": "mavic.pdf",
+    "url": "https://arxiv.org/pdf/2605.12655v4",
+    "final_url": "https://arxiv.org/pdf/2605.12655v4",
+    "utc": "2026-11-07T00:07:37.103830+00:00",
+    "bytes": 1015860,
+    "sha256": "2075d4ecbea56c284a67f17283fa875b984e1bb3ed5889113338fb8ba93adf81",
+    "status": 200
+  }
+]

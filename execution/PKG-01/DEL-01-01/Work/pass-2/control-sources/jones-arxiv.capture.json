@@ -1,0 +1,8 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=au:Jones+AND+(all:agent+OR+all:jailbreak)&max_results=50",
+  "utc": "2026-11-06T22:18:06.002599+00:00",
+  "status": 200,
+  "final_url": "https://export.arxiv.org/api/query?search_query=au:Jones+AND+(all:agent+OR+all:jailbreak)&max_results=50",
+  "bytes": 121737,
+  "sha256": "d839522bd674d1eb81893e940622f9017f73cf24ad6470de57379eca96a3fb3c"
+}

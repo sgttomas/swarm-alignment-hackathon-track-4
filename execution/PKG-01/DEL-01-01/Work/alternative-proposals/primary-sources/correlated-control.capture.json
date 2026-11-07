@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22+AND+all%3A%22monitor%22+AND+%28all%3A%22feedback+loop%22+OR+all%3A%22circuit+breaker%22%29&max_results=6",
+  "retrieved_utc": "2026-11-07T00:01:57.278297+00:00",
+  "returncode": 28,
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "query": "all:\"multi-agent\" AND all:\"monitor\" AND (all:\"feedback loop\" OR all:\"circuit breaker\")"
+}

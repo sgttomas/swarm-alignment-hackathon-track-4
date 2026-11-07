@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Adaptive+deployment%22&max_results=8",
+  "retrieved_utc": "2026-11-06T22:20:40.922367+00:00",
+  "returncode": 0,
+  "sha256": "c37b5f3e90b0000325b8f44a39b6e34385c21b097b4bae56a1e9ef4e5389ca88",
+  "query": "ti:\"Adaptive deployment\""
+}

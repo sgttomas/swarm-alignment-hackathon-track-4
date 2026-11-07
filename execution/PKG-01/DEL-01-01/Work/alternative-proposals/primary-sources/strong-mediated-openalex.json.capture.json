@@ -1,0 +1,8 @@
+{
+  "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.artint.2008.10.005",
+  "utc": "2026-11-07T00:04:21.369576+00:00",
+  "http": "200",
+  "returncode": 0,
+  "error": "",
+  "sha256": "e69caf13b665a6b8820aa6627be882be436000d33adba93ac3305f2c5eeedcf8"
+}

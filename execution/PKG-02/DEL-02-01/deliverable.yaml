@@ -8,7 +8,7 @@ needs:
     files alone does not clear that hold.
   when: Before any research production under this deliverable.
   gating: true
-  evidence: docs/APPROVAL.md#authorized-setup-and-latest-hold
+  evidence: execution/PKG-01/DEL-01-01/Work/RESEARCH_BASIS.md#current-undertaking--second-formation-pass
 - from: DEL-01-01
   condition: A preliminary candidate question and consumer distinction identify what evidence/state/interaction
     must be inspectable and why. Full formation completion is unnecessary for a bounded access or observation
@@ -16,13 +16,15 @@ needs:
   when: Before choosing or qualifying a source route for that candidate.
   gating: false
   evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
-- from: unknown
-  condition: The selected evidence supplier/interface provides actual permitted access, source identity
-    and meaning, relevant structure and observation limitations. The case-specific supplier is not bound
-    at setup; public catalogs and URL responses alone do not satisfy the condition.
+- from: external:public-evidence-publishers
+  condition: The retained public Swarm Traces, Transluce/URLQuery, NARCBench and second-pass peer-verification,
+    handoff and sabotage sources must provide permitted access, source identity, observation semantics
+    and use conditions for the named formation consumer. Current qualification is limited to inspected
+    captures and uses; missing oracles, release mismatches, unverified state and access-dependent sources
+    remain unresolved. Catalog visibility or a successful request does not establish fitness.
   when: Before claiming a qualified acquisition/inspection route or relying on captured contents.
   gating: false
-  evidence: execution/PKG-02/DEL-02-01/ScopeOfWork.md#deliverable-definition--ontology
+  evidence: execution/PKG-02/DEL-02-01/Work/pass-2/EVIDENCE_FEASIBILITY.md#consumer-question-and-useful-return
 - from: doc:docs/HACKATHON_SOURCE_BASIS.md
   condition: Recorded source/endpoint observations identify leads and known constraints to investigate,
     including manual gating and client-specific responses. Verify the actual access route, contents and

@@ -1,0 +1,27 @@
+{
+  "url": "https://arxiv.org/abs/2510.05174v4",
+  "utc": "2026-11-06T23:15:35.677789+00:00",
+  "status": 200,
+  "final_url": "https://arxiv.org/abs/2510.05174v4",
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "42845",
+    "server": "Google Frontend",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "x-frame-options": "SAMEORIGIN",
+    "cache-control": "max-age=3600",
+    "last-modified": "Mon, 24 Aug 2026 19:11:09 GMT",
+    "content-security-policy": "frame-ancestors 'none'",
+    "x-cloud-trace-context": "430b21e54c724232666f29b05d1d8629",
+    "content-type": "text/html; charset=utf-8",
+    "Accept-Ranges": "bytes",
+    "Age": "23510",
+    "Date": "Fri, 06 Nov 2026 23:15:35 GMT",
+    "X-Served-By": "cache-lga-kjfk8660054-LGA, cache-lga-kjfk8660054-LGA, cache-lga-kjfk8660054-LGA, cache-yyc1430023-YYC",
+    "X-Cache": "MISS, HIT, MISS",
+    "X-Timer": "S1794006936.848915,VS0,VE65"
+  },
+  "file": "riedl-abs.html",
+  "bytes": 42845,
+  "sha256": "891b65b6cfe3530cc028f011bae0b6e85db6aaccceddd1e5ea6e8341f1f85f8c"
+}

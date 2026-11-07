@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22mediator%22+AND+%28all%3A%22coalition-proof%22+OR+all%3A%22strong+equilibrium%22%29+AND+%28all%3A%22learning%22+OR+all%3A%22commitment%22%29&max_results=8",
+  "retrieved_utc": "2026-11-07T00:02:21.272437+00:00",
+  "returncode": 0,
+  "sha256": "2028d9991947b596799ff0d15d07898a0c9cf2ebae3fa2396bed1e27d9641ee8",
+  "query": "all:\"mediator\" AND (all:\"coalition-proof\" OR all:\"strong equilibrium\") AND (all:\"learning\" OR all:\"commitment\")"
+}

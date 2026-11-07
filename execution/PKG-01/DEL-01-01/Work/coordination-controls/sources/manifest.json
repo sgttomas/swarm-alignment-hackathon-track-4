@@ -1,0 +1,214 @@
+[
+  {
+    "file": "collusion.html",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/861f7dad098aec1c3560fb7add468d41-Abstract-Conference.html",
+    "utc": "2026-11-06T21:25:03.568642+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 10154,
+    "sha256": "7216ba21149bad49ec5e792857582837ce447586960fad915e8e3c59c0e8838c"
+  },
+  {
+    "file": "control.html",
+    "url": "https://arxiv.org/html/2312.06942v3",
+    "utc": "2026-11-06T21:25:03.569873+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 673443,
+    "sha256": "96457a5f56a3e6619c9b0534ef762c6b1a9e932f67750f4263f2b868e6feddc9"
+  },
+  {
+    "file": "event.html",
+    "url": "https://apartresearch.com/sprints/swarm-alignment-2026",
+    "utc": "2026-11-06T21:25:03.570127+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 927178,
+    "sha256": "dbc791ec06a1c6922a2b1b61e7f41d3f612ab755759ef1e587cd7035736b6e81"
+  },
+  {
+    "file": "collusion.pdf",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/861f7dad098aec1c3560fb7add468d41-Paper-Conference.pdf",
+    "utc": "2026-11-06T21:25:29.964344+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 1111170,
+    "sha256": "1efbc4d91e61eb2141f36f1e1747fdd6d159d1d201978bf4741b986550226922"
+  },
+  {
+    "file": "split-attacks.pdf",
+    "url": "https://openreview.net/pdf?id=GCkhEPE1FG",
+    "utc": "2026-11-06T21:25:29.965776+00:00",
+    "http": "403",
+    "returncode": 0,
+    "error": "",
+    "bytes": 12692,
+    "sha256": "a2d811e0d24af89d9bd4b19cc9e8fbc474c67ef3827648550a6560eca2a5e332"
+  },
+  {
+    "file": "split-attacks.html",
+    "url": "https://openreview.net/forum?id=GCkhEPE1FG",
+    "utc": "2026-11-06T21:25:29.965910+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 4787,
+    "sha256": "401cbde8b918d86884b0555e1768b4860d604dd3ecf045b0d1ae94ae83d1e965"
+  },
+  {
+    "file": "split-attacks-metadata.json",
+    "url": "https://api2.openreview.net/notes?id=GCkhEPE1FG",
+    "utc": "2026-11-06T21:25:58.587317+00:00",
+    "http": "403",
+    "returncode": 0,
+    "error": "",
+    "bytes": 273,
+    "sha256": "85b5757012ec1e2d4b41c4fef8e39618b29970852ebc187aec043252bec11d27"
+  },
+  {
+    "file": "jones-search.html",
+    "url": "https://www.google.com/search?q=%22GCkhEPE1FG%22",
+    "utc": "2026-11-06T21:26:12.341299+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 93048,
+    "sha256": "02a77e579632e6633fe0a554cf58a96bb7b9b68f2ba0819d5bbca68c84750cdb"
+  },
+  {
+    "file": "split-attacks-api-v1.json",
+    "url": "https://api.openreview.net/notes?id=GCkhEPE1FG",
+    "utc": "2026-11-06T21:26:12.703471+00:00",
+    "http": "403",
+    "returncode": 0,
+    "error": "",
+    "bytes": 250,
+    "sha256": "e3211f113c28c88d2d6df1dea79186522ebd117e41246e137c01439a73dd2baf"
+  },
+  {
+    "file": "multi-agent-interpretability.html",
+    "url": "https://arxiv.org/html/2604.01151",
+    "utc": "2026-11-06T21:26:43.128582+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 889944,
+    "sha256": "775455bd4afd851230f3cdb5a6f292d05eb6e4c65d8a4904835023a87f48a29f"
+  },
+  {
+    "file": "/Users/ryan/working/hackathons/apart-Nov-26-local-evidence/formation-20261106T212336Z/jones-bing.html",
+    "url": "https://www.bing.com/search?q=%22GCkhEPE1FG%22",
+    "utc": "2026-11-06T21:26:43.130213+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 121397,
+    "sha256": "04d007c756d3c9d1477f7a53ee923611ae491d5347d937f8be8dc8875e0ff98d",
+    "original_local_name": "jones-bing.html",
+    "retention_note": "Unrelated search-response markup retained outside Git after credential-like token detection; not a research source."
+  },
+  {
+    "file": "narcbench-repo.json",
+    "url": "https://api.github.com/repos/aaronrose227/narcbench",
+    "utc": "2026-11-06T21:27:29.695796+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 5692,
+    "sha256": "6b5bacd03d693f1930cf48d6f160a8a7a6b57f0df72c341f947cf5c59fb49d1e"
+  },
+  {
+    "file": "narcbench-readme.md",
+    "url": "https://raw.githubusercontent.com/aaronrose227/narcbench/main/README.md",
+    "utc": "2026-11-06T21:27:30.132810+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 9301,
+    "sha256": "49e7ccee957ee7bf795ff11011aaaf030422d90bbc12c37ef916e13a1239da0d"
+  },
+  {
+    "file": "narcbench-tree.json",
+    "url": "https://api.github.com/repos/aaronrose227/narcbench/git/trees/main?recursive=1",
+    "utc": "2026-11-06T21:27:30.412922+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 12687,
+    "sha256": "0bfde52da610d862873da94e210b4d65d39d07f4da119fdd41d7447a3c576178"
+  },
+  {
+    "file": "narcbench-hf.json",
+    "url": "https://huggingface.co/api/datasets/aaronrose227/narcbench",
+    "utc": "2026-11-06T21:27:47.065519+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 102030,
+    "sha256": "5dcf1c6d8d6dabda7346f14be674bbc8152be492ab385477e8d3ba5e981ef022"
+  },
+  {
+    "file": "narcbench-hf-tree.json",
+    "url": "https://huggingface.co/api/datasets/aaronrose227/narcbench/tree/main?recursive=true&limit=1000",
+    "utc": "2026-11-06T21:27:47.066775+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 151368,
+    "sha256": "7d888b7af63f34f4845eca479c55d3ef99c16fa2d7647058a236772a237cbc17"
+  },
+  {
+    "file": "verify_ground_truth.py",
+    "url": "https://raw.githubusercontent.com/aaronrose227/narcbench/237fe60739502007693b6455c6c644606ab3bcbb/generation/verify_ground_truth.py",
+    "utc": "2026-11-06T21:27:47.067089+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 6516,
+    "sha256": "cefb9268e45c036630a21d2d02db0dafa8e650e2eea09d59c2eaa363c615c69d"
+  },
+  {
+    "file": "reproduce_LR.py",
+    "url": "https://raw.githubusercontent.com/aaronrose227/narcbench/237fe60739502007693b6455c6c644606ab3bcbb/reproduce/reproduce_LR.py",
+    "utc": "2026-11-06T21:27:47.068863+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 29902,
+    "sha256": "0bde89799e032e8d9b93eb54fa62a095a572fa6fbb2e835111a001c06b34f100"
+  },
+  {
+    "file": "narcbench-code.tar.gz",
+    "url": "https://codeload.github.com/aaronrose227/narcbench/tar.gz/237fe60739502007693b6455c6c644606ab3bcbb",
+    "utc": "2026-11-06T21:29:19.354390+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 216775,
+    "sha256": "3ca2bc81a58d8860989f1991b0e15f2749930b2bec848fa0a2e6446f33c2ee7d"
+  },
+  {
+    "file": "narcbench-commit.json",
+    "url": "https://api.github.com/repos/aaronrose227/narcbench/commits/main",
+    "utc": "2026-11-06T21:33:06.929456+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 9610,
+    "sha256": "83c94ebaaafe0081c04ce06790bf9eb008315c2d81000872a85cfa6142670daf"
+  },
+  {
+    "file": "narcbench-git-commit.json",
+    "url": "https://api.github.com/repos/aaronrose227/narcbench/git/commits/237fe60739502007693b6455c6c644606ab3bcbb",
+    "utc": "2026-11-06T21:33:07.410683+00:00",
+    "http": "200",
+    "returncode": 0,
+    "error": "",
+    "bytes": 1345,
+    "sha256": "7500100d973e2a41223699726071591b6e13a2253f4aad7a095f1cf18d33e137"
+  }
+]

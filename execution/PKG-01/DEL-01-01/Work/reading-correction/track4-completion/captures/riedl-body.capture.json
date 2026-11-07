@@ -1,0 +1,27 @@
+{
+  "url": "https://arxiv.org/html/2510.05174v4",
+  "utc": "2026-11-06T23:15:35.862753+00:00",
+  "status": 200,
+  "final_url": "https://arxiv.org/html/2510.05174v4",
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "320187",
+    "server": "Google Frontend",
+    "link": "<https://arxiv.org/html/2510.05174>; rel='canonical'",
+    "last-modified": "Mon, 24 Aug 2026 19:11:09 GMT",
+    "x-robots-tag": "nofollow",
+    "access-control-allow-origin": "*",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "content-type": "text/html; charset=utf-8",
+    "etag": "\"CPOd0/37uZYDEAE=\"",
+    "Accept-Ranges": "bytes",
+    "Age": "661674",
+    "Date": "Fri, 06 Nov 2026 23:15:36 GMT",
+    "X-Served-By": "cache-lga-kjfk8660033-LGA, cache-lga-kjfk8660033-LGA, cache-lga-kjfk8660033-LGA, cache-yyc1430025-YYC",
+    "X-Cache": "MISS, HIT, HIT",
+    "X-Timer": "S1794006936.022546,VS0,VE2"
+  },
+  "file": "riedl-body.html",
+  "bytes": 320187,
+  "sha256": "5ea4454a5e8118cf29dbeb412d65e501d2d41f7b014a83cfaae008f7761ee42d"
+}

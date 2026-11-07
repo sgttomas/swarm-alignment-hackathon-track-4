@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SHADE%22+AND+all%3A%22agent%22&max_results=8",
+  "retrieved_utc": "2026-11-06T22:17:25.746371+00:00",
+  "returncode": 0,
+  "sha256": "802b148de9f4dc50038741cf176279a95dc9c970f290b747e41a835caffdbe46",
+  "query": "ti:\"SHADE\" AND all:\"agent\""
+}

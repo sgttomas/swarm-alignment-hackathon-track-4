@@ -1,0 +1,9 @@
+{
+  "url": "https://api2.openreview.net/notes?id=GazlTYxZss",
+  "retrieved_utc": "2026-11-06T21:25:59.435308+00:00",
+  "returncode": 0,
+  "http_code": "403",
+  "error": "",
+  "bytes": 273,
+  "sha256": "9b1afff6151da24efe307333b997af5d034d31d35b36ecc594d1004489a1fb16"
+}

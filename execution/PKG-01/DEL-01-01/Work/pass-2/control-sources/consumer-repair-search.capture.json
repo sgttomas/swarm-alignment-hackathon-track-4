@@ -1,0 +1,8 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22%20AND%20%28all%3A%22change%20impact%22%20OR%20all%3A%22incremental%22%20OR%20all%3A%22repair%20frontier%22%29&max_results=35",
+  "utc": "2026-11-06T22:23:45.779404+00:00",
+  "status": 200,
+  "final_url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22%20AND%20%28all%3A%22change%20impact%22%20OR%20all%3A%22incremental%22%20OR%20all%3A%22repair%20frontier%22%29&max_results=35",
+  "bytes": 80099,
+  "sha256": "d3de0decb3c84e12b293c9d6a7dfad7411fe558d1fa98c64fac48f0be1d5764f"
+}

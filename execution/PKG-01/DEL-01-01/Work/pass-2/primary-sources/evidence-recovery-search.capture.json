@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22agent%22+AND+%28all%3A%22evidence+recovery%22+OR+all%3A%22verification+infeasibility%22%29&max_results=6",
+  "retrieved_utc": "2026-11-06T22:37:04.234134+00:00",
+  "returncode": 0,
+  "sha256": "653db57ba52969b2e776876d6a44a0b3946802a14619145dbba40ce76bb001c3",
+  "query": "all:\"agent\" AND (all:\"evidence recovery\" OR all:\"verification infeasibility\")"
+}

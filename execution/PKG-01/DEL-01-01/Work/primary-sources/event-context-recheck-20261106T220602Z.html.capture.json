@@ -1,0 +1,13 @@
+{
+  "url": "https://apartresearch.com/sprints/swarm-alignment-2026",
+  "retrieved_utc": "2026-11-06T22:06:02.082902+00:00",
+  "http_code": "200",
+  "curl_returncode": 0,
+  "bytes": 927178,
+  "sha256": "8095a35562acc3abcec53a9165b44b3e0dbffdf0d30510bf144ffb042f00e27e",
+  "retained_file": "event-context-recheck-20261106T220602Z.html.gz",
+  "compressed_sha256": "c31df8a5f2b456dc9351b7c56de686bc2d900e58836fead88a79ab6a89cf1b48",
+  "transformation": "gzip lossless; HTML text and links inspected with BeautifulSoup html.parser, scripts/style/svg omitted; no page scripts executed",
+  "comparison_to_formation": "Extracted hyperlinks unchanged. The only extracted text difference is the displayed sign-up count; Track 4, Resources examples, Guidelines and Schedule unchanged.",
+  "scope": "Owner-requested context reassessment, not activation of a second formation pass."
+}

@@ -1,0 +1,230 @@
+{
+  "prepared_utc": "2026-11-07T00:08:15.981169+00:00",
+  "retrieval_bounds": "<=20MB/document, <=50MB archive; no archives retrieved; no remote code or embedded payload URL executed",
+  "sources": [
+    {
+      "filename": "adaptive.html",
+      "url": "https://arxiv.org/html/2411.17693v1",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:01:37.371289+00:00",
+      "bytes": 663689,
+      "sha256": "132886889eae507c2cb74541f990c6f35417f3cde2e9c12d8190fd6dea4d4856",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/adaptive.html",
+      "version": "arXiv2411.17693v1",
+      "usage_terms": "arXiv perpetual nonexclusive license; local research reading, no redistribution grant assumed",
+      "coverage": "Main \u00a7\u00a71\u20132, selected \u00a73 architecture/utility/reference-distribution passages, \u00a76 and Appendix E.1 read; source result summaries used only as context, not independently reproduced; no full proof/appendix audit.",
+      "text_transform": {
+        "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/adaptive.txt",
+        "sha256": "7fa0ed1987cd12b635ed0138b583ba05da3e57f372b701416efabbaa231805d2",
+        "method": "Python standard-library HTMLParser removed script/style and separated block text; not executed in a browser; HTML retained as authority"
+      }
+    },
+    {
+      "filename": "games.html",
+      "url": "https://arxiv.org/html/2409.07985v1",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:06:18.707975+00:00",
+      "bytes": 833270,
+      "sha256": "505c07cd89d8f9c26c27a0370bb1961c656f0da377a251f5d7fc0e7a2cc8e197",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/games.html",
+      "version": "arXiv2409.07985v1",
+      "usage_terms": "CC BY 4.0 as displayed in source",
+      "coverage": "\u00a71 motivation, \u00a73 definitions, \u00a76.1 assumptions/trends, \u00a78 conclusion read; not full proof reproduction or algorithm audit.",
+      "text_transform": {
+        "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/games.txt",
+        "sha256": "fe64e5c5910ab74e2dbc5bbe3bbf32de4435cb8eeb84031723eeda4a25e36095",
+        "method": "Python standard-library HTMLParser removed script/style and separated block text; not executed in a browser; HTML retained as authority"
+      }
+    },
+    {
+      "filename": "needles.pdf",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/download/5442/5298",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:04:39.436961+00:00",
+      "bytes": 1050459,
+      "sha256": "6d7e1530c4d9c102d74afd41dca43157a09f9b68b52efad8022b0db417b38169",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/needles.pdf",
+      "version": "AAAI2020 publisher pp946\u2013953",
+      "usage_terms": "PDF says Copyright 2020 AAAI, all rights reserved. Local research reading only; do not publish capture without permission.",
+      "coverage": "\u00a7\u00a71\u20132, \u00a73.1\u20133.2, \u00a74/\u00a75 main methodology/results and \u00a76 conclusion read; extended arXiv version/appendix not retrieved or read; quantitative findings not independently verified.",
+      "text_transform": {
+        "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/needles.txt",
+        "sha256": "dfb30e11b0f7151dbed1399b776206b6b27599fdcc27b523142191309724cde5",
+        "method": "pdftotext -layout; plain text inspected, equations may be distorted"
+      }
+    },
+    {
+      "filename": "needles-landing.html",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5442",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:04:31.751604+00:00",
+      "bytes": 24733,
+      "sha256": "96a89f467a3cbc8a8e495942d3d224db03678a1413fd4a8dd34b687d1aad3922",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/needles-landing.html",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption."
+    },
+    {
+      "filename": "alert-google.html",
+      "url": "https://www.google.com/search?q=%22alert+fatigue%22+%22game%22+attack",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:02:46.109436+00:00",
+      "bytes": 93058,
+      "sha256": "974130c37c35ff9f9f8a56aef0a11b674cc6ce0c9889119abf2eb5a987a692e9",
+      "path": "/tmp/apart-alt-attention-discovery/alert-google.html",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption.",
+      "text_transform": {
+        "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-google.txt",
+        "sha256": "7ec86978515471d543eb7730e2c0913ae26f37452eabac5bbc26c2f8adad825e",
+        "method": "Python standard-library HTMLParser removed script/style and separated block text; not executed in a browser; HTML retained as authority"
+      },
+      "retention_note": "Byte-identical search/index HTML retained outside repository; derived text remains for discovery limitations where available."
+    },
+    {
+      "filename": "control-google.html",
+      "url": "https://www.google.com/search?q=%22AI+control%22+%22denial+of+service%22",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:02:46.123677+00:00",
+      "bytes": 92920,
+      "sha256": "704edb44693121ace882ff2aab3ffbc65fb127e75f0645ff9e5c173766b9988d",
+      "path": "/tmp/apart-alt-attention-discovery/control-google.html",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption.",
+      "text_transform": {
+        "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/control-google.txt",
+        "sha256": "7ec86978515471d543eb7730e2c0913ae26f37452eabac5bbc26c2f8adad825e",
+        "method": "Python standard-library HTMLParser removed script/style and separated block text; not executed in a browser; HTML retained as authority"
+      },
+      "retention_note": "Byte-identical search/index HTML retained outside repository; derived text remains for discovery limitations where available."
+    },
+    {
+      "filename": "alert-bing.html",
+      "url": "https://www.bing.com/search?q=%22alert+fatigue%22+game+adversarial",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:03:13.893934+00:00",
+      "bytes": 124848,
+      "sha256": "2ef0424c3491dae7e61513bb3a6bba9b8a70d871bb5e1d37cca05ec745a74917",
+      "path": "/tmp/apart-alt-attention-discovery/alert-bing.html",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption.",
+      "text_transform": {
+        "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-bing.txt",
+        "sha256": "98d9127460e3080a20735e5772a48b23795c3570dfc4e1f9b8e3c075c5a67269",
+        "method": "Python standard-library HTMLParser removed script/style and separated block text; not executed in a browser; HTML retained as authority"
+      },
+      "retention_note": "Byte-identical search/index HTML retained outside repository; derived text remains for discovery limitations where available."
+    },
+    {
+      "filename": "alert-crossref.json",
+      "url": "https://api.crossref.org/works?query.title=adversarial%20alert%20fatigue&rows=5",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:03:14.230947+00:00",
+      "bytes": 18518,
+      "sha256": "b3e3758f845841d95a0bd3ebb5f9f3848d06b39d5a3d69caeeefb14babafaa53",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-crossref.json",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption."
+    },
+    {
+      "filename": "alert-crossref2.json",
+      "url": "https://api.crossref.org/works?query.bibliographic=cybersecurity%20alert%20fatigue%20game%20theoretic%20adversarial&rows=8",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:03:38.100889+00:00",
+      "bytes": 48723,
+      "sha256": "b22c5437711b2ddda41390fc8f0fa37723a87fde2b30f802c9eccadc87f1d307",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-crossref2.json",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption."
+    },
+    {
+      "filename": "alert-crossref3.json",
+      "url": "https://api.crossref.org/works?query.title=alert%20prioritization&rows=8",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:03:47.778020+00:00",
+      "bytes": 51928,
+      "sha256": "8b944299414cdf87d52e66322c2077a179792e59bf59c1113047fc2f05b70633",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-crossref3.json",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption."
+    },
+    {
+      "filename": "alert-crossref4.json",
+      "url": "https://api.crossref.org/works?query.title=adversarial%20alert%20generation&rows=8",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:04:01.342844+00:00",
+      "bytes": 50001,
+      "sha256": "59cc7a9ef00f3bb19d8ca6a3f6e04a049334d3d5121ae36d5ca87083f4b428fb",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-crossref4.json",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption."
+    },
+    {
+      "filename": "alert-crossref5.json",
+      "url": "https://api.crossref.org/works?query.title=strategic%20alert%20prioritization&rows=8",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:04:01.342702+00:00",
+      "bytes": 53098,
+      "sha256": "6a9cb788625932404c9ab9f105588f50fba1ffa7e0711bee7044fac67263032f",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-crossref5.json",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption."
+    },
+    {
+      "filename": "alert-openalex.json",
+      "url": "https://api.openalex.org/works?search=alert%20fatigue%20game&per-page=8",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:04:12.465884+00:00",
+      "bytes": 135578,
+      "sha256": "0284549fe9e7f39debfe8c7e89016ff8ac0638f1fdcbb5cf029bf7817de6f698",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/alert-openalex.json",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption."
+    },
+    {
+      "filename": "prioritization-openalex.json",
+      "url": "https://api.openalex.org/works?search=alert%20prioritization%20adversarial&per-page=8",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:04:21.158415+00:00",
+      "bytes": 149756,
+      "sha256": "83d99f9a00d2aded663d9b595d10c63e4d42e96316092e825a2367118a28d02e",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/prioritization-openalex.json",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption."
+    },
+    {
+      "filename": "control-openalex.json",
+      "url": "https://api.openalex.org/works?search=%22AI%20control%22%20shutdown%20availability&per-page=8",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:04:32.059819+00:00",
+      "bytes": 173156,
+      "sha256": "ce42178f43f559a593f44fc572160bfa05fcc0b4527c749e6b937fbc38361663",
+      "path": "execution/PKG-01/DEL-01-01/Work/alternative-proposals/attention/captures/control-openalex.json",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption."
+    },
+    {
+      "filename": "laszka.html",
+      "url": "https://aronlaszka.com/papers/",
+      "retrieval_completed_utc_from_file_mtime": "2026-11-07T00:04:12.072608+00:00",
+      "bytes": 51528,
+      "sha256": "abf4422ed84cf83d449f37e71c0ad0a59234c864ef7fc8a93f562cfc46f48455",
+      "path": "/tmp/apart-alt-attention-discovery/laszka.html",
+      "coverage": "Metadata/discovery only; not relied on as primary scientific evidence.",
+      "usage_terms": "Public retrieval; local discovery retention only, no broad reuse/redistribution assumption.",
+      "retention_note": "Byte-identical search/index HTML retained outside repository; derived text remains for discovery limitations where available."
+    },
+    {
+      "id": "Greenblatt",
+      "url": "https://arxiv.org/html/2312.06942v3",
+      "version": "arXiv2312.06942v3",
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/control.html",
+      "sha256": "96457a5f56a3e6619c9b0534ef762c6b1a9e932f67750f4263f2b868e6feddc9",
+      "retrieved_utc": "2026-11-06T21:25:03.569873+00:00",
+      "reused_unchanged": true,
+      "original_manifest": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/manifest.json",
+      "coverage_this_lane": "\u00a72 deployment/metrics/budget; \u00a73.1 budget-exhaustion defense; Appendix F full; Appendix I full; inherited organizer coverage elsewhere",
+      "usage_terms": "Retained local research source; see original capture/source account."
+    }
+  ],
+  "failed_discovery_requests": [
+    {
+      "url": "https://export.arxiv.org/api/query?search_query=all:%22alert%20fatigue%22%20OR%20all:%22alert%20prioritization%22&start=0&max_results=20",
+      "status": "HTTP429; no response body retained; no retry"
+    },
+    {
+      "url": "https://export.arxiv.org/api/query?search_query=all:%22AI%20control%22%20AND%20(all:shutdown%20OR%20all:availability%20OR%20all:collusion%20OR%20all:budget)&start=0&max_results=30",
+      "status": "HTTP429; no response body retained; no retry"
+    },
+    {
+      "url": "https://api.openalex.org/works?search=LLM%20control%20availability%20shutdown&per-page=8",
+      "status": "HTTP429; no response body retained; no retry"
+    }
+  ],
+  "discovery_limits": "Google yielded JavaScript redirect pages; Bing yielded irrelevant ChatGPT results; Crossref yielded several broad/irrelevant leads; OpenAlex identified Tong et al. but final LLM control search was rate-limited. No absence-of-prior-work inference."
+}

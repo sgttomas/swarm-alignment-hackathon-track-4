@@ -1,0 +1,554 @@
+{
+  "created_utc": "2026-11-06T22:31:11.925202+00:00",
+  "capture_limit_bytes": 52428800,
+  "sources": [
+    {
+      "id": "belief-updates",
+      "url": "https://arxiv.org/html/2610.38869v1",
+      "utc": "2026-11-06T22:24:05.066184+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2610.38869v1",
+      "bytes": 368743,
+      "sha256": "3eb9984030acb3164ead9d510451c358181afee1c39b30da09d25b48ab5cf117",
+      "retained_path": "belief-updates.html.gz",
+      "compressed_sha256": "c824c64a8156dc9151e6e2fc18a1c1294d6a9a0c42d2db19e922cb1802dddf4c",
+      "derived_text": {
+        "path": "belief-updates.txt",
+        "sha256": "f3066c71014d6be4f11ef547d75a4de87e8bf7776e1d404534f5b86d0b608e44",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "boardroom",
+      "url": "https://arxiv.org/html/2608.13046v1",
+      "utc": "2026-11-06T22:24:05.066151+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2608.13046v1",
+      "bytes": 194838,
+      "sha256": "1e6f51e35883199c12fbdfad9173f1bf1b3d427d7200509894f1871002371c61",
+      "retained_path": "boardroom.html.gz",
+      "compressed_sha256": "a0110927636bdf8e24c5f2d2425ae290c38af295d8540feb18ba3ea13db983d9",
+      "derived_text": {
+        "path": "boardroom.txt",
+        "sha256": "3d204a402f732a8faf06619a18bc5b48481da15f95d64f53cd9ea3333d59cd95",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "camel-original",
+      "url": "https://arxiv.org/html/2503.18813",
+      "utc": "2026-11-06T22:18:06.002886+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2503.18813",
+      "bytes": 2554808,
+      "sha256": "b862d8afed17e5274ee7faa217a77040e5928d05128c9319c6971bdea0f17b0d",
+      "retained_path": "camel-original.html.gz",
+      "compressed_sha256": "b45fca5d9cf1a133adfca3d60ac82a8a6acb39a5da52c5ebd47a4c24aabb1331",
+      "derived_text": {
+        "path": "camel-original.txt",
+        "sha256": "169299806d18752082ffcb8eb8cb8e7fc149c9390df95ea837dfa6edacddc3b9",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "camels",
+      "url": "https://arxiv.org/html/2601.09923",
+      "final_url": "https://arxiv.org/html/2601.09923",
+      "utc": "2026-11-06T22:16:49.556441+00:00",
+      "status": 200,
+      "sha256": "f388c17d2a023d81d7f4c70cfe174754d127e339dd74133cc4fb3956f52181cf",
+      "bytes": 961540,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "961540",
+        "last-modified": "Mon, 24 Aug 2026 19:40:13 GMT",
+        "server": "Google Frontend",
+        "content-type": "text/html; charset=utf-8",
+        "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+        "access-control-allow-origin": "*",
+        "link": "<https://arxiv.org/html/2601.09923>; rel='canonical'",
+        "x-robots-tag": "nofollow",
+        "etag": "\"CMLm87yCupYDEAE=\"",
+        "Accept-Ranges": "bytes",
+        "Age": "487193",
+        "Date": "Fri, 06 Nov 2026 22:16:49 GMT",
+        "X-Served-By": "cache-lga-kjfk8660035-LGA, cache-lga-kjfk8660035-LGA, cache-lga-kjfk8660052-LGA, cache-yyc1430029-YYC",
+        "X-Cache": "MISS, HIT, MISS",
+        "X-Timer": "S1794003410.746999,VS0,VE58"
+      },
+      "retained_path": "camels.html.gz",
+      "compressed_sha256": "06b173dddc38fe41fec375faaa731acb34d9a2055b8aa97341953ef68366e99f",
+      "derived_text": {
+        "path": "camels.txt",
+        "sha256": "1860a7b03850ee8d9066ab3b6e552c62a624aacbe63f3692e82430554608b0ec",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "comembench",
+      "url": "https://arxiv.org/html/2609.32192v2",
+      "utc": "2026-11-06T22:20:56.847739+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2609.32192v2",
+      "bytes": 372388,
+      "sha256": "c1d2bbc7652ebae5ba26b35eb4f58030805b032c7f8147092d20e519f97c6b33",
+      "retained_path": "comembench.html.gz",
+      "compressed_sha256": "8e8f47a31b15a45cb17ff1def460bebdbecd82fd215276e960bc262d3390fe9d",
+      "derived_text": {
+        "path": "comembench.txt",
+        "sha256": "a4420237a37b0fd401b7df0db84b9adb7b6aff6db05e7f38c571f16fe1c195e4",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "commitment-revision",
+      "url": "https://arxiv.org/html/2609.37453v1",
+      "utc": "2026-11-06T22:24:05.065901+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2609.37453v1",
+      "bytes": 115036,
+      "sha256": "6180d90e0ffd078f56fb07c3a1ded0d839d56a701984c3f7b51e6ebf0a62fc9e",
+      "retained_path": "commitment-revision.html.gz",
+      "compressed_sha256": "10b2fca4775f021bb7c70c93fd3f91f0f775b4139a957c249ee943ec467f104a",
+      "derived_text": {
+        "path": "commitment-revision.txt",
+        "sha256": "b98fb53f49526aed268d1c83c84c9fdbe6a95401eb5cca5b65b7097e893b606f",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "consumer-repair-search",
+      "url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22%20AND%20%28all%3A%22change%20impact%22%20OR%20all%3A%22incremental%22%20OR%20all%3A%22repair%20frontier%22%29&max_results=35",
+      "utc": "2026-11-06T22:23:45.779404+00:00",
+      "status": 200,
+      "final_url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22%20AND%20%28all%3A%22change%20impact%22%20OR%20all%3A%22incremental%22%20OR%20all%3A%22repair%20frontier%22%29&max_results=35",
+      "bytes": 80099,
+      "sha256": "d3de0decb3c84e12b293c9d6a7dfad7411fe558d1fa98c64fac48f0be1d5764f",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/consumer-repair-search.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "context-fractured",
+      "url": "https://arxiv.org/html/2606.09084v1",
+      "utc": "2026-11-06T22:19:11.998974+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2606.09084v1",
+      "bytes": 343584,
+      "sha256": "12c29469098fe9c3fd55d203057fcd7db95098bc43720e0ce2a9bb4833221eb4",
+      "retained_path": "context-fractured.html.gz",
+      "compressed_sha256": "be64bb185194811a30d15fe33cf85258d6be615c2e09faedd7eddf49ca3105e0",
+      "derived_text": {
+        "path": "context-fractured.txt",
+        "sha256": "1a609064268bed1fba62d2638598a4e9471dcb49553bd69182767a7b5defc92e",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "correction-search",
+      "url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22%20AND%20%28all%3A%22correction%20propagation%22%20OR%20all%3A%22shared%20premise%22%20OR%20all%3A%22stale%22%20OR%20all%3A%22invalidation%22%29&max_results=40",
+      "utc": "2026-11-06T22:20:36.938801+00:00",
+      "status": 200,
+      "final_url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22%20AND%20%28all%3A%22correction%20propagation%22%20OR%20all%3A%22shared%20premise%22%20OR%20all%3A%22stale%22%20OR%20all%3A%22invalidation%22%29&max_results=40",
+      "bytes": 98397,
+      "sha256": "db16f8018f59bdf0120c108831bc6de0d3d53d48f18878e8d8eff2d505942a74",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/correction-search.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "derived-repair-search",
+      "url": "https://export.arxiv.org/api/query?search_query=all%3Aagent%20AND%20%28all%3A%22belief%20revision%22%20OR%20all%3A%22truth%20maintenance%22%20OR%20all%3A%22dependency%20invalidation%22%20OR%20all%3A%22selective%20repair%22%29&max_results=35",
+      "utc": "2026-11-06T22:23:45.779192+00:00",
+      "status": 200,
+      "final_url": "https://export.arxiv.org/api/query?search_query=all%3Aagent%20AND%20%28all%3A%22belief%20revision%22%20OR%20all%3A%22truth%20maintenance%22%20OR%20all%3A%22dependency%20invalidation%22%20OR%20all%3A%22selective%20repair%22%29&max_results=35",
+      "bytes": 81369,
+      "sha256": "a0aeaff22bf0028e3b8c11629dbf422786c3fbfed20faac4c7a08a775f1f7d62",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/derived-repair-search.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "fragmentation",
+      "url": "https://export.arxiv.org/api/query?search_query=all%3A%22fragmentation%22%20AND%20all%3A%22jailbreak%22&max_results=100",
+      "utc": "2026-11-06T22:18:27.944200+00:00",
+      "status": 200,
+      "final_url": "https://export.arxiv.org/api/query?search_query=all%3A%22fragmentation%22%20AND%20all%3A%22jailbreak%22&max_results=100",
+      "bytes": 87673,
+      "sha256": "b9916a50677929fbe8a8b11d86ff4f8fbf8380042350a681083397e327169a65",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/fragmentation.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-abs",
+      "url": "https://arxiv.org/abs/2406.14595",
+      "utc": "2026-11-06T22:19:11.998856+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2406.14595",
+      "bytes": 41185,
+      "sha256": "6d620d96728f1ee93cdaa7b32581c62296558ffc5be9900697cd34088e35ba3a",
+      "retained_path": "jones-abs.html.gz",
+      "compressed_sha256": "dda03da215ead1bac8febf9ea5238abced7e2eacff156d90e30bc2f1712932b4",
+      "derived_text": {
+        "path": "jones-abs.txt",
+        "sha256": "db53c498af6afaac0483ccd9d1eabadc6f84972d48a8693e9acf4fa80d16856b",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "jones-api",
+      "url": "https://api2.openreview.net/notes?id=GCkhEPE1FG",
+      "utc": "2026-11-06T22:17:12.425764+00:00",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "jones-arxiv",
+      "url": "https://export.arxiv.org/api/query?search_query=au:Jones+AND+(all:agent+OR+all:jailbreak)&max_results=50",
+      "utc": "2026-11-06T22:18:06.002599+00:00",
+      "status": 200,
+      "final_url": "https://export.arxiv.org/api/query?search_query=au:Jones+AND+(all:agent+OR+all:jailbreak)&max_results=50",
+      "bytes": 121737,
+      "sha256": "d839522bd674d1eb81893e940622f9017f73cf24ad6470de57379eca96a3fb3c",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-arxiv.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-binding",
+      "url": "https://arxiv.org/html/2602.00619",
+      "utc": "2026-11-06T22:19:34.640110+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2602.00619",
+      "bytes": 487392,
+      "sha256": "0e92d452f48083fc1887fd6d96a962e37943bd8dccd6047861bdae1897b45707",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-binding.html",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-bing",
+      "url": "https://www.bing.com/search?q=%22GCkhEPE1FG%22",
+      "utc": "2026-11-06T22:17:37.683021+00:00",
+      "status": 200,
+      "final_url": "https://www.bing.com/search?q=%22GCkhEPE1FG%22",
+      "bytes": 121400,
+      "sha256": "69337cc6cffa24794c8050a9bca1fc9163587ea838179b905611afd023659082",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-bing.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-crossref",
+      "url": "https://api.crossref.org/works?query=Jones%20multi%20agent%20jailbreak%202025&rows=5",
+      "utc": "2026-11-06T22:17:12.425821+00:00",
+      "status": 200,
+      "final_url": "https://api.crossref.org/works?query=Jones%20multi%20agent%20jailbreak%202025&rows=5",
+      "bytes": 41022,
+      "sha256": "101f40c7dcbc88f94fd3deb21c64bbbc3b4fa8b40dc9af268d98f8958cccbc6e",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-crossref.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-decomp",
+      "url": "https://export.arxiv.org/api/query?search_query=au%3AJones%20AND%20%28all%3Adecomposition%20OR%20all%3Adecomposed%20OR%20all%3Adecomposing%20OR%20all%3Asafety%20OR%20all%3Aalignment%29&max_results=100",
+      "utc": "2026-11-06T22:18:27.944012+00:00",
+      "status": 200,
+      "final_url": "https://export.arxiv.org/api/query?search_query=au%3AJones%20AND%20%28all%3Adecomposition%20OR%20all%3Adecomposed%20OR%20all%3Adecomposing%20OR%20all%3Asafety%20OR%20all%3Aalignment%29&max_results=100",
+      "bytes": 350471,
+      "sha256": "60e4cddbee4097846a692dbaae2de9384f0e9102cb74e95f3f0a04de401e180a",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-decomp.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-duck",
+      "url": "https://html.duckduckgo.com/html/?q=%22GCkhEPE1FG%22",
+      "utc": "2026-11-06T22:17:37.683176+00:00",
+      "status": 202,
+      "final_url": "https://html.duckduckgo.com/html/?q=%22GCkhEPE1FG%22",
+      "bytes": 14260,
+      "sha256": "f5e60c44be8d415c75a468c138583379880620ee23d15dcd7ca99bc9136d9398",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-duck.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-iclr",
+      "url": "https://iclr.cc/virtual/2025/poster/29645",
+      "utc": "2026-11-06T22:19:34.640320+00:00",
+      "status": 200,
+      "final_url": "https://iclr.cc/virtual/2025/poster/29645",
+      "bytes": 84611,
+      "sha256": "b3a498bd0421332fe9916db6198a46e8cb794d5fe359ec27555c694a6b352fd4",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-iclr.html",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-openalex",
+      "url": "https://api.openalex.org/works?search=multi%20agent%20jailbreak%20Jones&per-page=10",
+      "utc": "2026-11-06T22:18:06.002794+00:00",
+      "status": 200,
+      "final_url": "https://api.openalex.org/works?search=multi%20agent%20jailbreak%20Jones&per-page=10",
+      "bytes": 168320,
+      "sha256": "c65abcbc9c7de7e59e89bac395ffed4c9bf868327c92da57c0ca9674bb8c747b",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-openalex.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-openalex2",
+      "url": "https://api.openalex.org/works?search=GCkhEPE1FG&per-page=5",
+      "utc": "2026-11-06T22:18:27.944258+00:00",
+      "status": 200,
+      "final_url": "https://api.openalex.org/works?search=GCkhEPE1FG&per-page=5",
+      "bytes": 15655,
+      "sha256": "ca00d6757e305169dcca4b3d995e1f8805efbda1b4c9264b7cbfb83311e3ed05",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-openalex2.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-openreview-legacy",
+      "url": "https://api.openreview.net/notes?id=GCkhEPE1FG",
+      "utc": "2026-11-06T22:18:27.944291+00:00",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "jones-openreview",
+      "url": "https://openreview.net/forum?id=GCkhEPE1FG",
+      "final_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DGCkhEPE1FG",
+      "utc": "2026-11-06T22:16:50.006668+00:00",
+      "status": 200,
+      "sha256": "401cbde8b918d86884b0555e1768b4860d604dd3ecf045b0d1ae94ae83d1e965",
+      "bytes": 4787,
+      "headers": {
+        "server": "nginx",
+        "date": "Fri, 06 Nov 2026 22:16:50 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; connect-src 'self' https://api2.openreview.net; img-src 'self' data:",
+        "x-robots-tag": "noindex, nofollow",
+        "via": "1.1 google, 1.1 google",
+        "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-dns-prefetch-control": "off",
+        "x-download-options": "noopen",
+        "surrogate-control": "no-store",
+        "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+        "pragma": "no-cache",
+        "expires": "0",
+        "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "Connection": "close",
+        "Transfer-Encoding": "chunked"
+      },
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-openreview.html",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-pmlr",
+      "url": "https://proceedings.mlr.press/v267/jones25a.html",
+      "utc": "2026-11-06T22:23:45.779570+00:00",
+      "status": 200,
+      "final_url": "https://proceedings.mlr.press/v267/jones25a.html",
+      "bytes": 16316,
+      "sha256": "7c2ade11dc345affeb2a1e65ab2410de31def200ed270ff87fa0ad9bc4bfd507",
+      "retained_path": "jones-pmlr.html.gz",
+      "compressed_sha256": "9af26d8d19765ec4cf39cdd5471d75ef901b9c7927c0574f8292f09bc689f307"
+    },
+    {
+      "id": "jones-primary",
+      "url": "https://arxiv.org/html/2406.14595v2",
+      "utc": "2026-11-06T22:19:11.998660+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2406.14595v2",
+      "bytes": 305459,
+      "sha256": "809a26f8a440b4fa5954d75bca8afc9b9382dfcf694a0d7c3f0789fe05ff33df",
+      "retained_path": "jones-primary.html.gz",
+      "compressed_sha256": "aa2254f6baea21ca9f78502938757ffc4947791d457acd8407d71699366e4ab8",
+      "derived_text": {
+        "path": "jones-primary.txt",
+        "sha256": "d6cd122e13356ecfb1ed7ef213e3e6ecb78b21aa94d1d1c6c765f2fd3a101cad",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "jones-publisher-search",
+      "url": "https://api.openalex.org/works?search=%22Adversaries%20Can%20Misuse%20Combinations%20of%20Safe%20Models%22&per-page=3",
+      "utc": "2026-11-06T22:20:36.938867+00:00",
+      "status": 200,
+      "final_url": "https://api.openalex.org/works?search=%22Adversaries%20Can%20Misuse%20Combinations%20of%20Safe%20Models%22&per-page=3",
+      "bytes": 44250,
+      "sha256": "f7fbb0eb63388dcd26237932e31303aaf1559a337b3a3b74525f32db3f03c292",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-publisher-search.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-search",
+      "url": "https://www.google.com/search?q=%22GCkhEPE1FG%22",
+      "utc": "2026-11-06T22:17:12.425600+00:00",
+      "status": 200,
+      "final_url": "https://www.google.com/search?q=%22GCkhEPE1FG%22",
+      "bytes": 93224,
+      "sha256": "f3dc9b4e8d244aee9b0529b62dd65794d1c22ff803dbc44e6b68546a8158bda9",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/jones-search.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "jones-semantic",
+      "url": "https://api.semanticscholar.org/graph/v1/paper/URL:https://openreview.net/forum?id=GCkhEPE1FG&fields=title,authors,year,externalIds,openAccessPdf",
+      "utc": "2026-11-06T22:17:37.683235+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "jones-semantics",
+      "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=multi%20agent%20jailbreak%20Jones&limit=10&fields=title,authors,year,externalIds,openAccessPdf",
+      "utc": "2026-11-06T22:18:06.002851+00:00",
+      "error": "HTTP Error 429: "
+    },
+    {
+      "id": "memsecbench",
+      "url": "https://arxiv.org/html/2607.27080v1",
+      "utc": "2026-11-06T22:24:05.066087+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2607.27080v1",
+      "bytes": 432067,
+      "sha256": "538a3810e09cfee5bf0dd877189e7c9775792fd2c2310f090bbb62c504f01646",
+      "retained_path": "memsecbench.html.gz",
+      "compressed_sha256": "7b085f329baf06ec1343af614daea2fa983ee1eb33f124569ab51c6f23c57544",
+      "derived_text": {
+        "path": "memsecbench.txt",
+        "sha256": "be4d526171f831b22ccf1b19f732f91c593eb15f907125540a18027cb26b4a0b",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "policy-revision-search",
+      "url": "https://export.arxiv.org/api/query?search_query=%28all%3Aagent%20OR%20all%3A%22multi-agent%22%29%20AND%20%28all%3Arevocation%20OR%20all%3A%22policy%20update%22%20OR%20all%3A%22policy%20changes%22%29&max_results=40",
+      "utc": "2026-11-06T22:20:36.938429+00:00",
+      "status": 200,
+      "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Aagent%20OR%20all%3A%22multi-agent%22%29%20AND%20%28all%3Arevocation%20OR%20all%3A%22policy%20update%22%20OR%20all%3A%22policy%20changes%22%29&max_results=40",
+      "bytes": 89811,
+      "sha256": "803c720baa86d2b7e2f3be1eb9d6517e43bfd15e45a5963af825ba8d89a1dd67",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/policy-revision-search.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "revocation-contract",
+      "url": "https://arxiv.org/html/2610.15991v1",
+      "utc": "2026-11-06T22:20:56.847504+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2610.15991v1",
+      "bytes": 212855,
+      "sha256": "b6c3fb0a378153633350b67451d22b5687079e34e24419b9ea4b1afc24504c77",
+      "retained_path": "revocation-contract.html.gz",
+      "compressed_sha256": "59b4fed8b51db7304e217a7638bf066c17432d1d3d31f1d884e8d8eb203fb586",
+      "derived_text": {
+        "path": "revocation-contract.txt",
+        "sha256": "8d9c590f262ece2c295c2648efe6367eed06829afe9fc75c45dd34d81156f7dd",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "revoked-memory",
+      "url": "https://arxiv.org/html/2609.08258v1",
+      "utc": "2026-11-06T22:20:56.847676+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2609.08258v1",
+      "bytes": 589702,
+      "sha256": "e080127ddbd61e563074b7475447611567b8539d45c64d370f38a498730f370d",
+      "retained_path": "revoked-memory.html.gz",
+      "compressed_sha256": "e77b51c135af6038c75e0a6f0f69aa9b79530ed5305843b867fcd49f1d5d6e65",
+      "derived_text": {
+        "path": "revoked-memory.txt",
+        "sha256": "e249c474ff87cfac77d6959700749372eed840380e691fc626a649147dd9b208",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "safeflow",
+      "url": "https://arxiv.org/html/2607.25255v2",
+      "utc": "2026-11-06T22:19:11.999008+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2607.25255v2",
+      "bytes": 353643,
+      "sha256": "46de2783f3acf728e230b65c681a457ff7e6c3c7211889bf63189390a9c84b5e",
+      "retained_path": "safeflow.html.gz",
+      "compressed_sha256": "0f1695ef60d005b0491393dd5b06fd6701de60d7833ee3ccd7a360f49bf96d11",
+      "derived_text": {
+        "path": "safeflow.txt",
+        "sha256": "e829e89c80ac8feaed3f34c0bdc74186f9fc3eec41280681e266278fb64a5128",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "search0",
+      "url": "https://www.bing.com/search?q=Jones%202025%20multi-agent%20task%20decomposition%20safety%20jailbreak",
+      "utc": "2026-11-06T22:17:51.403996+00:00",
+      "status": 200,
+      "final_url": "https://www.bing.com/search?q=Jones%202025%20multi-agent%20task%20decomposition%20safety%20jailbreak",
+      "bytes": 125383,
+      "sha256": "fc5ad4040b7bd895c4e8fdafb2203f7fca09676c1c9d06994b0e1a63143139b2",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/search0.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "search1",
+      "url": "https://www.bing.com/search?q=%22Jones%22%20%22multi-agent%22%20%22safety%20filters%22",
+      "utc": "2026-11-06T22:17:51.404170+00:00",
+      "status": 200,
+      "final_url": "https://www.bing.com/search?q=%22Jones%22%20%22multi-agent%22%20%22safety%20filters%22",
+      "bytes": 124927,
+      "sha256": "6dcf2f343b2a893d89eea6dc390ce17fbf525707e663e9f076230cbcd2aa9c0e",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/search1.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "search2",
+      "url": "https://www.bing.com/search?q=%22GCkhEPE1FG%22%20arxiv",
+      "utc": "2026-11-06T22:17:51.404231+00:00",
+      "status": 200,
+      "final_url": "https://www.bing.com/search?q=%22GCkhEPE1FG%22%20arxiv",
+      "bytes": 149849,
+      "sha256": "3474d9a5a1c28e2512f5c109909eb9c1df2050d66b0b977446003ef2f64def29",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/search2.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "search3",
+      "url": "https://www.bing.com/search?q=%22Mitigation%20of%20Fragmentation%20Jailbreak%20Attacks%22",
+      "utc": "2026-11-06T22:17:51.404262+00:00",
+      "status": 200,
+      "final_url": "https://www.bing.com/search?q=%22Mitigation%20of%20Fragmentation%20Jailbreak%20Attacks%22",
+      "bytes": 139706,
+      "sha256": "4cb4436261dd2462c0e4595201fa8463ec8880690c6faef5c78cd298008a7f39",
+      "scratch_path": "/tmp/apart-pass2-controls-source-retention/search3.raw",
+      "use": "access/search only; not evidence for paper-content claims"
+    },
+    {
+      "id": "semantic-consensus",
+      "url": "https://arxiv.org/html/2604.16339v1",
+      "utc": "2026-11-06T22:20:56.847773+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2604.16339v1",
+      "bytes": 218764,
+      "sha256": "4c9a619d1c5e63b564ac080707da4b319042a8d175c5fbcc112d0cee42d97491",
+      "retained_path": "semantic-consensus.html.gz",
+      "compressed_sha256": "3009ee47e99d792dac5089247ff0441729d1bcddfa6338fd26665c318c01d5f9",
+      "derived_text": {
+        "path": "semantic-consensus.txt",
+        "sha256": "cfbbdaac33c5d16fe018f78dc36eb654268ae56084b28010f43733135ff7aa50",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    },
+    {
+      "id": "twingate",
+      "url": "https://arxiv.org/html/2604.27861v1",
+      "utc": "2026-11-06T22:19:11.998930+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2604.27861v1",
+      "bytes": 289556,
+      "sha256": "79299d68e836797bc746acbc1cbe340f94d9cbcaef81dc6394846b62b5bb49de",
+      "retained_path": "twingate.html.gz",
+      "compressed_sha256": "fcfd3167f4eb8149d5da836b3a6634620f882106e6bc8587a78d026736137bc6",
+      "derived_text": {
+        "path": "twingate.txt",
+        "sha256": "0dd71e36e21d4bf787a7532d0670a631d59fb84d062caf2c701f1cf76cfd2714",
+        "transformation": "Python stdlib HTMLParser; remove script/style; newline block boundaries; strip blank lines. LaTeXML math may appear duplicated; HTML primary retained."
+      }
+    }
+  ],
+  "coverage": "See SOURCE_REVIEW.md; retrieval does not imply examination. No content execution. Search attempts retained as scratch, metadata stays here.",
+  "usage_limits": "Primary-source local research reading only; source licenses retained in original pages. No redistribution/publication authority inferred. Existing redactions preserved."
+}

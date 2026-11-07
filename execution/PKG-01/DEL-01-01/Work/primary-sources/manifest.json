@@ -1,0 +1,151 @@
+{
+  "created_utc": "2026-11-06T21:31:11.855250+00:00",
+  "handling": "Local research retention only; no redistribution authorized. partial-monitoring.pdf explicitly disallows redistribution. Embedded source content never executed.",
+  "transforms": {
+    "html": "BeautifulSoup html.parser; scripts/style/svg removed; get_text newline strip; links separately extracted",
+    "pdf": "pdftotext -layout, no PDF scripts executed; font mismatch warnings on some arXiv PDFs; relevant passages read in extracted text",
+    "pdf_links": "pypdf annotation URI extraction; not followed without primary-source need"
+  },
+  "files": [
+    {
+      "path": "attribution-search.xml",
+      "bytes": 40792,
+      "sha256": "eda334654b6e638077cb6a7ceacca2dedf532d6830f76789353e3c43a45d8611"
+    },
+    {
+      "path": "blade.links.txt",
+      "bytes": 935,
+      "sha256": "a24cb1273f5210556fba2cc3ac4785d207bfe86d4564915b664c84dc14fd4267"
+    },
+    {
+      "path": "blade.pdf",
+      "bytes": 845216,
+      "sha256": "bc3f62a86b695f5ee014897cf1389f6bed91f724a73813539cf5c42a3b4a4d99"
+    },
+    {
+      "path": "blade.txt",
+      "bytes": 67225,
+      "sha256": "5a56b5f89f5727ac6fc85b74d4497568d883d20e2428076b9e52d61085f6b65d"
+    },
+    {
+      "path": "event.html",
+      "bytes": 927178,
+      "sha256": "dbc791ec06a1c6922a2b1b61e7f41d3f612ab755759ef1e587cd7035736b6e81"
+    },
+    {
+      "path": "event.links.txt",
+      "bytes": 13919,
+      "sha256": "4278f0ebb80f34917e8b97fd91714c6bede20b133a7ce066554796efb7a0e927"
+    },
+    {
+      "path": "event.txt",
+      "bytes": 72104,
+      "sha256": "424b7c27dc8be3e9f7bf423807c3b996530715f5f57312234d914eff52f1c04a"
+    },
+    {
+      "path": "failure-attribution.html",
+      "bytes": 4787,
+      "sha256": "2f813378e7ada62ccb6bafa8014f29f5e85f9fb04bf9d3afe05540b914a47083"
+    },
+    {
+      "path": "failure-attribution.links.txt",
+      "bytes": 82,
+      "sha256": "aae926493f6cfda2f3709ce04244308e4524ca35faf46a754cbf2f64e62746d7"
+    },
+    {
+      "path": "failure-attribution.pdf",
+      "bytes": 12692,
+      "sha256": "a2d811e0d24af89d9bd4b19cc9e8fbc474c67ef3827648550a6560eca2a5e332"
+    },
+    {
+      "path": "failure-attribution.txt",
+      "bytes": 284,
+      "sha256": "765249e6bd8e7b83e4b4259b20ae2b9b66a508762efe525827ce77917d640a5a"
+    },
+    {
+      "path": "failure-note-v1.json",
+      "bytes": 250,
+      "sha256": "f486b1e009fbe31c639da6bf9d0dbc75a393e00b9115e517fa4856b234abb933"
+    },
+    {
+      "path": "failure-note.json",
+      "bytes": 273,
+      "sha256": "9b1afff6151da24efe307333b997af5d034d31d35b36ecc594d1004489a1fb16"
+    },
+    {
+      "path": "metr-incident.pdf",
+      "bytes": 7443085,
+      "sha256": "f7e87133833363da6eee661df0c86926ef852f8b202ad87695ea6596b92d3c73"
+    },
+    {
+      "path": "metr-incident.txt",
+      "bytes": 228707,
+      "sha256": "20979c385c9fd0b8600038e32cfbc0c89b20dc58559e91cd631cd04166db2e3b"
+    },
+    {
+      "path": "partial-monitoring.pdf",
+      "bytes": 1141411,
+      "sha256": "0ba46622dc4ba496fae87dee6d73760513ce971a21f392693161260873c554ec"
+    },
+    {
+      "path": "partial-monitoring.txt",
+      "bytes": 231234,
+      "sha256": "d83a1eb92506e60b081063183774a9223281a912e9a24aca99d16db650774eee"
+    },
+    {
+      "path": "partial-observation-search.xml",
+      "bytes": 21925,
+      "sha256": "b12af4d491e42399d741e6345198cf8d62772c77f0cc7bdd0e808a5f127bc106"
+    },
+    {
+      "path": "reference-error-search.xml",
+      "bytes": 27352,
+      "sha256": "cc6b8e0037e10405417aec71a4b14afa2f5674427026f417a47c25e9fa03c517"
+    },
+    {
+      "path": "trace-trial.links.txt",
+      "bytes": 184,
+      "sha256": "3d8e8d6cdb4a615f3ffe7faa4c9d96fef0eecf3d2d1c810670d4818277f4bd6a"
+    },
+    {
+      "path": "trace-trial.pdf",
+      "bytes": 9839763,
+      "sha256": "91799f8df58200c13b5e566ec593460a5d76bea7cfe99f3eac93c368e21b5049"
+    },
+    {
+      "path": "trace-trial.txt",
+      "bytes": 293625,
+      "sha256": "0ffd011c166ea385a94d04afe5a3b9b93d61158370eeebbcaa3dc957c8ea237b"
+    },
+    {
+      "path": "who-when-pro.links.txt",
+      "bytes": 2518,
+      "sha256": "3129e7f55d5766de5538e13691c5103f81396e713d67c609b4a8a08f83dca544"
+    },
+    {
+      "path": "who-when-pro.pdf",
+      "bytes": 3000513,
+      "sha256": "a85506fa6d8235758e3495f2a8037e8e06dd85fa0ce5c8f1ccf96be8470272af"
+    },
+    {
+      "path": "who-when-pro.txt",
+      "bytes": 193857,
+      "sha256": "e1c915602de4507cfea0e68c4d0b6ec2d1618beb95f4defd700edf9902ade5d5"
+    },
+    {
+      "path": "who-when.links.txt",
+      "bytes": 90,
+      "sha256": "8b9cb1c2694f5c90ac0188a2cabbc53b2e67968e989510e8aa4ddc2de632ad08"
+    },
+    {
+      "path": "who-when.pdf",
+      "bytes": 1463076,
+      "sha256": "1d8b788987d06a6337fd923995e3e8c0514cc0a3cb5e758cf9510f4d7cc9032c"
+    },
+    {
+      "path": "who-when.txt",
+      "bytes": 108745,
+      "sha256": "abc2a9750f2b1d44295026ff4fb6f4a7588909d1217f902583545a4f9f056329"
+    }
+  ]
+}
