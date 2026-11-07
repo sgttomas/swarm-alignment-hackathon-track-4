@@ -1,0 +1,6 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22runtime+verification%22+AND+all%3A%22partial%22&max_results=10",
+  "retrieved_utc": "2026-11-06T21:28:33.636051+00:00",
+  "sha256": "b12af4d491e42399d741e6345198cf8d62772c77f0cc7bdd0e808a5f127bc106",
+  "query": "all:\"runtime verification\" AND all:\"partial\""
+}

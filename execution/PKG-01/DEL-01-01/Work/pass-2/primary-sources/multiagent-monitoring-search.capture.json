@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22+AND+%28all%3A%22monitoring%22+OR+all%3A%22control+protocol%22%29&max_results=8",
+  "retrieved_utc": "2026-11-06T22:17:25.748825+00:00",
+  "returncode": 0,
+  "sha256": "2f09b316fd430a5a0c1234a99c45f7b69e8b32e4ea881cf9ae5ceafbd13cb884",
+  "query": "all:\"multi-agent\" AND (all:\"monitoring\" OR all:\"control protocol\")"
+}

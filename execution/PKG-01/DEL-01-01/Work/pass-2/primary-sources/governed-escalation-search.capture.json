@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22+AND+all%3A%22verification%22+AND+all%3A%22escalation%22&max_results=6",
+  "retrieved_utc": "2026-11-06T22:37:04.234462+00:00",
+  "returncode": 0,
+  "sha256": "39f8c48b5f640345bb0767749985aaf105029b84fba72919010770e5a85325aa",
+  "query": "all:\"multi-agent\" AND all:\"verification\" AND all:\"escalation\""
+}

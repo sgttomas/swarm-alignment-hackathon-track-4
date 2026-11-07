@@ -8,7 +8,7 @@ needs:
     files alone does not clear that hold.
   when: Before any research production under this deliverable.
   gating: true
-  evidence: docs/APPROVAL.md#authorized-setup-and-latest-hold
+  evidence: docs/WORKED_CASE.md#owners-disposition-and-approved-use
 - from: doc:docs/HACKATHON_SOURCE_BASIS.md
   condition: The Overview, Resources, Guidelines and Schedule supply identified context, candidate leads,
     event constraints and timing. Recheck the affected primary source when current wording or availability
@@ -16,13 +16,19 @@ needs:
   when: When framing candidates, selecting source leads or planning against event requirements.
   gating: false
   evidence: docs/RESEARCH_DECOMP.md#1-purpose-basis-and-scope-standing
-- from: unknown
-  condition: Relevant primary research, data descriptions or arguments must be selected and examined far
-    enough to establish what a serious candidate would add, test, usefully replicate or challenge. Specific
-    source bindings are not selected at setup.
+- from: external:primary-research-authors
+  condition: The six General and eight Track 4 organizer primary readings, in the recorded versions and
+    coverage, must inform framing, candidate choice and evaluation conditions alongside the retained
+    case-specific primary work for the broad Track 4 slate, covering research sabotage, approval composition,
+    reviewer assignment, test recognition, monitor memory, capability auditing, communication controls,
+    and incident attribution, together with the current hybrid's research-audit and source-code contracts.
+    Preserve historical source limits and distinguish source statements,
+    theoretical/empirical standing and actual
+    examination from previews, citations, reproduction or broad novelty claims. Access/version/appendix
+    limits remain explicit; new cases still need their own closest-work and evidence qualification.
   when: Before making a case-specific prior-work, novelty, inference or feasibility claim.
   gating: false
-  evidence: execution/PKG-01/DEL-01-01/ScopeOfWork.md#deliverable-definition--ontology
+  evidence: execution/PKG-01/DEL-01-01/Work/hybrid-formation/PROPOSAL.md#2-what-is-grounded-what-is-new-and-what-is-not
 - from: DEL-02-01
   condition: A bounded preliminary access/coverage/sample qualification supports the candidate observation
     need, with actual source, permitted use, identity/time semantics, gaps and feasibility limits. A whole

@@ -1,0 +1,7 @@
+{
+  "url": "https://api.github.com/repos/amrgomaaelhady/Firewall-Agentic-Networks/git/trees/main?recursive=1",
+  "utc": "2026-11-07T01:25:24.055551+00:00",
+  "sha256": "ffc80447a3ba1a2d00df9fae75d1653e888b29836733b3d049100e3f8353a309",
+  "retention": "full directory response inspected, not retained; selected code-path reading view saved as firewalls-tree-selected.json",
+  "response_truncated": true
+}

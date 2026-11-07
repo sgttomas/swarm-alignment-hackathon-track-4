@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22Factored+cognition%22&max_results=8",
+  "retrieved_utc": "2026-11-06T22:20:40.920442+00:00",
+  "returncode": 0,
+  "sha256": "4fd343f44983dfeab528a7ee4142d5e05af49d06fddf9f3620512fc6131e2e5b",
+  "query": "all:\"Factored cognition\""
+}

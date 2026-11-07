@@ -1,0 +1,8 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22fragmentation%22%20AND%20all%3A%22jailbreak%22&max_results=100",
+  "utc": "2026-11-06T22:18:27.944200+00:00",
+  "status": 200,
+  "final_url": "https://export.arxiv.org/api/query?search_query=all%3A%22fragmentation%22%20AND%20all%3A%22jailbreak%22&max_results=100",
+  "bytes": 87673,
+  "sha256": "b9916a50677929fbe8a8b11d86ff4f8fbf8380042350a681083397e327169a65"
+}

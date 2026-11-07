@@ -1,0 +1,8 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=%28all%3Aagent%20OR%20all%3A%22multi-agent%22%29%20AND%20%28all%3Arevocation%20OR%20all%3A%22policy%20update%22%20OR%20all%3A%22policy%20changes%22%29&max_results=40",
+  "utc": "2026-11-06T22:20:36.938429+00:00",
+  "status": 200,
+  "final_url": "https://export.arxiv.org/api/query?search_query=%28all%3Aagent%20OR%20all%3A%22multi-agent%22%29%20AND%20%28all%3Arevocation%20OR%20all%3A%22policy%20update%22%20OR%20all%3A%22policy%20changes%22%29&max_results=40",
+  "bytes": 89811,
+  "sha256": "803c720baa86d2b7e2f3be1eb9d6517e43bfd15e45a5963af825ba8d89a1dd67"
+}

@@ -1,0 +1,207 @@
+{
+  "created_utc": "2026-11-06T21:33:58.862793+00:00",
+  "sources": [
+    {
+      "local_file": "swarmtraces.html",
+      "url": "https://swarmtraces.org/",
+      "bytes": 79696,
+      "sha256": "13a356b688fc345c40955fe09dfafa080cd032e063873fca7ba1132d4020ee94",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:24:39.387947+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "local_file": "swarm-redacted.jsonl.gz",
+      "url": "https://swarmtraces.org/data/final/redacted.jsonl.gz",
+      "bytes": 15214685,
+      "sha256": "7b66ab21674de52fcd3f557652f68b1801170c998e2f266862124e6edf283488",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:25:10.679993+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "local_file": "swarm-viewer.html",
+      "url": "https://swarmtraces.org/viewer/",
+      "bytes": 4008,
+      "sha256": "972c2b40a5ee63195485ffb285c22279d81f93ff6c767cae26428d0950a9a15e",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:27:00.782248+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "local_file": "swarm-viewer.js",
+      "url": "https://swarmtraces.org/viewer/viewer.js",
+      "bytes": 12348,
+      "sha256": "3992d8f3d03c89b73af7a63605159ca07885859edbfea52286585eed9e157ea0",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:27:21.126487+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "local_file": "swarm-row-R0053434.json",
+      "url": "https://swarmtraces.org/api/row/R0053434",
+      "bytes": 704,
+      "sha256": "ac970296110f02f978611fd14aac288e8d7ba2e4e848c6f2241fb131001df9a3",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:27:42.016240+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "local_file": "transluce.html",
+      "url": "https://transluce.org/agent-activity",
+      "bytes": 183898,
+      "sha256": "bd4b79a18c04e6d7e8b3507dd191f864e31235f08ee584e68e30c2b5539c937e",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:24:39.709768+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "local_file": "transluce-data.zip",
+      "url": "https://transluce.org/data/urlquery-agent-activity-2026-09-23.zip",
+      "bytes": 4570708,
+      "sha256": "969a13fbd7d80d7e1556eef58a347f52ecdd85661c541f6c0d1d6f5e2a86570d",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:25:12.899360+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "local_file": "ai-village-metadata.json",
+      "url": "https://huggingface.co/api/datasets/aidigestorg/ai-village",
+      "bytes": 43564,
+      "sha256": "384e31b01377410565250aa81755ca4576f4999c372cb12cb527be8eb42cabae",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:25:13.151211+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "local_file": "urlquery-representative.html",
+      "url": "https://urlquery.net/report/81699969-91c3-4454-913e-1a015b3fde47",
+      "bytes": 31605,
+      "sha256": "ff768e55bfae4a698c4eb8b6461978b3bb6a88337136fb6ae89fa23627cb242d",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:27:01.254298+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "local_file": "urlquery-terms.html",
+      "url": "https://urlquery.net/terms-and-conditions",
+      "bytes": 27159,
+      "sha256": "f667cd8d88105246682872a0f0a7d20b0f3a273040abdfe9942b1bb9d6781e9c",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:27:31.675931+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "local_file": "narcbench/dataset-README.md",
+      "url": "https://huggingface.co/datasets/aaronrose227/narcbench/resolve/19cb14b269e052b19ba6d2bd2f4519afd3b10c57/README.md",
+      "bytes": 3178,
+      "sha256": "05be2d89e255948d6f33d94862d21d4a6f8ff82f1d156c0d97be6b7e49285163",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:30:09.724608+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "local_file": "narcbench/metadata_gen.json",
+      "url": "https://huggingface.co/datasets/aaronrose227/narcbench/resolve/19cb14b269e052b19ba6d2bd2f4519afd3b10c57/activations/qwen3_32b/core/metadata_gen.json",
+      "bytes": 562309,
+      "sha256": "b2411c7b8479f1bb67c2a7ca0a06886b18cc30a0fc8987ec6ef3c3619c060ad2",
+      "acquisition_end_utc_from_file_mtime": "2026-11-06T21:30:48.570479+00:00",
+      "method": "curl -L with timeout and size guard; static file capture; no payload execution"
+    },
+    {
+      "source_url": "https://huggingface.co/datasets/aaronrose227/narcbench/resolve/19cb14b269e052b19ba6d2bd2f4519afd3b10c57/scenarios/qwen3_32b/core/deception__audit_01__collusion/run_config.json",
+      "local_file": "narcbench/deception__audit_01__collusion--run_config.json",
+      "started_utc": "2026-11-06T21:29:16.750695+00:00",
+      "finished_utc": "2026-11-06T21:29:17.097638+00:00",
+      "curl_exit": 0,
+      "http_status": "200",
+      "stderr": "",
+      "bytes": 919,
+      "sha256": "e442306c39c1487a2926089c66f7d12153c92fce433175e7719beac861c616ee"
+    },
+    {
+      "source_url": "https://huggingface.co/datasets/aaronrose227/narcbench/resolve/19cb14b269e052b19ba6d2bd2f4519afd3b10c57/scenarios/qwen3_32b/core/deception__audit_01__collusion/results.json",
+      "local_file": "narcbench/deception__audit_01__collusion--results.json",
+      "started_utc": "2026-11-06T21:29:17.098010+00:00",
+      "finished_utc": "2026-11-06T21:29:17.425008+00:00",
+      "curl_exit": 0,
+      "http_status": "200",
+      "stderr": "",
+      "bytes": 14385,
+      "sha256": "1214ccb403fb40432ce98e21f88d260c97f4aecf60fa4de3842a7965b66bfff0"
+    },
+    {
+      "source_url": "https://huggingface.co/datasets/aaronrose227/narcbench/resolve/19cb14b269e052b19ba6d2bd2f4519afd3b10c57/scenarios/qwen3_32b/core/deception__audit_01__collusion/agent_prompts.json",
+      "local_file": "narcbench/deception__audit_01__collusion--agent_prompts.json",
+      "started_utc": "2026-11-06T21:29:17.425384+00:00",
+      "finished_utc": "2026-11-06T21:29:17.761517+00:00",
+      "curl_exit": 0,
+      "http_status": "200",
+      "stderr": "",
+      "bytes": 146220,
+      "sha256": "fe9689661a989a7a1d4b6480cc4b5c5c41cc4a0553dafd2091ea8d7cd4b37ee3"
+    },
+    {
+      "source_url": "https://huggingface.co/datasets/aaronrose227/narcbench/resolve/19cb14b269e052b19ba6d2bd2f4519afd3b10c57/scenarios/qwen3_32b/core/deception__audit_01__control/run_config.json",
+      "local_file": "narcbench/deception__audit_01__control--run_config.json",
+      "started_utc": "2026-11-06T21:29:17.762356+00:00",
+      "finished_utc": "2026-11-06T21:29:18.035709+00:00",
+      "curl_exit": 0,
+      "http_status": "200",
+      "stderr": "",
+      "bytes": 870,
+      "sha256": "c7723bca132710108e907e378c61387adfd6a6beadc840f9036f6315982c832b"
+    },
+    {
+      "source_url": "https://huggingface.co/datasets/aaronrose227/narcbench/resolve/19cb14b269e052b19ba6d2bd2f4519afd3b10c57/scenarios/qwen3_32b/core/deception__audit_01__control/results.json",
+      "local_file": "narcbench/deception__audit_01__control--results.json",
+      "started_utc": "2026-11-06T21:29:18.036074+00:00",
+      "finished_utc": "2026-11-06T21:29:18.381622+00:00",
+      "curl_exit": 0,
+      "http_status": "200",
+      "stderr": "",
+      "bytes": 12747,
+      "sha256": "133706423d52edbd12a3fd47c3f9b34cb67d822a3129073c9d085807179be8bc"
+    },
+    {
+      "source_url": "https://huggingface.co/datasets/aaronrose227/narcbench/resolve/19cb14b269e052b19ba6d2bd2f4519afd3b10c57/scenarios/qwen3_32b/core/deception__audit_01__control/agent_prompts.json",
+      "local_file": "narcbench/deception__audit_01__control--agent_prompts.json",
+      "started_utc": "2026-11-06T21:29:18.381937+00:00",
+      "finished_utc": "2026-11-06T21:29:18.818559+00:00",
+      "curl_exit": 0,
+      "http_status": "200",
+      "stderr": "",
+      "bytes": 132403,
+      "sha256": "3f7c28e62351c3da244b88c1e863f778a645337b43e32b9f151e0df95b6f6067"
+    },
+    {
+      "source_url": "https://huggingface.co/datasets/aaronrose227/narcbench/resolve/19cb14b269e052b19ba6d2bd2f4519afd3b10c57/scenarios/qwen3_32b/core/deception__audit_02__collusion/run_config.json",
+      "local_file": "narcbench/deception__audit_02__collusion--run_config.json",
+      "started_utc": "2026-11-06T21:29:18.819352+00:00",
+      "finished_utc": "2026-11-06T21:29:19.170213+00:00",
+      "curl_exit": 0,
+      "http_status": "200",
+      "stderr": "",
+      "bytes": 936,
+      "sha256": "49af65f2dee61cd39dd182a5a2ca472f92ebcfc2f460a9eb46bc32c694d683a0"
+    },
+    {
+      "source_url": "https://huggingface.co/datasets/aaronrose227/narcbench/resolve/19cb14b269e052b19ba6d2bd2f4519afd3b10c57/scenarios/qwen3_32b/core/deception__audit_02__collusion/results.json",
+      "local_file": "narcbench/deception__audit_02__collusion--results.json",
+      "started_utc": "2026-11-06T21:29:19.170516+00:00",
+      "finished_utc": "2026-11-06T21:29:19.530409+00:00",
+      "curl_exit": 0,
+      "http_status": "200",
+      "stderr": "",
+      "bytes": 15430,
+      "sha256": "d1877455ca950a4c4dedf7e102e64b5fc1700f9823dcf12f8cda177f44da8ba8"
+    },
+    {
+      "source_url": "https://huggingface.co/datasets/aaronrose227/narcbench/resolve/19cb14b269e052b19ba6d2bd2f4519afd3b10c57/scenarios/qwen3_32b/core/deception__audit_02__collusion/agent_prompts.json",
+      "local_file": "narcbench/deception__audit_02__collusion--agent_prompts.json",
+      "started_utc": "2026-11-06T21:29:19.530684+00:00",
+      "finished_utc": "2026-11-06T21:29:19.859826+00:00",
+      "curl_exit": 0,
+      "http_status": "200",
+      "stderr": "",
+      "bytes": 152050,
+      "sha256": "0dd193452d5c0f343072a4187351753325edb64eba7c7f1917ea5d663ae6f720"
+    }
+  ],
+  "limits": [
+    "Hashes identify retained bytes, not authenticity or completeness.",
+    "Source HTML text/link views omit script/style data through Python HTMLParser; no JavaScript ran.",
+    "URLQuery header copy omits Set-Cookie; captured response body remains unchanged.",
+    "Transluce extracted members retain archive bytes; package manifest checked separately.",
+    "Sources retained locally for research/review; raw redistribution not authorized by this acquisition."
+  ]
+}

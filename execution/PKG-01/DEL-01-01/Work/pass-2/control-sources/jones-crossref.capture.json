@@ -1,0 +1,8 @@
+{
+  "url": "https://api.crossref.org/works?query=Jones%20multi%20agent%20jailbreak%202025&rows=5",
+  "utc": "2026-11-06T22:17:12.425821+00:00",
+  "status": 200,
+  "final_url": "https://api.crossref.org/works?query=Jones%20multi%20agent%20jailbreak%202025&rows=5",
+  "bytes": 41022,
+  "sha256": "101f40c7dcbc88f94fd3deb21c64bbbc3b4fa8b40dc9af268d98f8958cccbc6e"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent+reinforcement+learning%22+AND+%28all%3A%22coalitional%22+OR+all%3A%22coalition-proof%22%29&max_results=8",
+  "retrieved_utc": "2026-11-07T00:02:21.272650+00:00",
+  "returncode": 0,
+  "sha256": "467622e2f17f01d302d6c790b13078569f17d71cd83910558535019a594e07c1",
+  "query": "all:\"multi-agent reinforcement learning\" AND (all:\"coalitional\" OR all:\"coalition-proof\")"
+}

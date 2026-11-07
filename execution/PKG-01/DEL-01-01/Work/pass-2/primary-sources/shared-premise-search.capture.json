@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22+AND+%28all%3A%22shared+assumptions%22+OR+all%3A%22common-mode%22%29&max_results=8",
+  "retrieved_utc": "2026-11-06T22:17:25.750389+00:00",
+  "returncode": 0,
+  "sha256": "8688f09b09afb7fd6e1bb56a56a13ddd899b310003a8bbcf188d40ea932036c8",
+  "query": "all:\"multi-agent\" AND (all:\"shared assumptions\" OR all:\"common-mode\")"
+}

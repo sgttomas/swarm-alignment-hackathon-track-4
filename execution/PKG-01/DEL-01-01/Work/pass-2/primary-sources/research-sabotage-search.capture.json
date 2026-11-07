@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22research+sabotage%22&max_results=8",
+  "retrieved_utc": "2026-11-06T22:17:25.744485+00:00",
+  "returncode": 0,
+  "sha256": "f164209aa6a7b27847728e67f4f31d97bedb4a71329d7c9a8c36a85c4f8f625d",
+  "query": "all:\"research sabotage\""
+}

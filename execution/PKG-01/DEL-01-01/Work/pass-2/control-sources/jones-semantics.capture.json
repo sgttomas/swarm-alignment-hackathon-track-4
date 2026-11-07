@@ -1,0 +1,5 @@
+{
+  "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=multi%20agent%20jailbreak%20Jones&limit=10&fields=title,authors,year,externalIds,openAccessPdf",
+  "utc": "2026-11-06T22:18:06.002851+00:00",
+  "error": "HTTP Error 429: "
+}

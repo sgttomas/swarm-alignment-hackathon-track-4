@@ -1,0 +1,9 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=au%3ARiedl%20AND%20all%3Acommunication&max_results=20",
+  "utc": "2026-11-06T23:15:03.291120+00:00",
+  "status": 200,
+  "final_url": "https://export.arxiv.org/api/query?search_query=au%3ARiedl%20AND%20all%3Acommunication&max_results=20",
+  "file": "riedl-arxiv.html",
+  "bytes": 49326,
+  "sha256": "8ac41a962d653f7d0e1cce2bdbe94ec58797feaef054179af5229d4e49ef0ae1"
+}

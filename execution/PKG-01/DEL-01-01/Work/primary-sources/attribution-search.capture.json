@@ -1,0 +1,6 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22failure+attribution%22+AND+au%3AZhang&max_results=15",
+  "retrieved_utc": "2026-11-06T21:26:19.095214+00:00",
+  "sha256": "eda334654b6e638077cb6a7ceacca2dedf532d6830f76789353e3c43a45d8611",
+  "query": "all:\"failure attribution\" AND au:Zhang"
+}

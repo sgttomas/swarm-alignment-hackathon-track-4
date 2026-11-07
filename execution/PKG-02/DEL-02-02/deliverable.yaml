@@ -8,7 +8,7 @@ needs:
     files alone does not clear that hold.
   when: Before any research production under this deliverable.
   gating: true
-  evidence: docs/APPROVAL.md#authorized-setup-and-latest-hold
+  evidence: execution/PKG-01/DEL-01-01/Work/RESEARCH_BASIS.md#current-undertaking--second-formation-pass
 - from: DEL-01-01
   condition: The selected case or named feasibility question supplies required analytical meaning, criteria,
     comparison/premise conditions, permissible variation, information boundaries and resource limits,
@@ -22,20 +22,23 @@ needs:
   when: When an operation consumes qualified evidence or its relevant source conditions change.
   gating: false
   evidence: docs/RESEARCH_DECOMP.md#4-inputuse-relationships-and-integration
-- from: unknown
-  condition: The selected permitted runtime, implementation or tool source supplies actual dependencies,
-    versions, input/output/effect semantics and resource bounds. No model/provider or new runtime has
-    been selected at setup.
+- from: external:local-python-runtime
+  condition: The second-pass formation probes require the recorded Python runtime and standard-library
+    JSON/gzip/hash operations, readable pinned local inputs, bounded expansion and writes only to their
+    owning Work locality. This qualifies only the named scalar/constructed operations, not a new model
+    runtime, downloaded-code execution or a general experimental environment. Other analytical routes
+    still need their actual environment, dependencies and effect qualification.
   when: Before executing or promising a route whose behavior depends on that environment or component.
   gating: false
-  evidence: execution/PKG-02/DEL-02-02/ScopeOfWork.md#deliverable-definition--ontology
-- from: unknown
-  condition: The selected correctness/reference route provides an appropriate known answer, independent
-    derivation, legitimate-success/failure case or other claim-specific grounds, including scrutiny of
-    the evaluator itself. The actual oracle/examiner binding remains open.
+  evidence: execution/PKG-02/DEL-02-02/Work/pass-2/PROBE_QUALIFICATION.md#actual-operation-and-input-basis
+- from: external:constructed-consumer-reference
+  condition: The named probes require independently stated finite consumer meanings and exact transport
+    assumptions, plus ordinary, contrary and missing-input checks. Acquired graph declarations cannot
+    define their own correctness; current released transport has no certified all-field capacity bound.
+    Wider semantic or model-effect claims require additional references and scrutiny beyond this fixture.
   when: Before claiming numerical/logical correctness or validity that depends on those grounds.
   gating: false
-  evidence: execution/PKG-02/DEL-02-02/ScopeOfWork.md#completion-and-reliance-basis--epistemology
+  evidence: execution/PKG-02/DEL-02-02/Work/pass-2/PROBE_QUALIFICATION.md#examination-and-limits
 - from: DEL-01-02
   condition: An actual consumer finding identifies an operation, criterion binding, evaluator or reproduction
     defect and its case consequence so the owning operation can be repaired and backchecked.

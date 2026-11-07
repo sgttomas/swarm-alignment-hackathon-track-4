@@ -1,0 +1,8 @@
+{
+  "url": "https://api.openalex.org/works?search=%22Adversaries%20Can%20Misuse%20Combinations%20of%20Safe%20Models%22&per-page=3",
+  "utc": "2026-11-06T22:20:36.938867+00:00",
+  "status": 200,
+  "final_url": "https://api.openalex.org/works?search=%22Adversaries%20Can%20Misuse%20Combinations%20of%20Safe%20Models%22&per-page=3",
+  "bytes": 44250,
+  "sha256": "f7fbb0eb63388dcd26237932e31303aaf1559a337b3a3b74525f32db3f03c292"
+}

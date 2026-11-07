@@ -1,0 +1,7 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22+AND+%28all%3A%22repair%22+OR+all%3A%22correction%22%29+AND+%28all%3A%22oversight%22+OR+all%3A%22sabotage%22%29&max_results=8",
+  "retrieved_utc": "2026-11-06T22:20:40.923750+00:00",
+  "returncode": 0,
+  "sha256": "381b10755b2de42118c4bc1bbafa4efeb67a728e30ce210bb1534418c28aa57f",
+  "query": "all:\"multi-agent\" AND (all:\"repair\" OR all:\"correction\") AND (all:\"oversight\" OR all:\"sabotage\")"
+}

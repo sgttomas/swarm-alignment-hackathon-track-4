@@ -1,0 +1,8 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=au%3AJones%20AND%20%28all%3Adecomposition%20OR%20all%3Adecomposed%20OR%20all%3Adecomposing%20OR%20all%3Asafety%20OR%20all%3Aalignment%29&max_results=100",
+  "utc": "2026-11-06T22:18:27.944012+00:00",
+  "status": 200,
+  "final_url": "https://export.arxiv.org/api/query?search_query=au%3AJones%20AND%20%28all%3Adecomposition%20OR%20all%3Adecomposed%20OR%20all%3Adecomposing%20OR%20all%3Asafety%20OR%20all%3Aalignment%29&max_results=100",
+  "bytes": 350471,
+  "sha256": "60e4cddbee4097846a692dbaae2de9384f0e9102cb74e95f3f0a04de401e180a"
+}

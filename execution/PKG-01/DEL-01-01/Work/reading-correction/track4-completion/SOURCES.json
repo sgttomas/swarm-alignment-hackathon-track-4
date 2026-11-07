@@ -1,0 +1,278 @@
+{
+  "verified_utc": "2026-11-06T23:20:51.397814+00:00",
+  "reused": [
+    {
+      "id": "M",
+      "title": "Secret Collusion among AI Agents: Multi-Agent Deception via Steganography",
+      "version": "NeurIPS 2024 publisher",
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/collusion.pdf",
+      "metadata_path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/manifest.json",
+      "source_capture": {
+        "file": "collusion.pdf",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/861f7dad098aec1c3560fb7add468d41-Paper-Conference.pdf",
+        "utc": "2026-11-06T21:25:29.964344+00:00",
+        "http": "200",
+        "returncode": 0,
+        "error": "",
+        "bytes": 1111170,
+        "sha256": "1efbc4d91e61eb2141f36f1e1747fdd6d159d1d201978bf4741b986550226922"
+      },
+      "reused_unchanged": true
+    },
+    {
+      "id": "G",
+      "title": "AI Control: Improving Safety Despite Intentional Subversion",
+      "version": "arXiv2312.06942v3",
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/control.html",
+      "metadata_path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/manifest.json",
+      "source_capture": {
+        "file": "control.html",
+        "url": "https://arxiv.org/html/2312.06942v3",
+        "utc": "2026-11-06T21:25:03.569873+00:00",
+        "http": "200",
+        "returncode": 0,
+        "error": "",
+        "bytes": 673443,
+        "sha256": "96457a5f56a3e6619c9b0534ef762c6b1a9e932f67750f4263f2b868e6feddc9"
+      },
+      "reused_unchanged": true
+    },
+    {
+      "id": "R",
+      "title": "Detecting Multi-Agent Collusion Through Multi-Agent Interpretability",
+      "version": "arXiv2604.01151v5",
+      "path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/multi-agent-interpretability.html",
+      "metadata_path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/manifest.json",
+      "source_capture": {
+        "file": "multi-agent-interpretability.html",
+        "url": "https://arxiv.org/html/2604.01151",
+        "utc": "2026-11-06T21:26:43.128582+00:00",
+        "http": "200",
+        "returncode": 0,
+        "error": "",
+        "bytes": 889944,
+        "sha256": "775455bd4afd851230f3cdb5a6f292d05eb6e4c65d8a4904835023a87f48a29f"
+      },
+      "reused_unchanged": true
+    },
+    {
+      "id": "Z",
+      "title": "Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems",
+      "version": "arXiv2505.00212v3",
+      "path": "execution/PKG-01/DEL-01-01/Work/primary-sources/who-when.pdf",
+      "source_capture": {
+        "url": "https://arxiv.org/pdf/2505.00212v3",
+        "retrieved_utc": "2026-11-06T21:26:32.444449+00:00",
+        "returncode": 0,
+        "http_code": "200",
+        "error": "",
+        "bytes": 1463076,
+        "sha256": "1d8b788987d06a6337fd923995e3e8c0514cc0a3cb5e758cf9510f4d7cc9032c"
+      },
+      "reused_unchanged": true
+    },
+    {
+      "id": "F",
+      "title": "CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents",
+      "version": "arXiv2601.09923v3",
+      "path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/camels.html.gz",
+      "stored_sha256": "06b173dddc38fe41fec375faaa731acb34d9a2055b8aa97341953ef68366e99f",
+      "source_capture_uncompressed": {
+        "url": "https://arxiv.org/html/2601.09923",
+        "final_url": "https://arxiv.org/html/2601.09923",
+        "utc": "2026-11-06T22:16:49.556441+00:00",
+        "status": 200,
+        "sha256": "f388c17d2a023d81d7f4c70cfe174754d127e339dd74133cc4fb3956f52181cf",
+        "bytes": 961540,
+        "headers": {
+          "Connection": "close",
+          "Content-Length": "961540",
+          "last-modified": "Mon, 24 Aug 2026 19:40:13 GMT",
+          "server": "Google Frontend",
+          "content-type": "text/html; charset=utf-8",
+          "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+          "access-control-allow-origin": "*",
+          "link": "<https://arxiv.org/html/2601.09923>; rel='canonical'",
+          "x-robots-tag": "nofollow",
+          "etag": "\"CMLm87yCupYDEAE=\"",
+          "Accept-Ranges": "bytes",
+          "Age": "487193",
+          "Date": "Fri, 06 Nov 2026 22:16:49 GMT",
+          "X-Served-By": "cache-lga-kjfk8660035-LGA, cache-lga-kjfk8660035-LGA, cache-lga-kjfk8660052-LGA, cache-yyc1430029-YYC",
+          "X-Cache": "MISS, HIT, MISS",
+          "X-Timer": "S1794003410.746999,VS0,VE58"
+        }
+      },
+      "reused_unchanged": true
+    },
+    {
+      "derived_text_path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/collusion.txt",
+      "sha256": "17e7e809f1aa813fcc5518df06d2d06e08d293a8893311acb6ec3af04e01d41b",
+      "reused_unchanged": true
+    },
+    {
+      "derived_text_path": "execution/PKG-01/DEL-01-01/Work/coordination-controls/sources/multi-agent-interpretability.txt",
+      "sha256": "5ccb1bf9aac6c10044e7f7a1fb39c24b0174c9e0c74735c2e5bf9aa3cbd4f665",
+      "reused_unchanged": true
+    },
+    {
+      "derived_text_path": "execution/PKG-01/DEL-01-01/Work/primary-sources/who-when.txt",
+      "sha256": "abc2a9750f2b1d44295026ff4fb6f4a7588909d1217f902583545a4f9f056329",
+      "reused_unchanged": true
+    },
+    {
+      "derived_text_path": "execution/PKG-01/DEL-01-01/Work/pass-2/control-sources/camels.txt",
+      "sha256": "1860a7b03850ee8d9066ab3b6e552c62a624aacbe63f3692e82430554608b0ec",
+      "reused_unchanged": true
+    }
+  ],
+  "new_or_derived_files": [
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/control.txt",
+      "bytes": 168386,
+      "sha256": "056641e90709e21793fd47d1e53da0c8a39dc6210e801edc5c5725472ee7b330"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-abs.capture.json",
+      "bytes": 1061,
+      "sha256": "f9acd2139332266b6e0dc54bf203f9df34a86cafb25f2f08f9d42812922b1740"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-abs.html",
+      "bytes": 42845,
+      "sha256": "891b65b6cfe3530cc028f011bae0b6e85db6aaccceddd1e5ea6e8341f1f85f8c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-abs.txt",
+      "bytes": 8125,
+      "sha256": "4c2ead2b020739f1ff577a17ac4252669892baac94646c59056e6b1d3a0f2d0e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-api.capture.json",
+      "bytes": 147,
+      "sha256": "33902a1273fff1f92c18831263345704fdd2a49fdcb48d5a5e58e7d0267edcbf"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-arxiv.capture.json",
+      "bytes": 426,
+      "sha256": "04cb62bbf2ab5d5a5e04d98d15b36dcf344c92bd723f04566e11704c13b62022"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-arxiv.html",
+      "bytes": 49326,
+      "sha256": "8ac41a962d653f7d0e1cce2bdbe94ec58797feaef054179af5229d4e49ef0ae1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-arxiv.txt",
+      "bytes": 31257,
+      "sha256": "15f5b8d08036d4822d8edec453c9fe95b22a72ad4d83492cfb3d345c6a275e20"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-bing.capture.json",
+      "bytes": 744,
+      "sha256": "ae13c8d219bf3785d9c0bb3773a209daeef5d17a16ba17c5e989d99f047cc3c5"
+    },
+    {
+      "path": "/Users/ryan/working/hackathons/apart-Nov-26-local-evidence/reading-correction-20261106T231031Z/riedl-bing.html",
+      "bytes": 124487,
+      "sha256": "0ca65a689343eb8483526c547824f4257af061b459a3835a8fd183eb43d0e45a",
+      "original_local_path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-bing.html",
+      "retention": "outside Git; local research provenance only"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-bing.txt",
+      "bytes": 12124,
+      "sha256": "21747cdf04f485551fe6ebc2d8abccf27292b5516a190b8b3801c8423bf8e8b5"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-body.capture.json",
+      "bytes": 1045,
+      "sha256": "64ad471d798c342493604f800eb4c5e944f0727323c6e736d4d961833fd07850"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-body.html",
+      "bytes": 320187,
+      "sha256": "5ea4454a5e8118cf29dbeb412d65e501d2d41f7b014a83cfaae008f7761ee42d"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-body.txt",
+      "bytes": 99686,
+      "sha256": "7904c0e50c35334324d440c94dc559be908701c8c7abdf8ce4b828bb0ea52627"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-forum.capture.json",
+      "bytes": 1543,
+      "sha256": "5fe123ab7e672065620fdf9f26a9a1be1aa40c2034db8702433a157d2d64f7a8"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-forum.html",
+      "bytes": 4787,
+      "sha256": "e6b8d4626332b7e7fce3272d792477095a4008037dbc6c87a47dd20d933c6b60"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-forum.txt",
+      "bytes": 351,
+      "sha256": "d1ef98683a8f39e90b67b48a381dad3ccef5f2b2ba626f19bd2d48f88081899b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-iclr-list.capture.json",
+      "bytes": 309,
+      "sha256": "8cf39501fa6016c3e1e47f4a68dfd453df664429ba913b2d5468a2676066fd75"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-iclr-list.html",
+      "bytes": 758163,
+      "sha256": "877e23333c92265d910c15060faaf60010dfdf4d73e68baa4e8fe110ac9977c4"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-iclr-list.txt",
+      "bytes": 627803,
+      "sha256": "92654ef1eadf6b0cac39a66f454b44d02c98c37a83a40c822f2c80f77508a937"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-iclr.capture.json",
+      "bytes": 311,
+      "sha256": "0e98f68333fa023b67a7823e3030a05576ba2e68863125f943e37e8bd701fb9e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-iclr.html",
+      "bytes": 84069,
+      "sha256": "0027c86f7818c51bcb2a6938e1d281551c64d40475c2589f997c9d6759c8831c"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-openreview-v1.capture.json",
+      "bytes": 146,
+      "sha256": "d3adcb3ee29b9045db4fcfd93e23a0ed2fe62cec8282ba4351040fc8ac0b28d1"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-pdf.capture.json",
+      "bytes": 140,
+      "sha256": "d26b785d539355daf8048b112d2806bf25550ca71c04f7dd3de03ce26a4b47ce"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-search.capture.json",
+      "bytes": 321,
+      "sha256": "cc3d9c68d677b29576e644cc0be8e6d083ddcb688e5884e8dec8a3401041991b"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-search.html",
+      "bytes": 92944,
+      "sha256": "02efd43ce7be26f363034a73403c93b91bfc5c6be7607ab0c28ad03be931ce1e"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/riedl-search.txt",
+      "bytes": 429,
+      "sha256": "8e071fb70bb1b5be90a82af6cafe5c86d4d3241d59959075c2fc489856b9f292"
+    },
+    {
+      "path": "execution/PKG-01/DEL-01-01/Work/reading-correction/track4-completion/captures/who-when-page15.png",
+      "bytes": 360952,
+      "sha256": "89f767d821679e744c0a79a8c418b2125864a4dced0904f49341d5345b14639a"
+    }
+  ],
+  "transforms": {
+    "control.txt": "Non-executing standard-library HTMLParser: script/style omitted; block breaks and href text preserved; blank lines removed. Original control.html reused.",
+    "riedl-body.txt": "Same non-executing HTMLParser transformation of newly acquired arXiv HTML.",
+    "who-when-page15.png": "pdftoppm -f 15 -l 15 -scale-to 1800 -png -singlefile; rendered retained arXiv PDF; Figure10 read visually."
+  }
+}

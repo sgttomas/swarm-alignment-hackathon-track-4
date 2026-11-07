@@ -1,0 +1,8 @@
+{
+  "url": "https://api.openalex.org/works?search=GCkhEPE1FG&per-page=5",
+  "utc": "2026-11-06T22:18:27.944258+00:00",
+  "status": 200,
+  "final_url": "https://api.openalex.org/works?search=GCkhEPE1FG&per-page=5",
+  "bytes": 15655,
+  "sha256": "ca00d6757e305169dcca4b3d995e1f8805efbda1b4c9264b7cbfb83311e3ed05"
+}

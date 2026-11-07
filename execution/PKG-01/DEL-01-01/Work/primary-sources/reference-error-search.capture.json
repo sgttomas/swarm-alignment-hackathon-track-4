@@ -1,0 +1,6 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=all%3A%22multi-agent%22+AND+%28all%3A%22incorrect+reference%22+OR+all%3A%22faulty+evaluator%22+OR+all%3A%22abstention%22%29&max_results=10",
+  "retrieved_utc": "2026-11-06T21:28:33.636512+00:00",
+  "sha256": "cc6b8e0037e10405417aec71a4b14afa2f5674427026f417a47c25e9fa03c517",
+  "query": "all:\"multi-agent\" AND (all:\"incorrect reference\" OR all:\"faulty evaluator\" OR all:\"abstention\")"
+}

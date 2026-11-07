@@ -1,0 +1,17 @@
+{
+  "README.md": true,
+  "additional-cited-reports.csv": true,
+  "all-report-links.txt": true,
+  "all-reports.csv": true,
+  "classification-overrides.json": true,
+  "collection-summary.json": true,
+  "daily-counts.csv": true,
+  "daily-source-counts.csv": true,
+  "methods.json": true,
+  "report-sources.csv": true,
+  "reports.csv": true,
+  "search-coverage.json": true,
+  "selection-provenance.csv": true,
+  "supplement-classifications.json": true,
+  "supplement-summary.json": true
+}

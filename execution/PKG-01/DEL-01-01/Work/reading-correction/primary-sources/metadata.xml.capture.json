@@ -1,0 +1,9 @@
+{
+  "url": "https://export.arxiv.org/api/query?id_list=2502.14143,2012.08630",
+  "retrieved_utc": "2026-11-06T23:14:10.858566+00:00",
+  "http": "200",
+  "returncode": 0,
+  "error": "",
+  "bytes": 8184,
+  "sha256": "0b119268b1bd105eea314b48a994732d776ea8cbc9fe7c4fc95376444f1d1487"
+}

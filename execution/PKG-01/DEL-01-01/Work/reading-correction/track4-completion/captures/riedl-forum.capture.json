@@ -1,0 +1,31 @@
+{
+  "url": "https://openreview.net/forum?id=SRn1MtMPRq",
+  "utc": "2026-11-06T23:14:34.255025+00:00",
+  "status": 200,
+  "headers": {
+    "server": "nginx",
+    "date": "Fri, 06 Nov 2026 23:14:34 GMT",
+    "content-type": "text/html; charset=utf-8",
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; connect-src 'self' https://api2.openreview.net; img-src 'self' data:",
+    "x-robots-tag": "noindex, nofollow",
+    "via": "1.1 google, 1.1 google",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "surrogate-control": "no-store",
+    "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+    "pragma": "no-cache",
+    "expires": "0",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked"
+  },
+  "final_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DSRn1MtMPRq",
+  "file": "riedl-forum.html",
+  "bytes": 4787,
+  "sha256": "e6b8d4626332b7e7fce3272d792477095a4008037dbc6c87a47dd20d933c6b60"
+}
